@@ -11,7 +11,6 @@ library(lubridate)
 
 BASE_URL <- "https://www.allocine.fr"
 TMDB_URL <- "https://api.themoviedb.org/3"
-#TMDB_TOKEN <- "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3YjY1MTUzMzM3NDVlY2ZhN2FiODE1OTYzNGNiNjZlMiIsIm5iZiI6MTY2OTE4ODI2Ny45NjQsInN1YiI6IjYzN2RjYWFiNTliYzA3MDBjZjYwZTZlNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.YPkkDK_ci-RJWXbHwPy2FRnJj_4oVqIr5M35w7Nc7t0"
 TMDB_TOKEN <- Sys.getenv("TMDB_TOKEN")
 
 DOSSIER_ALLOCINE <- "data/allocine"
