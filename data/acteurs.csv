@@ -10,6 +10,9 @@ allocine_id,titre,annee,acteur
 240,Metropolis,1927,Brigitte Helm
 240,Metropolis,1927,Alfred Abel
 240,Metropolis,1927,Rudolf Klein-Rogge
+115,L'Aurore,1928,George O'Brien
+115,L'Aurore,1928,Janet Gaynor
+115,L'Aurore,1928,Margaret Livingstone
 7113,Les Ailes,1928,Clara Bow
 7113,Les Ailes,1928,Charles Buddy Rogers
 7113,Les Ailes,1928,Richard Arlen
@@ -55,6 +58,9 @@ allocine_id,titre,annee,acteur
 2549,L'Extravagant Mr. Deeds,1936,Gary Cooper
 2549,L'Extravagant Mr. Deeds,1936,Jean Arthur
 2549,L'Extravagant Mr. Deeds,1936,George Bancroft
+3415,La Belle équipe,1936,Jean Gabin
+3415,La Belle équipe,1936,Charles Vanel
+3415,La Belle équipe,1936,Raymond Aimos
 10994,Mon homme Godfrey,1936,William Powell
 10994,Mon homme Godfrey,1936,Carole Lombard
 10994,Mon homme Godfrey,1936,Alice Brady
@@ -82,6 +88,9 @@ allocine_id,titre,annee,acteur
 575,Hôtel du Nord,1938,Louis Jouvet
 575,Hôtel du Nord,1938,Arletty
 575,Hôtel du Nord,1938,Annabella
+30150,La Fin du jour,1939,Louis Jouvet
+30150,La Fin du jour,1939,Michel Simon
+30150,La Fin du jour,1939,Victor Francen
 1834,La Chevauchée fantastique,1939,John Wayne
 1834,La Chevauchée fantastique,1939,Claire Trevor
 1834,La Chevauchée fantastique,1939,Thomas Mitchell
@@ -94,6 +103,9 @@ allocine_id,titre,annee,acteur
 2640,Mr. Smith au Sénat,1940,Claude Rains
 2640,Mr. Smith au Sénat,1940,James Stewart
 2640,Mr. Smith au Sénat,1940,Jean Arthur
+606,Les Visiteurs du soir,1942,Arletty
+606,Les Visiteurs du soir,1942,Fernand Ledoux
+606,Les Visiteurs du soir,1942,Marie Déa
 4079,La Main du diable,1943,Pierre Fresnay
 4079,La Main du diable,1943,Noël Roquevert
 4079,La Main du diable,1943,Pierre Larquey
@@ -122,6 +134,9 @@ allocine_id,titre,annee,acteur
 857,Citizen Kane,1946,Orson Welles
 857,Citizen Kane,1946,Joseph Cotten
 857,Citizen Kane,1946,Dorothy Comingore
+1594,Qu'elle était verte ma vallée,1946,Roddy McDowall
+1594,Qu'elle était verte ma vallée,1946,Walter Pidgeon
+1594,Qu'elle était verte ma vallée,1946,Maureen O'Hara
 177450,Le Suspect,1946,Charles Laughton
 177450,Le Suspect,1946,Rosalind Ivan
 177450,Le Suspect,1946,Ella Raines
@@ -143,9 +158,15 @@ allocine_id,titre,annee,acteur
 2748,Hantise,1947,Charles Boyer
 2748,Hantise,1947,Ingrid Bergman
 2748,Hantise,1947,Joseph Cotten
+10016,Panique,1947,Michel Simon
+10016,Panique,1947,Viviane Romance
+10016,Panique,1947,Lucas Gridoux
 19314,Dix petits Indiens,1947,Roland Young
 19314,Dix petits Indiens,1947,Barry Fitzgerald
 19314,Dix petits Indiens,1947,Mischa Auer
+5238,La Poursuite infernale,1947,Henry Fonda
+5238,La Poursuite infernale,1947,Cathy Downs
+5238,La Poursuite infernale,1947,Victor Mature
 32347,La Charge fantastique,1947,Errol Flynn
 32347,La Charge fantastique,1947,Olivia de Havilland
 32347,La Charge fantastique,1947,Arthur Kennedy
@@ -260,6 +281,18 @@ allocine_id,titre,annee,acteur
 147519,Les Amants Traqués,1949,Joan Fontaine
 147519,Les Amants Traqués,1949,Burt Lancaster
 147519,Les Amants Traqués,1949,Robert Newton
+2659,Chaînes conjugales,1949,Jeanne Crain
+2659,Chaînes conjugales,1949,Linda Darnell
+2659,Chaînes conjugales,1949,Ann Sothern
+1098,Rendez-vous de juillet,1949,Daniel Gélin
+1098,Rendez-vous de juillet,1949,Brigitte Auber
+1098,Rendez-vous de juillet,1949,Nicole Courcel
+2731,Allez coucher ailleurs,1949,Cary Grant
+2731,Allez coucher ailleurs,1949,Ann Sheridan
+2731,Allez coucher ailleurs,1949,Marion Marshall
+2660,La Maison des étrangers,1950,Edward G. Robinson
+2660,La Maison des étrangers,1950,Susan Hayward
+2660,La Maison des étrangers,1950,Richard Conte
 981,La Corde,1950,James Stewart
 981,La Corde,1950,John Dall
 981,La Corde,1950,Farley Granger
@@ -377,6 +410,9 @@ allocine_id,titre,annee,acteur
 2218,Tant qu'il y aura des hommes,1954,Burt Lancaster
 2218,Tant qu'il y aura des hommes,1954,Montgomery Clift
 2218,Tant qu'il y aura des hommes,1954,Deborah Kerr
+2762,Vacances romaines,1954,Gregory Peck
+2762,Vacances romaines,1954,Audrey Hepburn
+2762,Vacances romaines,1954,Eddie Albert
 4652,L'Homme au million,1954,Gregory Peck
 4652,L'Homme au million,1954,Jane Griffiths
 4652,L'Homme au million,1954,Ronald Squire
@@ -395,6 +431,9 @@ allocine_id,titre,annee,acteur
 35955,Les Sept femmes de Barberousse,1955,Jane Powell
 35955,Les Sept femmes de Barberousse,1955,Howard Keel
 35955,Les Sept femmes de Barberousse,1955,Jeff Richards
+2550,La Comtesse aux pieds nus,1955,Ava Gardner
+2550,La Comtesse aux pieds nus,1955,Humphrey Bogart
+2550,La Comtesse aux pieds nus,1955,Edmond O'Brien
 2217,Désirs humains,1955,Glenn Ford
 2217,Désirs humains,1955,Gloria Grahame
 2217,Désirs humains,1955,Broderick Crawford
@@ -419,6 +458,9 @@ allocine_id,titre,annee,acteur
 982,Mais qui a tué Harry ?,1956,John Forsythe
 982,Mais qui a tué Harry ?,1956,Edmund Gwenn
 982,Mais qui a tué Harry ?,1956,Mildred Natwick
+3762,Voici le temps des assassins,1956,Jean Gabin
+3762,Voici le temps des assassins,1956,Danièle Delorme
+3762,Voici le temps des assassins,1956,Robert Arnoux
 4963,La Nuit du chasseur,1956,Robert Mitchum
 4963,La Nuit du chasseur,1956,Shelley Winters
 4963,La Nuit du chasseur,1956,Lillian Gish
@@ -443,6 +485,9 @@ allocine_id,titre,annee,acteur
 20196,La Traversée de Paris,1956,Jean Gabin
 20196,La Traversée de Paris,1956,Bourvil
 20196,La Traversée de Paris,1956,Louis de Funès
+16185,Guerre et paix,1956,Audrey Hepburn
+16185,Guerre et paix,1956,Henry Fonda
+16185,Guerre et paix,1956,Mel Ferrer
 61637,La Neige en deuil,1956,Spencer Tracy
 61637,La Neige en deuil,1956,Robert Wagner
 61637,La Neige en deuil,1956,Claire Trevor
@@ -467,6 +512,8 @@ allocine_id,titre,annee,acteur
 4925,Le Brigand bien-aimé,1957,Robert Wagner
 4925,Le Brigand bien-aimé,1957,Jeffrey Hunter
 4925,Le Brigand bien-aimé,1957,Hope Lange
+1574,Dieu seul le sait,1957,Robert Mitchum
+1574,Dieu seul le sait,1957,Deborah Kerr
 4131,Porte des Lilas,1957,Pierre Brasseur
 4131,Porte des Lilas,1957,Georges Brassens
 4131,Porte des Lilas,1957,Georges Aminel
@@ -512,6 +559,9 @@ allocine_id,titre,annee,acteur
 27138,Le Cauchemar de Dracula,1959,Christopher Lee
 27138,Le Cauchemar de Dracula,1959,Peter Cushing
 27138,Le Cauchemar de Dracula,1959,Michael Gough
+6240,L'Adorable voisine,1959,James Stewart
+6240,L'Adorable voisine,1959,Kim Novak
+6240,L'Adorable voisine,1959,Jack Lemmon
 3651,"Hiroshima, mon amour",1959,Bernard Fresson
 3651,"Hiroshima, mon amour",1959,Stella Dassas
 3651,"Hiroshima, mon amour",1959,Pierre Barbaud
@@ -548,6 +598,9 @@ allocine_id,titre,annee,acteur
 75222,Rocco et ses frères,1960,Alain Delon
 75222,Rocco et ses frères,1960,Annie Girardot
 75222,Rocco et ses frères,1960,Renato Salvatori
+1884,Soudain l'été dernier,1960,Elizabeth Taylor
+1884,Soudain l'été dernier,1960,Montgomery Clift
+1884,Soudain l'été dernier,1960,Katharine Hepburn
 1193,Voyage au centre de la Terre,1960,James Mason
 1193,Voyage au centre de la Terre,1960,Pat Boone
 1193,Voyage au centre de la Terre,1960,Diane Baker
@@ -566,6 +619,9 @@ allocine_id,titre,annee,acteur
 4542,Un Taxi pour Tobrouk,1961,Ellen Bahl
 4542,Un Taxi pour Tobrouk,1961,Roland Malet
 4542,Un Taxi pour Tobrouk,1961,Roland Menard
+7121,Exodus,1961,Paul Newman
+7121,Exodus,1961,Eva Marie Saint
+7121,Exodus,1961,Ralph Richardson
 5141,Les Deux Cavaliers,1961,James Stewart
 5141,Les Deux Cavaliers,1961,Richard Widmark
 5141,Les Deux Cavaliers,1961,Shirley Jones
@@ -641,6 +697,9 @@ allocine_id,titre,annee,acteur
 51105,Le Plus sauvage d'entre tous,1963,Paul Newman
 51105,Le Plus sauvage d'entre tous,1963,Melvyn Douglas
 51105,Le Plus sauvage d'entre tous,1963,Patricia Neal
+2384,Cléopâtre,1963,Rex Harrison
+2384,Cléopâtre,1963,Richard Burton
+2384,Cléopâtre,1963,Elizabeth Taylor
 42089,La Taverne de l'Irlandais,1963,John Wayne
 42089,La Taverne de l'Irlandais,1963,Lee Marvin
 42089,La Taverne de l'Irlandais,1963,Elizabeth Allen
@@ -728,6 +787,9 @@ allocine_id,titre,annee,acteur
 10565,Les Tontons farceurs,1965,Jerry Lewis
 10565,Les Tontons farceurs,1965,Donna Butterworth
 10565,Les Tontons farceurs,1965,Sebastian Cabot
+238,La Mélodie du bonheur,1966,Julie Andrews
+238,La Mélodie du bonheur,1966,Christopher Plummer
+238,La Mélodie du bonheur,1966,Richard Haydn
 51927,Solo pour une blonde,1966,Mickey Spillane
 51927,Solo pour une blonde,1966,Shirley Eaton
 51927,Solo pour une blonde,1966,Lloyd Nolan
@@ -737,6 +799,9 @@ allocine_id,titre,annee,acteur
 2147,Bunny Lake a disparu,1966,Carol Lynley
 2147,Bunny Lake a disparu,1966,Keir Dullea
 2147,Bunny Lake a disparu,1966,Martita Hunt
+1211,Masculin Féminin,1966,Jean-Pierre Léaud
+1211,Masculin Féminin,1966,Chantal Goya
+1211,Masculin Féminin,1966,Marlène Jobert
 4488,Au hasard Balthazar,1966,Anne Wiazemsky
 4488,Au hasard Balthazar,1966,Francois Lafarge
 4488,Au hasard Balthazar,1966,Philippe Asselin
@@ -755,6 +820,9 @@ allocine_id,titre,annee,acteur
 76484,Le Deuxième souffle,1966,Lino Ventura
 76484,Le Deuxième souffle,1966,Paul Meurisse
 76484,Le Deuxième souffle,1966,Michel Constantin
+4307,La Grande Vadrouille,1966,Bourvil
+4307,La Grande Vadrouille,1966,Louis de Funès
+4307,La Grande Vadrouille,1966,Claudio Brook
 3926,La Canonnière du Yang-Tse,1967,Steve McQueen
 3926,La Canonnière du Yang-Tse,1967,Candice Bergen
 3926,La Canonnière du Yang-Tse,1967,Richard Attenborough
@@ -779,6 +847,9 @@ allocine_id,titre,annee,acteur
 6911,Propriété interdite,1967,Natalie Wood
 6911,Propriété interdite,1967,Robert Redford
 6911,Propriété interdite,1967,Charles Bronson
+9196,Batman,1967,Adam West
+9196,Batman,1967,Burt Ward
+9196,Batman,1967,Cesar Romero
 45365,Les Douze salopards,1967,Rocky Taylor
 45365,Les Douze salopards,1967,Lee Marvin
 45365,Les Douze salopards,1967,Ernest Borgnine
@@ -821,6 +892,9 @@ allocine_id,titre,annee,acteur
 2163,"Je t'aime, je t'aime",1968,Claude Rich
 2163,"Je t'aime, je t'aime",1968,Olga Georges-Picot
 2163,"Je t'aime, je t'aime",1968,Anouk Ferjac
+12791,La Planète des singes,1968,Charlton Heston
+12791,La Planète des singes,1968,Roddy McDowall
+12791,La Planète des singes,1968,Kim Hunter
 5405,Les Idoles,1968,Bulle Ogier
 5405,Les Idoles,1968,Pierre Clémenti
 5405,Les Idoles,1968,Jean-Pierre Kalfon
@@ -839,12 +913,36 @@ allocine_id,titre,annee,acteur
 87855,Chronique morave,1969,Vladimir Mensik
 87855,Chronique morave,1969,Vlastimil Brodsky
 87855,Chronique morave,1969,Radoslav Brzobohaty
+178,Easy Rider,1969,Peter Fonda
+178,Easy Rider,1969,Dennis Hopper
+178,Easy Rider,1969,Jack Nicholson
+2466,Guêpier pour trois abeilles,1969,Rex Harrison
+2466,Guêpier pour trois abeilles,1969,Susan Hayward
+2466,Guêpier pour trois abeilles,1969,Cliff Robertson
 5927,Eros + Massacre,1969,Mariko Okada
 5927,Eros + Massacre,1969,Toshiyuki Hosokawa
 5927,Eros + Massacre,1969,Yoko Kusonoki
+17,Macadam Cowboy,1969,Dustin Hoffman
+17,Macadam Cowboy,1969,Jon Voight
+17,Macadam Cowboy,1969,Ruth White
 1367,More,1969,Mimsy Farmer
 1367,More,1969,Klaus Grünberg
 1367,More,1969,Michel Chanderli
+137321,L'ardoise,1970,Salvatore Adamo
+137321,L'ardoise,1970,Michel Constantin
+137321,L'ardoise,1970,Elisabeth Wiener
+401,Charles mort ou vif,1970,François Simon
+401,Charles mort ou vif,1970,Marcel Robert
+401,Charles mort ou vif,1970,Marie-Claire Dufour
+1133,La Nuit des morts-vivants,1970,Duane Jones
+1133,La Nuit des morts-vivants,1970,Judith O'Dea
+1133,La Nuit des morts-vivants,1970,Karl Hardman
+18416,Fantômes a l'italienne,1970,Sophia Loren
+18416,Fantômes a l'italienne,1970,Vittorio Gassman
+18416,Fantômes a l'italienne,1970,Mario Adorf
+512,Médée,1970,Maria Callas
+512,Médée,1970,Massimo Girotti
+512,Médée,1970,Guiseppe Gentile
 56,Aladin et la lampe merveilleuse,1970,Gaston Guez
 56,Aladin et la lampe merveilleuse,1970,Claire Guibert
 56,Aladin et la lampe merveilleuse,1970,René Hiéronimus
@@ -854,39 +952,264 @@ allocine_id,titre,annee,acteur
 559,Butch Cassidy et le Kid,1970,Paul Newman
 559,Butch Cassidy et le Kid,1970,Robert Redford
 559,Butch Cassidy et le Kid,1970,Katharine Ross
+44032,100 dollars pour un shérif,1970,John Wayne
+44032,100 dollars pour un shérif,1970,Glen Campbell
+44032,100 dollars pour un shérif,1970,Kim Darby
+3038,Promenade avec l'amour et la mort,1970,Assi Dayan
+3038,Promenade avec l'amour et la mort,1970,Anjelica Huston
+3038,Promenade avec l'amour et la mort,1970,Michael Gough
 6105,La Horse,1970,Jean Gabin
 6105,La Horse,1970,Danièle Ajoret
 6105,La Horse,1970,Michel Barbey
+29716,L'Enfant sauvage,1970,Jean-Pierre Cargol
+29716,L'Enfant sauvage,1970,François Truffaut
+29716,L'Enfant sauvage,1970,Jean Dasté
+4599,Le Boucher,1970,Stéphane Audran
+4599,Le Boucher,1970,Jean Yanne
+4599,Le Boucher,1970,Antonio Passalia
+18083,Alice's Restaurant,1970,Arlo Guthrie
+18083,Alice's Restaurant,1970,Patricia Queen
+18083,Alice's Restaurant,1970,James Broderick
+7573,Solo,1970,Jean-Pierre Mocky
+7573,Solo,1970,Denis Le Guillou
+7573,Solo,1970,Anne Deleuze
+38383,Borsalino,1970,Jean-Paul Belmondo
+38383,Borsalino,1970,Alain Delon
+38383,Borsalino,1970,André Bollet
+46736,Les Caprices de Marie,1970,Philippe Noiret
+46736,Les Caprices de Marie,1970,Bert Convy
+46736,Les Caprices de Marie,1970,Valentina Cortese
+182272,Carmen Baby,1970,Uta Levka
+182272,Carmen Baby,1970,Claus Ringer
+182272,Carmen Baby,1970,Carl Möhner
+3005,Dillinger est mort,1970,Michel Piccoli
+3005,Dillinger est mort,1970,Anita Pallenberg
+3005,Dillinger est mort,1970,Annie Girardot
+118827,Deux salopards en enfer,1970,George Hilton
+118827,Deux salopards en enfer,1970,Klaus Kinski
+118827,Deux salopards en enfer,1970,Ray Saunders
+5442,Les Choses de la vie,1970,Michel Piccoli
+5442,Les Choses de la vie,1970,Romy Schneider
+5442,Les Choses de la vie,1970,Lea Massari
+66974,Objectif vérité,1970,Robert Forster
+66974,Objectif vérité,1970,Verna Bloom
+66974,Objectif vérité,1970,Peter Bonerz
+1419,Zabriskie Point,1970,Mark Frechette
+1419,Zabriskie Point,1970,Daria Halprin
+1419,Zabriskie Point,1970,Rod Taylor
+8202,La Kermesse de l'Ouest,1970,Lee Marvin
+8202,La Kermesse de l'Ouest,1970,Clint Eastwood
+8202,La Kermesse de l'Ouest,1970,Jean Seberg
 3067,L'Eden et après,1970,Catherine Jourdan
 3067,L'Eden et après,1970,Pierre Zimmer
 3067,L'Eden et après,1970,Richard Leduc
+14373,Le Désirable et le sublime,1970,Ludia Lorenz
+5578,L’aveu,1970,Yves Montand
+5578,L’aveu,1970,Simone Signoret
+5578,L’aveu,1970,Michel Vitold
+1267,Tristana,1970,Catherine Deneuve
+1267,Tristana,1970,Franco Nero
+1267,Tristana,1970,Fernando Rey
+2654,La Lettre du Kremlin,1970,Richard Boone
+2654,La Lettre du Kremlin,1970,Dean Jagger (I)
+2654,La Lettre du Kremlin,1970,Lila Kedrova
+146007,Israel Sabra,1970,Akim Tamiroff
+146007,Israel Sabra,1970,Assi Dayan
+146007,Israel Sabra,1970,Jean Claudio
 4551,Kes,1970,David Bradley (II)
 4551,Kes,1970,Colin Welland
 4551,Kes,1970,Freddie Fletcher
+10053,M.A.S.H.,1970,Donald Sutherland
+10053,M.A.S.H.,1970,Elliott Gould
+10053,M.A.S.H.,1970,Tom Skerritt
 1134,L'Arrangement,1970,Kirk Douglas
 1134,L'Arrangement,1970,Faye Dunaway
 1134,L'Arrangement,1970,Deborah Kerr
+58909,Cinq hommes armés,1970,Peter Graves
+58909,Cinq hommes armés,1970,Bud Spencer
+58909,Cinq hommes armés,1970,James Daly
+37416,Le Secret de la planète des singes,1970,James Franciscus
+37416,Le Secret de la planète des singes,1970,Kim Hunter
+37416,Le Secret de la planète des singes,1970,Maurice Evans
+133519,La Peau de Torpédo,1970,Stéphane Audran
+133519,La Peau de Torpédo,1970,Klaus Kinski
+133519,La Peau de Torpédo,1970,Lilli Palmer
+185729,Deux fois traître,1970,Klaus Kinski
+185729,Deux fois traître,1970,Antonio Sabato
+185729,Deux fois traître,1970,Cristina Galbó
 2668,Macunaïma,1970,Grande Otelo
 2668,Macunaïma,1970,Paulo José
 2668,Macunaïma,1970,Jardel Filho
+48785,L'Amour,1970,Micha Bayard
+48785,L'Amour,1970,Josep Maria Flotats
+48785,L'Amour,1970,Martine Brochard
+46128,"Disons, un soir à dîner",1970,Jean-Louis Trintignant
+46128,"Disons, un soir à dîner",1970,Lino Capolicchio
+46128,"Disons, un soir à dîner",1970,Annie Girardot
+1000044852,Les Vierges folichonnes,1970,Sieghardt Rupp
+1000044852,Les Vierges folichonnes,1970,Michaela May
+1000044852,Les Vierges folichonnes,1970,Angelica Ott
+33913,Dernier domicile connu,1970,Lino Ventura
+33913,Dernier domicile connu,1970,Marlène Jobert
+33913,Dernier domicile connu,1970,Michel Constantin
+28117,Les Bas-fonds de Londres,1970,Tommy Steele
+28117,Les Bas-fonds de Londres,1970,Fiona Lewis
+28117,Les Bas-fonds de Londres,1970,Sue Lloyd
+291128,Vertige pour un tueur,1970,Marcel Bozzuffi
+291128,Vertige pour un tueur,1970,Sylva Koscina
+291128,Vertige pour un tueur,1970,Marc Cassot
+111982,Sentence de mort,1970,Robin Clarke (I)
+111982,Sentence de mort,1970,Tomas Milian
+111982,Sentence de mort,1970,Richard Conte
+63969,Les Sentiers de la violence,1970,Kyle Johnson
+63969,Les Sentiers de la violence,1970,Alex Clarke
+63969,Les Sentiers de la violence,1970,Estelle Evans
+129719,Charro!,1970,Elvis Presley
+129719,Charro!,1970,Ina Balin
+129719,Charro!,1970,Victor French
+45045,Chisum,1970,John Wayne
+45045,Chisum,1970,Forrest Tucker
+45045,Chisum,1970,Glenn Corbett
+111848,Pistolets pour un Massacre,1970,Peter Lee Lawrence
+111848,Pistolets pour un Massacre,1970,John Ireland
+111848,Pistolets pour un Massacre,1970,Gloria Osuna
+116229,La Bataille de la Neretva,1970,Yul Brynner
+116229,La Bataille de la Neretva,1970,Hardy Krüger
+116229,La Bataille de la Neretva,1970,Franco Nero
+10912,Perversion Story,1970,Jean Sorel
+10912,Perversion Story,1970,Marisa Mell
+10912,Perversion Story,1970,Elsa Martinelli
+7621,La Rupture,1970,Stéphane Audran
+7621,La Rupture,1970,Jean-Pierre Cassel
+7621,La Rupture,1970,Jean-Claude Drouot
+49512,Anne des mille jours,1970,Richard Burton
+49512,Anne des mille jours,1970,Geneviève Bujold
+49512,Anne des mille jours,1970,Irène Papas
+55701,La Modification,1970,Maurice Ronet
+55701,La Modification,1970,Emmanuelle Riva
+55701,La Modification,1970,Sylva Koscina
+50979,La Maison des Bories,1970,Marie Dubois
+50979,La Maison des Bories,1970,Maurice Garrel
+50979,La Maison des Bories,1970,Mathieu Carrière
+56423,Cannabis,1970,Serge Gainsbourg
+56423,Cannabis,1970,Jane Birkin
+56423,Cannabis,1970,Curd Jürgens
+128472,Guns of Diablo,1970,Charles Bronson
+128472,Guns of Diablo,1970,Susan Oliver
+128472,Guns of Diablo,1970,Kurt Russell
+108611,The Bliss of Mrs. Blossom,1970,William Rushton
+108611,The Bliss of Mrs. Blossom,1970,Patricia Routledge
+108611,The Bliss of Mrs. Blossom,1970,John Bluthal
+204652,"Trois salopards, une poignée d'or",1970,George Hilton
+204652,"Trois salopards, une poignée d'or",1970,Walter Barnes
+204652,"Trois salopards, une poignée d'or",1970,Jack Betts
+3611,Camarades,1970,Jean-Paul Giquel
+3611,Camarades,1970,Juliet Berto
+3611,Camarades,1970,Dominique Labourier
+1240,Domicile conjugal,1970,Jean-Pierre Léaud
+1240,Domicile conjugal,1970,Claude Jade
+1240,Domicile conjugal,1970,Mademoiselle Hiroko
+38817,Un homme nommé cheval,1970,Richard Harris
+38817,Un homme nommé cheval,1970,Judith Anderson
+38817,Un homme nommé cheval,1970,Jean Gascon
+134708,A l'aube du cinquième jour,1970,Richard Johnson
+134708,A l'aube du cinquième jour,1970,Franco Nero
+134708,A l'aube du cinquième jour,1970,Larry Aubrey
 1277,Le Reptile,1970,Kirk Douglas
 1277,Le Reptile,1970,Henry Fonda
 1277,Le Reptile,1970,John Randolph
+45909,Dodes'ka-den,1970,Yoshitaka Zushi
+45909,Dodes'ka-den,1970,Kin Sugai
+45909,Dodes'ka-den,1970,Shinsuke Minami
+6629,Cromwell,1970,Richard Harris
+6629,Cromwell,1970,Alec Guinness
+6629,Cromwell,1970,Robert Morley
+12611,Ostie,1970,Franco Citti
+12611,Ostie,1970,Laurent Terzieff
+12611,Ostie,1970,Ninetto Davoli
+89957,La Bataille d'Alger,1970,Jean Martin
+89957,La Bataille d'Alger,1970,Yacef Saadi
+89957,La Bataille d'Alger,1970,Brahim Hadjadj
+6050,La faute de l'abbé Mouret,1970,Francis Huster
+6050,La faute de l'abbé Mouret,1970,Margo Lion
+6050,La faute de l'abbé Mouret,1970,André Lacombe
+51435,Le Mur de l'Atlantique,1970,Bourvil
+51435,Le Mur de l'Atlantique,1970,Peter McEnery
+51435,Le Mur de l'Atlantique,1970,Sophie Desmarets
 3591,Enquête sur un citoyen au-dessus de tout soupçon,1970,Gian Maria Volontè
 3591,Enquête sur un citoyen au-dessus de tout soupçon,1970,Florinda Bolkan
 3591,Enquête sur un citoyen au-dessus de tout soupçon,1970,Massimo Foschi
+2358,Le Cercle Rouge,1970,Alain Delon
+2358,Le Cercle Rouge,1970,Bourvil
+2358,Le Cercle Rouge,1970,Gian Maria Volontè
+6398,Les Gens de la pluie,1970,James Caan
+6398,Les Gens de la pluie,1970,Shirley Knight
+6398,Les Gens de la pluie,1970,Robert Duvall
+16682,La Dame dans l'auto avec des lunettes et un fusil,1970,Samantha Eggar
+16682,La Dame dans l'auto avec des lunettes et un fusil,1970,Oliver Reed
+16682,La Dame dans l'auto avec des lunettes et un fusil,1970,Stéphane Audran
+37097,Le gendarme en balade,1970,Louis de Funès
+37097,Le gendarme en balade,1970,Michel Galabru
+37097,Le gendarme en balade,1970,Claude Gensac
+8091,E Dio disse a Caino...,1970,Klaus Kinski
+8091,E Dio disse a Caino...,1970,Marcella Michelangeli
+8091,E Dio disse a Caino...,1970,Peter Carsten
+75661,La Fille de Ryan,1970,Robert Mitchum
+75661,La Fille de Ryan,1970,Trevor Howard
+75661,La Fille de Ryan,1970,Christopher Jones
+2306,Remparts d'Argile,1970,Leila Shenna
+2306,Remparts d'Argile,1970,Kricheche
+94254,Le Genou de Claire,1970,Jean-Claude Brialy
+94254,Le Genou de Claire,1970,Laurence de Monaghan
+94254,Le Genou de Claire,1970,Aurora Cornu
+40870,Le voyou,1970,Jean-Louis Trintignant
+40870,Le voyou,1970,Christine Lelouch
+40870,Le voyou,1970,Charles Gérard
 28147,Bloody Mama,1970,Shelley Winters
 28147,Bloody Mama,1970,Pat Hingle
 28147,Bloody Mama,1970,Don Stroud
+283085,"Un homme, un cheval et un pistolet",1970,Tony Anthony
+283085,"Un homme, un cheval et un pistolet",1970,Daniele Vargas
+283085,"Un homme, un cheval et un pistolet",1970,Ettore Manni
+225639,Exécutions,1970,Franco Nero
+225639,Exécutions,1970,Florinda Bolkan
+225639,Exécutions,1970,Adolfo Celi
+25732,Tue et fais ta priere,1970,Lou Castel
+25732,Tue et fais ta priere,1970,Pier Paolo Pasolini
+25732,Tue et fais ta priere,1970,Mark Damon
+49340,Le Distrait,1970,Pierre Richard
+49340,Le Distrait,1970,Marie-Christine Barrault
+49340,Le Distrait,1970,Maria Pacôme
+311731,Les Sorcières du bord du lac,1970,Haydee Politoff
+311731,Les Sorcières du bord du lac,1970,Silvia Monti
+311731,Les Sorcières du bord du lac,1970,Ida Galli
 2463,Peau d'âne,1970,Catherine Deneuve
 2463,Peau d'âne,1970,Delphine Seyrig
 2463,Peau d'âne,1970,Jacques Perrin
+53899,De la part des copains,1970,Charles Bronson
+53899,De la part des copains,1970,Liv Ullmann
+53899,De la part des copains,1970,James Mason
+133124,Michel Strogoff,1970,John Phillip Law
+133124,Michel Strogoff,1970,Mimsy Farmer
+133124,Michel Strogoff,1970,Hiram Keller
+3088,Le Jardin des délices,1971,Luchy Soto
+3088,Le Jardin des délices,1971,Francisco Pierra
+3088,Le Jardin des délices,1971,Geraldine Chaplin
 42142,Love Story,1971,Ali MacGraw
 42142,Love Story,1971,Ryan O'Neal
 42142,Love Story,1971,Ray Milland
+1352,Little Big Man,1971,Dustin Hoffman
+1352,Little Big Man,1971,Faye Dunaway
+1352,Little Big Man,1971,Martin Balsam
+4892,Cinq pièces faciles,1971,Jack Nicholson
+4892,Cinq pièces faciles,1971,Karen Black
+4892,Cinq pièces faciles,1971,Billy Green Bush
 45275,Taking Off,1971,Lynn Carlin
 45275,Taking Off,1971,Buck Henry
 45275,Taking Off,1971,Georgia Engel
+2159,"Vas-y, fonce",1971,Karen Black
+2159,"Vas-y, fonce",1971,William Tepper
+2159,"Vas-y, fonce",1971,Michael Margotta
 5368,Sacco et Vanzetti,1971,Gian Maria Volontè
 5368,Sacco et Vanzetti,1971,Riccardo Cucciolla
 5368,Sacco et Vanzetti,1971,Cyril Cusack
@@ -917,6 +1240,12 @@ allocine_id,titre,annee,acteur
 398,Il était une fois la révolution,1972,James Coburn
 398,Il était une fois la révolution,1972,Rod Steiger
 398,Il était une fois la révolution,1972,Romolo Valli
+1346,Le Convoi sauvage,1972,Sheila Raynor
+1346,Le Convoi sauvage,1972,John Huston
+1346,Le Convoi sauvage,1972,Richard Harris
+34419,La Dernière séance,1972,Timothy Bottoms
+34419,La Dernière séance,1972,Jeff Bridges
+34419,La Dernière séance,1972,Cybill Shepherd
 27065,Abattoir 5,1972,Sharon Gans
 27065,Abattoir 5,1972,Sorrell Booke
 27065,Abattoir 5,1972,Michael Sacks
@@ -993,12 +1322,18 @@ allocine_id,titre,annee,acteur
 37036,Serpico,1974,Al Pacino
 37036,Serpico,1974,John Randolph
 37036,Serpico,1974,Jack Kehoe
+1189,La Dernière Corvée,1974,Jack Nicholson
+1189,La Dernière Corvée,1974,Otis Young
+1189,La Dernière Corvée,1974,Randy Quaid
 36133,Sugarland express,1974,Goldie Hawn
 36133,Sugarland express,1974,William Atherton
 36133,Sugarland express,1974,Michael Sacks
 34451,Le Canardeur,1974,Clint Eastwood
 34451,Le Canardeur,1974,Jeff Bridges
 34451,Le Canardeur,1974,Geoffrey Lewis
+1542,Céline et Julie vont en bateau,1974,Juliet Berto
+1542,Céline et Julie vont en bateau,1974,Dominique Labourier
+1542,Céline et Julie vont en bateau,1974,Bulle Ogier
 2604,Chinatown,1974,Jack Nicholson
 2604,Chinatown,1974,Faye Dunaway
 2604,Chinatown,1974,John Huston
@@ -1014,6 +1349,9 @@ allocine_id,titre,annee,acteur
 1349,À cause d'un assassinat,1975,Warren Beatty
 1349,À cause d'un assassinat,1975,Paula Prentiss
 1349,À cause d'un assassinat,1975,William Daniels
+32218,Une Anglaise romantique,1975,Glenda Jackson
+32218,Une Anglaise romantique,1975,Michael Caine
+32218,Une Anglaise romantique,1975,Helmut Berger
 47315,Alice n'est plus ici,1975,Ellen Burstyn
 47315,Alice n'est plus ici,1975,Kris Kristofferson
 47315,Alice n'est plus ici,1975,Harvey Keitel
@@ -1041,9 +1379,18 @@ allocine_id,titre,annee,acteur
 4723,Le Plein de super,1976,Nathalie Baye
 4723,Le Plein de super,1976,Patrick Bouchitey
 4723,Le Plein de super,1976,Etienne Chicot
+313,The Rocky Horror Picture Show,1976,Tim Curry
+313,The Rocky Horror Picture Show,1976,Susan Sarandon
+313,The Rocky Horror Picture Show,1976,Barry Bostwick
+2612,The King of Marvin Gardens,1976,Charles Lavine
+2612,The King of Marvin Gardens,1976,Jack Nicholson
+2612,The King of Marvin Gardens,1976,Bruce Dern
 236,Mean Streets,1976,Robert De Niro
 236,Mean Streets,1976,Harvey Keitel
 236,Mean Streets,1976,David Proval
+308,Taxi Driver,1976,Robert De Niro
+308,Taxi Driver,1976,Jodie Foster
+308,Taxi Driver,1976,Harvey Keitel
 56457,Lucia et les Gouapes,1976,Claudia Cardinale
 56457,Lucia et les Gouapes,1976,Franco Nero
 56457,Lucia et les Gouapes,1976,Fabio Testi
@@ -1107,18 +1454,27 @@ allocine_id,titre,annee,acteur
 1336,Flammes,1978,Caroline Loeb
 1336,Flammes,1978,Xavier Grandes
 1336,Flammes,1978,Marilu Marini
+574,Un mariage,1978,Carol Burnett
+574,Un mariage,1978,Geraldine Chaplin
+574,Un mariage,1978,Mia Farrow
 2972,Blue Collar,1978,Richard Pryor
 2972,Blue Collar,1978,Harvey Keitel
 2972,Blue Collar,1978,Yaphet Kotto
 28078,Le Cri du sorcier,1978,Alan Bates
 28078,Le Cri du sorcier,1978,Susannah York
 28078,Le Cri du sorcier,1978,John Hurt
+18404,Coup de tête,1979,Patrick Dewaere
+18404,Coup de tête,1979,France Dougnac
+18404,Coup de tête,1979,Jean Bouise
 46998,Ces garçons qui venaient du Brésil,1979,Jeremy Blackman
 46998,Ces garçons qui venaient du Brésil,1979,Sky du Mont
 46998,Ces garçons qui venaient du Brésil,1979,Linda Hayden
 6548,Norma Rae,1979,Sally Field
 6548,Norma Rae,1979,Beau Bridges
 6548,Norma Rae,1979,Ron Leibman
+8145,La Colline a des yeux,1979,Susan Lanier
+8145,La Colline a des yeux,1979,Robert Houston
+8145,La Colline a des yeux,1979,Martin Speer
 62,"Alien, le huitième passager",1979,Sigourney Weaver
 62,"Alien, le huitième passager",1979,Tom Skerritt
 62,"Alien, le huitième passager",1979,Veronica Cartwright
@@ -17813,6 +18169,9 @@ allocine_id,titre,annee,acteur
 34535,Autour de Lucy,2002,Anthony LaPaglia
 47022,Meisje,2002,Els Dottermans
 47022,Meisje,2002,Frieda Pittoors
+887,Rivière sans retour,2002,Robert Mitchum
+887,Rivière sans retour,2002,Marilyn Monroe
+887,Rivière sans retour,2002,Rory Calhoun
 135957,Notes sur le rire,2002,Thomas Jouannet
 135957,Notes sur le rire,2002,Elodie Frenck
 135957,Notes sur le rire,2002,Raymond Pellegrin
@@ -19942,6 +20301,9 @@ allocine_id,titre,annee,acteur
 55344,Paul s'en va,2004,Madeleine Piguet
 55344,Paul s'en va,2004,Julien Tsongas
 55344,Paul s'en va,2004,Lucie Zelger
+6472,Point limite zéro,2004,Barry Newman
+6472,Point limite zéro,2004,Cleavon Little
+6472,Point limite zéro,2004,Dean Jagger (I)
 51366,Les 11 commandements,2004,Michaël Youn
 51366,Les 11 commandements,2004,Vincent Desagnat
 51366,Les 11 commandements,2004,Benjamin Morgaine
@@ -23426,6 +23788,9 @@ allocine_id,titre,annee,acteur
 109916,A la recherche de Kafka,2006,Albert Delpy
 109916,A la recherche de Kafka,2006,Tom Novembre
 109916,A la recherche de Kafka,2006,José Luis Aguirre
+1312,L'Héritière,2006,Olivia de Havilland
+1312,L'Héritière,2006,Montgomery Clift
+1312,L'Héritière,2006,Ralph Richardson
 60027,L'Ivresse du pouvoir,2006,Isabelle Huppert
 60027,L'Ivresse du pouvoir,2006,François Berléand
 60027,L'Ivresse du pouvoir,2006,Patrick Bruel
@@ -25104,6 +25469,9 @@ allocine_id,titre,annee,acteur
 75790,Saimir,2007,Mishel Manoku
 75790,Saimir,2007,Xhevdet Ferri
 75790,Saimir,2007,Lavinia Guglielman
+1655,Mouchette,2007,Marie Cardinal
+1655,Mouchette,2007,Paul Hebert
+1655,Mouchette,2007,Jean Vimenet
 59275,L'Illusionniste,2007,Edward Norton
 59275,L'Illusionniste,2007,Paul Giamatti
 59275,L'Illusionniste,2007,Jessica Biel
@@ -31304,6 +31672,9 @@ allocine_id,titre,annee,acteur
 181405,Question de coeur,2010,Kim Rossi Stuart
 181405,Question de coeur,2010,Antonio Albanese
 181405,Question de coeur,2010,Micaela Ramazzotti
+672,On achève bien les chevaux,2010,Jane Fonda
+672,On achève bien les chevaux,2010,Michael Sarrazin
+672,On achève bien les chevaux,2010,Susannah York
 126123,Toy Story 3,2010,Jean-Philippe Puymartin
 126123,Toy Story 3,2010,Tom Hanks
 126123,Toy Story 3,2010,Richard Darbois
@@ -31313,9 +31684,6 @@ allocine_id,titre,annee,acteur
 142987,Predators,2010,Adrien Brody
 142987,Predators,2010,Alice Braga
 142987,Predators,2010,Topher Grace
-672,On achève bien les chevaux,2010,Jane Fonda
-672,On achève bien les chevaux,2010,Michael Sarrazin
-672,On achève bien les chevaux,2010,Susannah York
 146711,L'Italien,2010,Kad Merad
 146711,L'Italien,2010,Valérie Benguigui
 146711,L'Italien,2010,Roland Giraud
@@ -34736,6 +35104,9 @@ allocine_id,titre,annee,acteur
 203882,Réfutations I,2012,Jeanne Balibar
 203882,Réfutations I,2012,Monique Chemillier-Gendreau
 203882,Réfutations I,2012,Eric Fassin
+2083,Rebelote,2012,Jean-Pierre Léaud
+2083,Rebelote,2012,Olga Georges-Picot
+2083,Rebelote,2012,Christophe Bazzini
 182075,Nouveau Départ,2012,Matt Damon
 182075,Nouveau Départ,2012,Scarlett Johansson
 182075,Nouveau Départ,2012,Thomas Haden Church
@@ -39303,6 +39674,9 @@ allocine_id,titre,annee,acteur
 218061,Ton absence,2014,Kim Rossi Stuart
 218061,Ton absence,2014,Micaela Ramazzotti
 218061,Ton absence,2014,Martina Gedeck
+31297,Le Sorgho rouge,2014,Gong Li
+31297,Le Sorgho rouge,2014,Jiang Wen
+31297,Le Sorgho rouge,2014,Rujun Ten
 185030,Edge Of Tomorrow,2014,Tom Cruise
 185030,Edge Of Tomorrow,2014,Emily Blunt
 185030,Edge Of Tomorrow,2014,Bill Paxton
@@ -42026,6 +42400,9 @@ allocine_id,titre,annee,acteur
 225456,Le Grand Tout,2015,Hélène Seuzaret
 225456,Le Grand Tout,2015,Benjamin Boyer
 240100,Les Chemins Arides,2015,Arnaud Khayadjanian
+122542,Midi minuit,2015,Patrick Jouané
+122542,Midi minuit,2015,Béatrice Arnac
+122542,Midi minuit,2015,Daniel Emilfork
 227333,Knock Knock,2015,Keanu Reeves
 227333,Knock Knock,2015,Lorenza Izzo
 227333,Knock Knock,2015,Ana de Armas
@@ -42888,18 +43265,2200 @@ allocine_id,titre,annee,acteur
 241586,Rhapsodie - Les Deux Pigeons (Arts Alliance),2016,Lauren Cuthbertson
 241586,Rhapsodie - Les Deux Pigeons (Arts Alliance),2016,Vadim Muntagirov
 241586,Rhapsodie - Les Deux Pigeons (Arts Alliance),2016,Natalia Osipova
+222271,Spotlight,2016,Michael Keaton
+222271,Spotlight,2016,Mark Ruffalo
+222271,Spotlight,2016,Rachel McAdams
+235589,Les Délices de Tokyo,2016,Kiki Kirin
+235589,Les Délices de Tokyo,2016,Masatoshi Nagase
+235589,Les Délices de Tokyo,2016,Kyara Uchida
+213641,Tout en haut du monde,2016,Christa Théret
+213641,Tout en haut du monde,2016,Féodor Atkine
+213641,Tout en haut du monde,2016,Thomas Sagols
+204646,La 5ème vague,2016,Chloë Grace Moretz
+204646,La 5ème vague,2016,Nick Robinson
+204646,La 5ème vague,2016,Alex Roe
+231779,"Les Premiers, les Derniers",2016,Albert Dupontel
+231779,"Les Premiers, les Derniers",2016,Bouli Lanners
+231779,"Les Premiers, les Derniers",2016,Suzanne Clément
+234319,Encore Heureux,2016,Sandrine Kiberlain
+234319,Encore Heureux,2016,Edouard Baer
+234319,Encore Heureux,2016,Anna Gaylor
+235019,The Boy,2016,Lauren Cohan
+235019,The Boy,2016,Rupert Evans
+235019,The Boy,2016,Ben Robson
+230007,Experimenter,2016,Peter Sarsgaard
+230007,Experimenter,2016,Winona Ryder
+230007,Experimenter,2016,Jim Gaffigan
+207923,Jane Got A Gun,2016,Natalie Portman
+207923,Jane Got A Gun,2016,Joel Edgerton
+207923,Jane Got A Gun,2016,Ewan McGregor
+230571,Les Filles au Moyen Âge,2016,Chann Aglat
+230571,Les Filles au Moyen Âge,2016,Léana Doucet
+230571,Les Filles au Moyen Âge,2016,Malonn Lévana
+234150,45 ans,2016,Charlotte Rampling
+234150,45 ans,2016,Tom Courtenay
+234150,45 ans,2016,Geraldine James
+228541,Les Saisons,2016,Elena Anaya
+226648,Koan de Printemps,2016,Jim-Adhi Limas
+226648,Koan de Printemps,2016,Chiu Fang-Hsuang
+226648,Koan de Printemps,2016,Tapa Sudana
+38890,Mysterious object at noon,2016,Kome Kongkiat Komesiri
+38890,Mysterious object at noon,2016,Saisiri Xoomsai
+38890,Mysterious object at noon,2016,Somsri Pinyopol
+239755,Le Chanteur,2016,Thomas Polly
+239755,Le Chanteur,2016,Thérèse Lanfranca
+239755,Le Chanteur,2016,Annie Alba
+42796,Scandale à Paris,2016,George Sanders
+42796,Scandale à Paris,2016,Signe Hasso
+42796,Scandale à Paris,2016,Alma Kruger
+244392,Dernier Round,2016,Madhavan
+244392,Dernier Round,2016,Ritika Singh
+244392,Dernier Round,2016,Nasser M
+244566,Aranmanai 2,2016,Siddharth
+244566,Aranmanai 2,2016,Hansika Motwani
+244566,Aranmanai 2,2016,Sundar C.
+197379,Point Break,2016,Édgar Ramírez
+197379,Point Break,2016,Luke Bracey
+197379,Point Break,2016,Ray Winstone
+207616,Steve Jobs,2016,Michael Fassbender
+207616,Steve Jobs,2016,Kate Winslet
+207616,Steve Jobs,2016,Seth Rogen
+191193,Dirty Papy,2016,Robert De Niro
+191193,Dirty Papy,2016,Zac Efron
+191193,Dirty Papy,2016,Aubrey Plaza
+217656,Chocolat,2016,Omar Sy
+217656,Chocolat,2016,James Thiérrée
+217656,Chocolat,2016,Thibault de Montalembert
+228533,Dofus - Livre 1 : Julith,2016,Sauvane Delanoe
+228533,Dofus - Livre 1 : Julith,2016,Emmanuel Gradi
+228533,Dofus - Livre 1 : Julith,2016,Laetitia Lefebvre
+231178,Les Tuche 2 - Le rêve américain,2016,Jean-Paul Rouve
+231178,Les Tuche 2 - Le rêve américain,2016,Isabelle Nanty
+231178,Les Tuche 2 - Le rêve américain,2016,Claire Nadeau
+230611,Mad Love in New York,2016,Arielle Holmes
+230611,Mad Love in New York,2016,Caleb Landry Jones
+230611,Mad Love in New York,2016,Eleonore Hendricks
+223076,Anomalisa,2016,David Thewlis
+223076,Anomalisa,2016,Jennifer Jason Leigh
+223076,Anomalisa,2016,Tom Noonan
+222165,Alvin et les Chipmunks - A fond la caisse,2016,Jason Lee
+222165,Alvin et les Chipmunks - A fond la caisse,2016,Kimberly Williams-Paisley
+222165,Alvin et les Chipmunks - A fond la caisse,2016,Josh Green (III)
+41785,Une Aussi longue absence,2016,Alida Valli
+41785,Une Aussi longue absence,2016,Georges Wilson
+41785,Une Aussi longue absence,2016,Charles Blavette
+228464,Faire l'Amour,2016,Maha
+228464,Faire l'Amour,2016,Laurette Lalande
+228464,Faire l'Amour,2016,Despo Rutti Azu
+234315,Préjudice,2016,Nathalie Baye
+234315,Préjudice,2016,Arno Hintjens
+234315,Préjudice,2016,Thomas Blanchard
+235872,La Marcheuse,2016,Qiu Lan
+235872,La Marcheuse,2016,Yannick Choirat
+235872,La Marcheuse,2016,Louise Chen
+237269,La Terre et l'ombre,2016,Haimer Leal
+237269,La Terre et l'ombre,2016,Hilda Ruiz
+237269,La Terre et l'ombre,2016,Edison Raigosa
+241071,Gon' (Alice),2016,Mélanie Lacroix
+241071,Gon' (Alice),2016,Mathilde Ziegler-Mauguin
+241071,Gon' (Alice),2016,Julien Cosquéric
+216311,Le Temps des rêves,2016,Merlin Rose
+216311,Le Temps des rêves,2016,Julius Nitschkoff
+216311,Le Temps des rêves,2016,Joel Basman
+226388,Happily Ever After,2016,Tatjana Božić
+234104,Mini et les voleurs de miel,2016,Jacob Alwan Salling
+234104,Mini et les voleurs de miel,2016,Mona Alenius Kaniewski
+234104,Mini et les voleurs de miel,2016,Fabian August Harlang
+241072,VWaR,2016,Julien Cosquéric
+241072,VWaR,2016,Delphine Sartiaux
+241072,VWaR,2016,Patrick Boucher
+241073,With Out,2016,Julien Cosquéric
+241073,With Out,2016,Delphine Sartiaux
+241073,With Out,2016,Patrick Boucher
+241588,La Traviata (Arts Alliance),2016,Venera Gimadieva
+241588,La Traviata (Arts Alliance),2016,Saimir Pirgu
+241588,La Traviata (Arts Alliance),2016,Luca Salsi
+244827,Bangalore Naatkal,2016,Arya
+244827,Bangalore Naatkal,2016,Rana Daggubati
+244827,Bangalore Naatkal,2016,Samantha Ruth Prabhu
+241614,Goya: Visions of Flesh and Blood,2016,Goya
+241614,Goya: Visions of Flesh and Blood,2016,l’art du portrait atteint de nouveaux sommets. Cette exposition majeure de la National Gallery de Londres remet son génie en lumière. À travers une formidable collection d’oeuvres uniques et de lettres de Goya
+241614,Goya: Visions of Flesh and Blood,2016,nous analysons l’homme lui-même et le monde qu’il peignait. Sa vision artistique très forte et son savoir-faire hors du commun font de Goya l’une des idoles les plus admirées du monde de l’art.
+146349,Deadpool,2016,Ryan Reynolds
+146349,Deadpool,2016,Morena Baccarin
+146349,Deadpool,2016,Ed Skrein
+224331,La Tour 2 Contrôle Infernale,2016,Eric Judor
+224331,La Tour 2 Contrôle Infernale,2016,Ramzy Bedia
+224331,La Tour 2 Contrôle Infernale,2016,Marina Foïs
+138725,Chair de Poule - Le film,2016,Jack Black
+138725,Chair de Poule - Le film,2016,Dylan Minnette
+138725,Chair de Poule - Le film,2016,Odeya Rush
+231540,Les Innocentes,2016,Lou de Laâge
+231540,Les Innocentes,2016,Vincent Macaigne
+231540,Les Innocentes,2016,Agata Buzek
+229969,Heidi,2016,Anuk Steffen
+229969,Heidi,2016,Bruno Ganz
+229969,Heidi,2016,Isabelle Ottmann
+233232,El Clan,2016,Guillermo Francella
+233232,El Clan,2016,Peter Lanzani
+233232,El Clan,2016,Lili Popovich
+125938,Free Love,2016,Julianne Moore
+125938,Free Love,2016,Elliot Page
+125938,Free Love,2016,Steve Carell
+231740,Joséphine s'arrondit,2016,Marilou Berry
+231740,Joséphine s'arrondit,2016,Mehdi Nebbou
+231740,Joséphine s'arrondit,2016,Medi Sadoun
+221929,Peur De Rien,2016,Manal Issa
+221929,Peur De Rien,2016,Vincent Lacoste
+221929,Peur De Rien,2016,Paul Hamy
+227002,Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing,2016,Aaron Kwok
+227002,Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing,2016,Gong Li
+227002,Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing,2016,Feng Shaofeng
+229986,Le Trésor,2016,Toma Cuzin
+229986,Le Trésor,2016,Adrian Purcărescu
+229986,Le Trésor,2016,Corneliu Cozmei
+237313,Peace to Us in Our Dreams,2016,Ina Marija Bartaité
+237313,Peace to Us in Our Dreams,2016,Lora Kmieliauskaite
+237313,Peace to Us in Our Dreams,2016,Sharunas Bartas
+241393,Alaska,2016,Elio Germano
+241393,Alaska,2016,Astrid Bergès-Frisbey
+241393,Alaska,2016,Valerio Binasco
+240927,A une heure incertaine,2016,Joana Ribeiro
+240927,A une heure incertaine,2016,Paulo Pires
+240927,A une heure incertaine,2016,Judith Davis
+244089,Faut savoir se contenter de beaucoup,2016,Jean-Marc Rouillan
+244089,Faut savoir se contenter de beaucoup,2016,Noël Godin
+244089,Faut savoir se contenter de beaucoup,2016,Miss Ming
+244652,KANYE WEST THE GLOBAL PREMIERE OF WAVES PATHELIVE,2016,Kanye West
+244116,Miruthan,2016,Jayam Ravi
+223207,Zootopie,2016,Marie-Eugénie Maréchal
+223207,Zootopie,2016,Ginnifer Goodwin
+223207,Zootopie,2016,Alexis Victor
+236418,La vache,2016,Fatsah Bouyahmed
+236418,La vache,2016,Lambert Wilson
+236418,La vache,2016,Jamel Debbouze
+225859,"Ave, César!",2016,Josh Brolin
+225859,"Ave, César!",2016,George Clooney
+225859,"Ave, César!",2016,Alden Ehrenreich
+230731,Ce Sentiment De L'Été,2016,Anders Danielsen Lie
+230731,Ce Sentiment De L'Été,2016,Judith Chemla
+230731,Ce Sentiment De L'Été,2016,Marie Rivière
+238647,Les Naufragés,2016,Daniel Auteuil
+238647,Les Naufragés,2016,Laurent Stocker
+238647,Les Naufragés,2016,Julie Ferrier
+236089,Amis publics,2016,Kev Adams
+236089,Amis publics,2016,Vincent Elbaz
+236089,Amis publics,2016,Paul Bartel (II)
+239537,"Un jour avec, un jour sans",2016,Jae-yeong Jeong
+239537,"Un jour avec, un jour sans",2016,Kim Min-Hee
+239537,"Un jour avec, un jour sans",2016,Yuh-Jung Youn
+237294,Crache coeur,2016,Liv Henneguier
+237294,Crache coeur,2016,Yoann Zimmer
+237294,Crache coeur,2016,Andrzej Chyra
+10354,M,2016,David Wayne
+10354,M,2016,Howard Da Silva
+10354,M,2016,Martin Gabel
+234714,La Chambre d'en face,2016,Ghita Norby
+234714,La Chambre d'en face,2016,Sven Wollter
+234714,La Chambre d'en face,2016,Trine Pallesen
+234707,Beira-Mar ou l'âge des premières fois,2016,Mateus Almada
+234707,Beira-Mar ou l'âge des premières fois,2016,Maurício José Barcellos
+234707,Beira-Mar ou l'âge des premières fois,2016,Elisa Brites
+237262,Sleeping Giant,2016,Jackson Martin
+237262,Sleeping Giant,2016,Reece Moffett
+237262,Sleeping Giant,2016,Nick Serino
+243870,Sur le plancher des vaches,2016,Mélanie Leray
+243870,Sur le plancher des vaches,2016,Marie Berto
+243870,Sur le plancher des vaches,2016,Damien Jouillerot
+244353,"Mon sac est prêt, mes pompes aussi",2016,Charlie Clé
+244353,"Mon sac est prêt, mes pompes aussi",2016,Thomas Grandsire
+244353,"Mon sac est prêt, mes pompes aussi",2016,Julie Michel
+240938,Un Soleil froid en été,2016,Paulina Veltina
+240938,Un Soleil froid en été,2016,Júlia Ferré
+240938,Un Soleil froid en été,2016,Eli Piz
+244496,Pim-Pim Tché – Toast de vie,2016,Aïcha Ouattara
+244496,Pim-Pim Tché – Toast de vie,2016,Jean Odoutan
+244496,Pim-Pim Tché – Toast de vie,2016,Stephane Soo Mongo
+239126,Osman Pazarlama,2016,Şahan Gökbakar
+239126,Osman Pazarlama,2016,Selim Akgül
+239126,Osman Pazarlama,2016,Esra Balıkçı
+182266,The Revenant,2016,Leonardo DiCaprio
+182266,The Revenant,2016,Tom Hardy
+182266,The Revenant,2016,Domhnall Gleeson
+227369,Pattaya,2016,Franck Gastambide
+227369,Pattaya,2016,Malik Bentalha
+227369,Pattaya,2016,Anouar Toubali
+221875,The Finest Hours,2016,Chris Pine
+221875,The Finest Hours,2016,Casey Affleck
+221875,The Finest Hours,2016,Ben Foster
+231605,Je Ne Suis Pas Un Salaud,2016,Nicolas Duvauchelle
+231605,Je Ne Suis Pas Un Salaud,2016,Mélanie Thierry
+231605,Je Ne Suis Pas Un Salaud,2016,Maryne Cayon
+230081,Tempête,2016,Dominique Leborne
+230081,Tempête,2016,Matteo Leborne
+230081,Tempête,2016,Mailys Leborne
+224579,L'Histoire du géant timide,2016,Gunnar Jónsson
+224579,L'Histoire du géant timide,2016,Ilmur Kristjánsdóttir
+224579,L'Histoire du géant timide,2016,Sigurjón Kjartansson
+236404,Aurora,2016,Amparo Noguera
+236404,Aurora,2016,Luis Gnecco
+236404,Aurora,2016,Jaime Vadell
+237166,Nahid,2016,Sareh Bayat
+237166,Nahid,2016,Pejman Bazeghi
+237166,Nahid,2016,Navid Mohammadzadeh
+226997,La Fabuleuse Gilly Hopkins,2016,Sophie Nélisse
+226997,La Fabuleuse Gilly Hopkins,2016,Kathy Bates
+226997,La Fabuleuse Gilly Hopkins,2016,Glenn Close
+26568,Letters Home,2016,Coralie Seyrig
+26568,Letters Home,2016,Delphine Seyrig
+245409,Kanithan,2016,Atharvaa
+245409,Kanithan,2016,Catherine Tresa
+245409,Kanithan,2016,Tarun Arora
+224988,La Chute de Londres,2016,Gerard Butler
+224988,La Chute de Londres,2016,Aaron Eckhart
+224988,La Chute de Londres,2016,Morgan Freeman
+235769,Saint Amour,2016,Gérard Depardieu
+235769,Saint Amour,2016,Benoît Poelvoorde
+235769,Saint Amour,2016,Vincent Lacoste
+191695,"Célibataire, mode d'emploi",2016,Dakota Johnson
+191695,"Célibataire, mode d'emploi",2016,Rebel Wilson
+191695,"Célibataire, mode d'emploi",2016,Leslie Mann
+232134,Éperdument,2016,Guillaume Gallienne
+232134,Éperdument,2016,Adèle Exarchopoulos
+232134,Éperdument,2016,Stéphanie Cléau
+227242,Belgica,2016,Tom Vermeir
+227242,Belgica,2016,Stef Aerts
+227242,Belgica,2016,Hélène De Vos
+146631,Zoolander 2,2016,Ben Stiller
+146631,Zoolander 2,2016,Owen Wilson
+146631,Zoolander 2,2016,Penélope Cruz
+229906,Moonwalkers,2016,Rupert Grint
+229906,Moonwalkers,2016,Ron Perlman
+229906,Moonwalkers,2016,Robert Sheehan
+242025,Un Vrai Faussaire,2016,Guy Ribes
+231922,Le Crime du sommelier,2016,Vincenzo Amato
+231922,Le Crime du sommelier,2016,Lambert Wilson
+231922,Le Crime du sommelier,2016,Daniela Virgilio
+236105,Sunrise,2016,Adil Hussain
+236105,Sunrise,2016,Tannishtha Chatterjee
+236105,Sunrise,2016,Ashalata Wabgaonkar
+243092,L'Orchestre de minuit,2016,Gad Elmaleh
+243092,L'Orchestre de minuit,2016,Avishay Benazra
+243092,L'Orchestre de minuit,2016,Aziz Dadas
+131674,"Un marchand, des artistes et des collectionneurs",2016,Les nouveaux maitres du monde
+131674,"Un marchand, des artistes et des collectionneurs",2016,il décrypte les dérives de la banque GOLDMAN SACHS. Son nouveau film
+131674,"Un marchand, des artistes et des collectionneurs",2016,Un vrai faussaire
+131674,"Un marchand, des artistes et des collectionneurs",2016,rejoint la thématique de l’art puisqu’il s’attache à la figure de Guy Ribes
+131674,"Un marchand, des artistes et des collectionneurs",2016,peintre de talent et voyou qui a écoulé plus de 1 000 faux tableaux au long de s Lire plus
+241029,"Deux Rémi, deux",2016,Pascal Cervo
+241029,"Deux Rémi, deux",2016,Serge Bozon
+241029,"Deux Rémi, deux",2016,Luna Picoli-Truffaut
+225176,Seul contre tous,2016,Will Smith
+225176,Seul contre tous,2016,Alec Baldwin
+225176,Seul contre tous,2016,Albert Brooks
+228263,Room,2016,Brie Larson
+228263,Room,2016,Jacob Tremblay
+228263,Room,2016,Joan Allen
+225920,Divergente 3 : au-delà du mur,2016,Shailene Woodley
+225920,Divergente 3 : au-delà du mur,2016,Theo James
+225920,Divergente 3 : au-delà du mur,2016,Jeff Daniels
+224890,Brooklyn,2016,Saoirse Ronan
+224890,Brooklyn,2016,Domhnall Gleeson
+224890,Brooklyn,2016,Emory Cohen
+236711,Des nouvelles de la planète Mars,2016,François Damiens
+236711,Des nouvelles de la planète Mars,2016,Vincent Macaigne
+236711,Des nouvelles de la planète Mars,2016,Veerle Baetens
+145177,The Assassin,2016,Shu Qi
+145177,The Assassin,2016,Chen Chang
+145177,The Assassin,2016,Yun Zhou
+237679,Louis-Ferdinand Céline,2016,Denis Lavant
+237679,Louis-Ferdinand Céline,2016,Géraldine Pailhas
+237679,Louis-Ferdinand Céline,2016,Philip Desmeules
+243603,Solange et les vivants,2016,Ina Mihalache
+243603,Solange et les vivants,2016,Pierre Siankowski
+243603,Solange et les vivants,2016,Francis Van Litsenborgh
+235845,DieuMerci !,2016,Lucien Jean-Baptiste
+235845,DieuMerci !,2016,Baptiste Lecaplain
+235845,DieuMerci !,2016,Delphine Théodore
+239532,Suite Armoricaine,2016,Valérie Dréville
+239532,Suite Armoricaine,2016,Kaou Langoët
+239532,Suite Armoricaine,2016,Elina Löwensohn
+241991,C'est l'amour,2016,Pascal Cervo
+241991,C'est l'amour,2016,Astrid Adverbe
+241991,C'est l'amour,2016,Julien Lucq
+119002,Qui marche sur la queue du tigre...,2016,Takashi Shimura
+119002,Qui marche sur la queue du tigre...,2016,Masayuki Mori (I)
+119002,Qui marche sur la queue du tigre...,2016,Kenichi Enomoto
+196047,Pseudonym,2016,Perrine Tourneux
+196047,Pseudonym,2016,Igor Skreblin
+196047,Pseudonym,2016,Thierry Sebban
+174341,Lettres au Père Jacob,2016,Kaarina Hazard
+174341,Lettres au Père Jacob,2016,Heikki Nousiainen
+174341,Lettres au Père Jacob,2016,Jukka Keinonen
+176050,Je ne regrette rien de ma jeunesse,2016,Susumu Fujita
+176050,Je ne regrette rien de ma jeunesse,2016,Setsuko Hara
+176050,Je ne regrette rien de ma jeunesse,2016,Denjirô Ôkôchi
+202821,Pursuit of Loneliness,2016,Joy Hille
+202821,Pursuit of Loneliness,2016,Sandra Escalante
+202821,Pursuit of Loneliness,2016,Suzanne Faha
+216310,Leave to Remain,2016,Toby Jones
+216310,Leave to Remain,2016,Noof McEwan
+216310,Leave to Remain,2016,Yasmin Mwanza
+237399,Alias Maria,2016,Karen Torres
+237399,Alias Maria,2016,Carlos Clavijo
+237399,Alias Maria,2016,Erik Ruiz
+245568,Rangitaranga - Une vague colorée,2016,Nirup Bhandari
+245568,Rangitaranga - Une vague colorée,2016,Saikumar
+241615,Renoir: Revered and Reviled,2016,Yves Aubert
+231144,10 Cloverfield Lane,2016,Mary Elizabeth Winstead
+231144,10 Cloverfield Lane,2016,John Goodman
+231144,10 Cloverfield Lane,2016,John Gallagher Jr.
+231971,Au Nom De Ma Fille,2016,Daniel Auteuil
+231971,Au Nom De Ma Fille,2016,Sebastian Koch
+231971,Au Nom De Ma Fille,2016,Marie-Josée Croze
+232393,Marseille,2016,Kad Merad
+232393,Marseille,2016,Patrick Bosso
+232393,Marseille,2016,Venantino Venantini
+207654,Triple 9,2016,Casey Affleck
+207654,Triple 9,2016,Anthony Mackie
+207654,Triple 9,2016,Kate Winslet
+229917,Les Ogres,2016,Adèle Haenel
+229917,Les Ogres,2016,Marc Barbé
+229917,Les Ogres,2016,Lola Dueñas
+221391,Midnight Special,2016,Michael Shannon
+221391,Midnight Special,2016,Jaeden Martell
+221391,Midnight Special,2016,Joel Edgerton
+143613,Évolution,2016,Max Brebant
+143613,Évolution,2016,Julie-Marie Parmentier
+143613,Évolution,2016,Roxane Duran
+227703,"A perfect day, un jour comme un autre",2016,Benicio Del Toro
+227703,"A perfect day, un jour comme un autre",2016,Tim Robbins
+227703,"A perfect day, un jour comme un autre",2016,Mélanie Thierry
+229422,The Lady In The Van,2016,Maggie Smith
+229422,The Lady In The Van,2016,Alex Jennings
+229422,The Lady In The Van,2016,Jim Broadbent
+220938,Jodorowsky's Dune,2016,Alejandro Jodorowsky
+220938,Jodorowsky's Dune,2016,Michel Seydoux
+220938,Jodorowsky's Dune,2016,H.R. Giger
+240593,Le Divan du monde,2016,Georges Federmann
+461,"La Vie d'O'Haru, Femme Galante",2016,Kinuyo Tanaka
+461,"La Vie d'O'Haru, Femme Galante",2016,Toshirô Mifune
+461,"La Vie d'O'Haru, Femme Galante",2016,Ichirô Sugai
+236539,No Land's Song,2016,Sara Najafi
+236539,No Land's Song,2016,Parvin Namazi
+236539,No Land's Song,2016,Sayeh Sodeyfi
+244108,Criminel,2016,Aleksei Guskov
+244108,Criminel,2016,Nadezhda Markina
+244108,Criminel,2016,Anastasia Sheveleva
+241730,Le Chant du merle,2016,Adélaïde Leroux
+241730,Le Chant du merle,2016,Nicolas Abraham
+241730,Le Chant du merle,2016,Myriam Boyer
+241589,Boris Godunov (Arts Alliance),2016,Antonio Pappano
+241589,Boris Godunov (Arts Alliance),2016,Bryn Terfel
+219262,Batman v Superman : L’Aube de la Justice,2016,Ben Affleck
+219262,Batman v Superman : L’Aube de la Justice,2016,Henry Cavill
+219262,Batman v Superman : L’Aube de la Justice,2016,Jesse Eisenberg
+186344,Aux yeux de tous,2016,Julia Roberts
+186344,Aux yeux de tous,2016,Chiwetel Ejiofor
+186344,Aux yeux de tous,2016,Nicole Kidman
+221612,Rosalie Blum,2016,Noémie Lvovsky
+221612,Rosalie Blum,2016,Kyan Khojandi
+221612,Rosalie Blum,2016,Alice Isaaz
+235156,Médecin De Campagne,2016,François Cluzet
+235156,Médecin De Campagne,2016,Marianne Denicourt
+235156,Médecin De Campagne,2016,Isabelle Sadoyan
+242269,La Dream Team,2016,Medi Sadoun
+242269,La Dream Team,2016,Gérard Depardieu
+242269,La Dream Team,2016,Chantal Lauby
+242036,Kaili Blues,2016,Feiyang Luo
+242036,Kaili Blues,2016,Lixun Xie
+242036,Kaili Blues,2016,Chen Yongzhong
+228927,Remember,2016,Christopher Plummer
+228927,Remember,2016,Martin Landau
+228927,Remember,2016,Bruno Ganz
+230941,"Chala, une enfance cubaine",2016,Armando Valdes Freire
+230941,"Chala, une enfance cubaine",2016,Alina Rodriguez
+230941,"Chala, une enfance cubaine",2016,Silvia Aguila
+238833,Keeper,2016,Kacey Mottet Klein
+238833,Keeper,2016,Galatea Bellugi
+238833,Keeper,2016,Catherine Salée
+910,Partition inachevée pour piano mécanique,2016,Aleksandr Kalyagin
+910,Partition inachevée pour piano mécanique,2016,Elena Solovei
+910,Partition inachevée pour piano mécanique,2016,Evguenia Glouchenko
+1577,Infidèlement vôtre,2016,Rex Harrison
+1577,Infidèlement vôtre,2016,Linda Darnell
+1577,Infidèlement vôtre,2016,Barbara Lawrence
+231312,La Vallée,2016,Carole Abboud
+231312,La Vallée,2016,Fadi Abi Samra
+231312,La Vallée,2016,Mounzer Baalbaki
+231129,Yogananda,2016,Anupam Kher
+244627,Mirage d'Amour avec fanfare,2016,Marie Gillain
+244627,Mirage d'Amour avec fanfare,2016,Jean-François Stévenin
+244627,Mirage d'Amour avec fanfare,2016,Eduardo Paxeco
+243930,Royal Orchestra,2016,la productrice Lies Janssen
+243930,Royal Orchestra,2016,accompagnée d'un producteur local
+243930,Royal Orchestra,2016,nous arrivions sur pla Lire plus
+245428,JOHNNY HALLYDAY - LE CONCERT DE SA DERNIÈRE TOURNÉE - AU CINÉMA,2016,Johnny Hallyday
+247471,Verdon Secret,2016,Assa Sylla
+247471,Verdon Secret,2016,Nicolas Robin
+247471,Verdon Secret,2016,Jacques Gamblin
+221620,Five,2016,Pierre Niney
+221620,Five,2016,François Civil
+221620,Five,2016,Igor Gotesman
+232707,13 Hours,2016,John Krasinski
+232707,13 Hours,2016,James Badge Dale
+232707,13 Hours,2016,Max Martini
+194397,Kung Fu Panda 3,2016,Manu Payet
+194397,Kung Fu Panda 3,2016,Jack Black
+194397,Kung Fu Panda 3,2016,Pierre Arditi
+229870,Quand on a 17 ans,2016,Sandrine Kiberlain
+229870,Quand on a 17 ans,2016,Kacey Mottet Klein
+229870,Quand on a 17 ans,2016,Corentin Fila
+235389,Le Sanctuaire,2016,Joseph Mawle
+235389,Le Sanctuaire,2016,Bojana Novakovic
+235389,Le Sanctuaire,2016,Michael McElhatton
+235700,Le Coeur régulier,2016,Isabelle Carré
+235700,Le Coeur régulier,2016,Jun Kunimura
+235700,Le Coeur régulier,2016,Niels Schneider
+237772,Good Luck Algeria,2016,Sami Bouajila
+237772,Good Luck Algeria,2016,Franck Gastambide
+237772,Good Luck Algeria,2016,Chiara Mastroianni
+203717,Sunset Song,2016,Agyness Deyn
+203717,Sunset Song,2016,Peter Mullan
+203717,Sunset Song,2016,Kevin Guthrie
+227265,Mise à l'épreuve 2,2016,Ice Cube
+227265,Mise à l'épreuve 2,2016,Kevin Hart
+227265,Mise à l'épreuve 2,2016,Tika Sumpter
+237306,Volta à Terra,2016,Daniel Xavier Pereira
+237306,Volta à Terra,2016,Antonio Guimarães
+237306,Volta à Terra,2016,Daniela Barroso
+237175,Soleil de plomb,2016,Tihana Lazovic
+237175,Soleil de plomb,2016,Goran Markovic (II)
+237175,Soleil de plomb,2016,Nives Ivankovic
+229251,Mariage à la grecque 2,2016,Nia Vardalos
+229251,Mariage à la grecque 2,2016,John Corbett
+229251,Mariage à la grecque 2,2016,Lainie Kazan
+225148,Do Me Love,2016,Christine Armanger
+225148,Do Me Love,2016,Lizzie Brocheré
+225148,Do Me Love,2016,Valérie Maës
+232880,Shadow Days,2016,Liang Ming
+232880,Shadow Days,2016,Li Ziqian
+232880,Shadow Days,2016,Liu Yu
+236758,Un Monstre à mille têtes,2016,Jana Raluy
+236758,Un Monstre à mille têtes,2016,Sebastian Aguirre Boëda
+236758,Un Monstre à mille têtes,2016,Hugo Albores
+237398,Taklub,2016,Nora Aunor
+237398,Taklub,2016,Julio Diaz
+237398,Taklub,2016,Aaron Rivera
+238250,La Passion d'Augustine,2016,Céline Bonnier
+238250,La Passion d'Augustine,2016,Pierrette Robitaille
+238250,La Passion d'Augustine,2016,Anne-Elisabeth Bossé
+147280,East Punk Memories,2016,Kelemen Balázs
+147280,East Punk Memories,2016,Miklós Tóth
+147280,East Punk Memories,2016,Mozsik Imre
+244097,Marseille entre deux tours,2016,un regard décalé et en allant rencontrer d’autres personnages
+244097,Marseille entre deux tours,2016,d’autres acteurs de la ville
+244097,Marseille entre deux tours,2016,le film nous emmène dans des territoires que nous connaissons peu.
+236787,Madame Butterfly (Pathé Live),2016,Kristine Opolais
+224661,Demolition,2016,Jake Gyllenhaal
+224661,Demolition,2016,Naomi Watts
+224661,Demolition,2016,Chris Cooper
+233500,L'Avenir,2016,Isabelle Huppert
+233500,L'Avenir,2016,André Marcon
+233500,L'Avenir,2016,Roman Kolinka
+221713,Les Visiteurs - La Révolution,2016,Jean Reno
+221713,Les Visiteurs - La Révolution,2016,Christian Clavier
+221713,Les Visiteurs - La Révolution,2016,Franck Dubosc
+231742,Le Fantôme De Canterville,2016,Audrey Fleurot
+231742,Le Fantôme De Canterville,2016,Michaël Youn
+231742,Le Fantôme De Canterville,2016,Michèle Laroque
+207730,Gods Of Egypt,2016,Nikolaj Coster-Waldau
+207730,Gods Of Egypt,2016,Gerard Butler
+207730,Gods Of Egypt,2016,Brenton Thwaites
+223641,High-Rise,2016,Tom Hiddleston
+223641,High-Rise,2016,Jeremy Irons
+223641,High-Rise,2016,Sienna Miller
+230634,A Bigger Splash,2016,Tilda Swinton
+230634,A Bigger Splash,2016,Ralph Fiennes
+230634,A Bigger Splash,2016,Dakota Johnson
+235526,Sky,2016,Diane Kruger
+235526,Sky,2016,Norman Reedus
+235526,Sky,2016,Gilles Lellouche
+230166,Truth : Le Prix de la Vérité,2016,Cate Blanchett
+230166,Truth : Le Prix de la Vérité,2016,Robert Redford
+230166,Truth : Le Prix de la Vérité,2016,Dennis Quaid
+232415,Mandarines,2016,Lembit Ulfsak
+232415,Mandarines,2016,Elmo Nüganen
+232415,Mandarines,2016,Misha Meskhi
+242258,"Laurette 1942, une volontaire au camp du Récébédou",2016,Philippe Caubère
+242258,"Laurette 1942, une volontaire au camp du Récébédou",2016,Anne Liabeuf
+242258,"Laurette 1942, une volontaire au camp du Récébédou",2016,Barbara Tobola
+240690,Sauvages,2016,Paul Higgins
+240690,Sauvages,2016,Kate Dickie
+240690,Sauvages,2016,Jérôme Kircher
+243223,Fatty se déchaîne,2016,"Roscoe """"Fatty"""" Arbuckle"
+243223,Fatty se déchaîne,2016,Buster Keaton
+243223,Fatty se déchaîne,2016,Al St. John
+234866,Eva ne dort pas,2016,Gael García Bernal
+234866,Eva ne dort pas,2016,Denis Lavant
+234866,Eva ne dort pas,2016,Daniel Fanego
+236724,Visite ou Mémoires et confessions,2016,Manoel de Oliveira
 38256,La Maison assassinée,2016,Patrick Bruel
 38256,La Maison assassinée,2016,Anne Brochet
 38256,La Maison assassinée,2016,Jean-Pierre Sentier
+246334,Sardar Gabbar Singh,2016,Pawan Kalyan
+246334,Sardar Gabbar Singh,2016,Kajal Aggarwal
+246334,Sardar Gabbar Singh,2016,Sharad Kelkar
+236799,Don Quichotte (Bolchoï - Pathé Live),2016,Ekaterina Krysanova
+236799,Don Quichotte (Bolchoï - Pathé Live),2016,Semyon Chudin
+236799,Don Quichotte (Bolchoï - Pathé Live),2016,Alexei LOPAREVICH
+222692,Le Livre de la jungle,2016,Neel Sethi
+222692,Le Livre de la jungle,2016,Ben Kingsley
+222692,Le Livre de la jungle,2016,Bill Murray
+211078,Grimsby - Agent trop spécial,2016,Sacha Baron Cohen
+211078,Grimsby - Agent trop spécial,2016,Mark Strong
+211078,Grimsby - Agent trop spécial,2016,Isla Fisher
+232837,Hardcore Henry,2016,Sharlto Copley
+232837,Hardcore Henry,2016,Danila Kozlovsky
+232837,Hardcore Henry,2016,Haley Bennett
+233728,Tout pour être heureux,2016,Manu Payet
+233728,Tout pour être heureux,2016,Audrey Lamy
+233728,Tout pour être heureux,2016,Aure Atika
+224784,Desierto,2016,Gael García Bernal
+224784,Desierto,2016,Jeffrey Dean Morgan
+224784,Desierto,2016,Alondra Hidalgo
+216964,Les Ardennes,2016,Veerle Baetens
+216964,Les Ardennes,2016,Jeroen Perceval
+216964,Les Ardennes,2016,Kevin Janssens
+220973,Ratchet et Clank,2016,Squeezie
+220973,Ratchet et Clank,2016,James Arnold Taylor
+220973,Ratchet et Clank,2016,Xavier Fagnon
+229043,Marie et les naufragés,2016,Vimala Pons
+229043,Marie et les naufragés,2016,Pierre Rochefort
+229043,Marie et les naufragés,2016,Eric Cantona
+242732,Free to Run,2016,Philippe Torreton
+216314,"Fritz Bauer, un héros allemand",2016,Burghart Klaußner
+216314,"Fritz Bauer, un héros allemand",2016,Ronald Zehrfeld
+216314,"Fritz Bauer, un héros allemand",2016,Lilith Stangenberg
+227832,Jem et les Hologrammes,2016,Aubrey Peeples
+227832,Jem et les Hologrammes,2016,Stefanie Scott
+227832,Jem et les Hologrammes,2016,Aurora Perrineau
+243832,L'Académie des muses,2016,Raffaele Pinto
+243832,L'Académie des muses,2016,Emanuela Forgetta
+243832,L'Académie des muses,2016,Rosa Delor Muns
+245084,Wallabout,2016,Ivy Elrod
+245084,Wallabout,2016,Steve Ward
+245084,Wallabout,2016,Jo-Anne Lee
+245835,Fui Banquero (j'étais banquier),2016,Robinson Stévenin
+245835,Fui Banquero (j'étais banquier),2016,Antoine Chappey
+245835,Fui Banquero (j'étais banquier),2016,Pierre Richard
+237258,Paulina,2016,Dolores Fonzi
+237258,Paulina,2016,Oscar Martinez
+237258,Paulina,2016,Esteban Lamothe
+239852,Par amour,2016,Valeria Golino
+239852,Par amour,2016,Massimiliano Gallo
+239852,Par amour,2016,Adriano Giannini
+246335,Theri,2016,Vijay
+246335,Theri,2016,Amy Jackson
+246335,Theri,2016,Prabhu
+245559,Fan,2016,Shah Rukh Khan
+245559,Fan,2016,Mariola Jaworska
+245559,Fan,2016,Joelle Koissi
+229509,Parfum de printemps,2016,Zied Ayadi
+229509,Parfum de printemps,2016,Sarra Hannachi
+229509,Parfum de printemps,2016,Fatma Ben Saidane
+217040,Le Chasseur et la reine des glaces,2016,Chris Hemsworth
+217040,Le Chasseur et la reine des glaces,2016,Charlize Theron
+217040,Le Chasseur et la reine des glaces,2016,Jessica Chastain
+239056,Adopte Un Veuf,2016,André Dussollier
+239056,Adopte Un Veuf,2016,Bérengère Krief
+239056,Adopte Un Veuf,2016,Arnaud Ducret
+234318,Les Malheurs de Sophie,2016,Anaïs Demoustier
+234318,Les Malheurs de Sophie,2016,Golshifteh Farahani
+234318,Les Malheurs de Sophie,2016,Muriel Robin
+231856,Robinson Crusoe,2016,Matthias Schweighöfer
+231856,Robinson Crusoe,2016,Kaya Yanar
+231856,Robinson Crusoe,2016,Dieter Hallervorden
+230720,Everybody Wants Some !!,2016,Blake Jenner
+230720,Everybody Wants Some !!,2016,Ryan Guzman
+230720,Everybody Wants Some !!,2016,Tyler Hoechlin
+237495,Blind Sun,2016,Ziad Bakri
+237495,Blind Sun,2016,Yannis Stankoglou
+237495,Blind Sun,2016,Mimi Denissi
+243225,Le Fils de Joseph,2016,Victor Ezenfis
+243225,Le Fils de Joseph,2016,Natacha Régnier
+243225,Le Fils de Joseph,2016,Fabrizio Rongione
+239929,La Saison des femmes,2016,Tannishtha Chatterjee
+239929,La Saison des femmes,2016,Radhika Apte
+239929,La Saison des femmes,2016,Surveen Chawla
+229926,D'une pierre deux coups,2016,Milouda Chaqiq
+229926,D'une pierre deux coups,2016,Brigitte Roüan
+229926,D'une pierre deux coups,2016,Claire Wauthion
+234643,Mekong Stories,2016,Do Thi Hai Yen
+234643,Mekong Stories,2016,Lê Công Hoàng
+234643,Mekong Stories,2016,Truong The Vinh
+240608,Un Homme Charmant,2016,Erica Rivas
+240608,Un Homme Charmant,2016,Marcelo Subiotto
+240608,Un Homme Charmant,2016,Susana Pampin
+240555,Granny's Dancing on the Table,2016,Blanca Engström
+240555,Granny's Dancing on the Table,2016,Lennart Jähkel
+240555,Granny's Dancing on the Table,2016,Karin Bertling
+241591,Lucia di Lammermoor (Arts Alliance),2016,Daniel Oren
+241591,Lucia di Lammermoor (Arts Alliance),2016,Diana Damrau
+241591,Lucia di Lammermoor (Arts Alliance),2016,Charles Castronovo
+265597,Les Noces de Cristal,2016,Gérald Raynaud
+265597,Les Noces de Cristal,2016,Magali Fauviot
+265597,Les Noces de Cristal,2016,Pauline Cousty
+215143,Captain America: Civil War,2016,Chris Evans
+215143,Captain America: Civil War,2016,Robert Downey Jr.
+215143,Captain America: Civil War,2016,Scarlett Johansson
+229182,Green Room,2016,Anton Yelchin
+229182,Green Room,2016,Joe Cole
+229182,Green Room,2016,Alia Shawkat
+207993,Tracks,2016,Mia Wasikowska
+207993,Tracks,2016,Adam Driver
+207993,Tracks,2016,Rainer Bock
+224115,Dalton Trumbo,2016,Bryan Cranston
+224115,Dalton Trumbo,2016,Diane Lane
+224115,Dalton Trumbo,2016,Helen Mirren
+226928,Nos souvenirs,2016,Matthew McConaughey
+226928,Nos souvenirs,2016,Ken Watanabe
+226928,Nos souvenirs,2016,Naomi Watts
+241557,Théo & Hugo dans le même bateau,2016,Geoffrey Couët
+241557,Théo & Hugo dans le même bateau,2016,François Nambot
+241557,Théo & Hugo dans le même bateau,2016,Mario Fanfani
+244064,Les Habitants,2016,Les Habitants
+244064,Les Habitants,2016,le maître du documentaire français Raymond Depardon repart à nouveau en road-trip en camping-car après Journal de France sorti en 2012.
+226326,Maggie a un plan,2016,Greta Gerwig
+226326,Maggie a un plan,2016,Ethan Hawke
+226326,Maggie a un plan,2016,Julianne Moore
+237274,Dégradé,2016,Hiam Abbass
+237274,Dégradé,2016,Victoria Balitska
+237274,Dégradé,2016,Manal Awad
+26179,Hugo et Josephine,2016,Frederik Becklen
+26179,Hugo et Josephine,2016,Marie Öhman
+26179,Hugo et Josephine,2016,Beppe Wolgers
+238994,West Coast,2016,Devi Couzigou
+238994,West Coast,2016,Victor Le Blond
+238994,West Coast,2016,Mathis Crusson
+240251,La Crypte,2016,Serge Riaboukine
+240251,La Crypte,2016,Camelia Pintilie
+240251,La Crypte,2016,Gabriel Spahiu
+244252,Mobile Étoile,2016,Géraldine Pailhas
+244252,Mobile Étoile,2016,Luc Picard
+244252,Mobile Étoile,2016,Felicia Shulman
+244090,Les Raisins de l'espoir,2016,Ahmet Mekin
+244090,Les Raisins de l'espoir,2016,Altan Erkekli
+244090,Les Raisins de l'espoir,2016,Norina Nobashari
+245861,Africa Fusion,2016,Alex Honnold
+245861,Africa Fusion,2016,Hazel Findlay
+246993,Manithan,2016,Udhayanidhi Stalin
+246993,Manithan,2016,Hansika Motwani
+246993,Manithan,2016,Prakash Raj
+236790,Elektra (Pathé live),2016,Nina Stemme
+235380,Un homme à la hauteur,2016,Jean Dujardin
+235380,Un homme à la hauteur,2016,Virginie Efira
+235380,Un homme à la hauteur,2016,Cédric Kahn
+235123,Braqueurs,2016,Sami Bouajila
+235123,Braqueurs,2016,Guillaume Gouix
+235123,Braqueurs,2016,Redouane Behache
+229765,Criminal - Un espion dans la tête,2016,Kevin Costner
+229765,Criminal - Un espion dans la tête,2016,Gary Oldman
+229765,Criminal - Un espion dans la tête,2016,Tommy Lee Jones
+234569,Eddie The Eagle,2016,Taron Egerton
+234569,Eddie The Eagle,2016,Hugh Jackman
+234569,Eddie The Eagle,2016,Christopher Walken
+230703,La Résurrection du Christ,2016,Joseph Fiennes
+230703,La Résurrection du Christ,2016,Tom Felton
+230703,La Résurrection du Christ,2016,Peter Firth
+236586,Baden Baden,2016,Salomé Richard
+236586,Baden Baden,2016,Claude Gensac
+236586,Baden Baden,2016,Swann Arlaud
+231730,Vendeur,2016,Gilbert Melki
+231730,Vendeur,2016,Pio Marmaï
+231730,Vendeur,2016,Pascal Elso
+228863,Krampus,2016,Toni Collette
+228863,Krampus,2016,Adam Scott
+228863,Krampus,2016,David Koechner
+240693,Dough,2016,Jonathan Pryce
+240693,Dough,2016,Malachi Kirby
+240693,Dough,2016,Daniel Caltagirone
+223770,Mr. Holmes,2016,Ian McKellen
+223770,Mr. Holmes,2016,Laura Linney
+223770,Mr. Holmes,2016,Milo Parker
+240914,TINI – La nouvelle vie de Violetta,2016,Tini Stoessel
+240914,TINI – La nouvelle vie de Violetta,2016,Jorge Blanco
+240914,TINI – La nouvelle vie de Violetta,2016,Adrián Salzedo
+12612,Les Egarés,2016,Jean-Pierre Mocky
+12612,Les Egarés,2016,Lucia Bosè
+12612,Les Egarés,2016,Isa Miranda
+230483,Red Amnesia,2016,Lü Zhong
+230483,Red Amnesia,2016,Shi Liu
+230483,Red Amnesia,2016,Feng Yuanzheng
+239844,Les Amants de Caracas,2016,Alfredo Castro
+239844,Les Amants de Caracas,2016,Luis Silva
+239844,Les Amants de Caracas,2016,Alí Rondon
 1730,Sherlock Holmes contre Jack l'Eventreur,2016,John Neville
 1730,Sherlock Holmes contre Jack l'Eventreur,2016,Donald Houston
 1730,Sherlock Holmes contre Jack l'Eventreur,2016,John Fraser
+247201,Uncharted 4 : A Thief's End,2016,Nathan Drake
+247201,Uncharted 4 : A Thief's End,2016,Elena Fisher
+247201,Uncharted 4 : A Thief's End,2016,Victor Sullivan
+236050,Café Society,2016,Jesse Eisenberg
+236050,Café Society,2016,Kristen Stewart
+236050,Café Society,2016,Steve Carell
+218007,"Tout, tout de suite",2016,Richard Berry
+218007,"Tout, tout de suite",2016,Steve Achiepo
+218007,"Tout, tout de suite",2016,Marc Ruchmann
+218377,Sisters,2016,Amy Poehler
+218377,Sisters,2016,Tina Fey
+218377,Sisters,2016,Maya Rudolph
+185056,Angry Birds - Le Film,2016,Jason Sudeikis
+185056,Angry Birds - Le Film,2016,Omar Sy
+185056,Angry Birds - Le Film,2016,Maya Rudolph
+237078,La Visita,2016,Daniela Vega
+237078,La Visita,2016,Rosalinda Ramirez
+237078,La Visita,2016,Claudia Cantero
+229600,Ville-Marie,2016,Monica Bellucci
+229600,Ville-Marie,2016,Pascale Bussières
+229600,Ville-Marie,2016,Aliocha Schneider
+237546,Hana et Alice mènent l'enquête,2016,Yû Aoi
+237546,Hana et Alice mènent l'enquête,2016,Anne Suzuki
+237546,Hana et Alice mènent l'enquête,2016,Shôko Aida
+239857,Mauvaise Graine,2016,Luca Marinelli
+239857,Mauvaise Graine,2016,Alessandro Borghi
+239857,Mauvaise Graine,2016,Silvia D'Amico
+230028,L'Ange blessé,2016,Nurlybek Saktaganov
+230028,L'Ange blessé,2016,Madiar Aripbai
+230028,L'Ange blessé,2016,Madiar Nazarov
+230635,Court (En instance),2016,Vira Sathidar
+230635,Court (En instance),2016,Vivek Gomber
+230635,Court (En instance),2016,Geetanjali Kulkarni
+239859,Pecore in erba,2016,Davide Giordano
+239859,Pecore in erba,2016,Anna Ferruzzo
+239859,Pecore in erba,2016,Bianca Nappi
+246494,André - The Voice Of Wine,2016,Ralph Fiennes
+246494,André - The Voice Of Wine,2016,Francis Ford Coppola
+246494,André - The Voice Of Wine,2016,Nikita Mikhalkov
+255946,Frigomania,2016,Jacques Canet
+255946,Frigomania,2016,Solange Meysonnet
+255946,Frigomania,2016,Pascal Sugg
+214139,Money Monster,2016,George Clooney
+214139,Money Monster,2016,Julia Roberts
+214139,Money Monster,2016,Jack O'Connell
+233649,Ma Loute,2016,Fabrice Luchini
+233649,Ma Loute,2016,Juliette Binoche
+233649,Ma Loute,2016,Valeria Bruni Tedeschi
+229665,The Nice Guys,2016,Ryan Gosling
+229665,The Nice Guys,2016,Russell Crowe
+229665,The Nice Guys,2016,Margaret Qualley
+248412,Thomas Howard Memorial – Live at Guerledan,2016,Yann Ollivier
+248412,Thomas Howard Memorial – Live at Guerledan,2016,Camille Coutes
+248412,Thomas Howard Memorial – Live at Guerledan,2016,Elouan Jegat
 174711,Double Bang,2016,Elizabeth Mitchell
 174711,Double Bang,2016,William Baldwin
 174711,Double Bang,2016,Jon Seda
+246919,Et La femme créa Hollywood,2016,Paula Wagner
+246919,Et La femme créa Hollywood,2016,Sherry Lansing
+246919,Et La femme créa Hollywood,2016,Lynda Obst
+225717,X-Men: Apocalypse,2016,James McAvoy
+225717,X-Men: Apocalypse,2016,Michael Fassbender
+225717,X-Men: Apocalypse,2016,Jennifer Lawrence
+3121,L'Esprit de la ruche,2016,Ana Torrent
+3121,L'Esprit de la ruche,2016,Isabel Telleria
+3121,L'Esprit de la ruche,2016,Fernando Fernán Gómez
+241989,Le Voyage de Fanny,2016,Léonie Souchaud
+241989,Le Voyage de Fanny,2016,Fantine Harduin
+241989,Le Voyage de Fanny,2016,Juliane Lepoureau
+234404,Julieta,2016,Emma Suárez
+234404,Julieta,2016,Adriana Ugarte
+234404,Julieta,2016,Daniel Grao
+217388,Boulevard,2016,Robin Williams
+217388,Boulevard,2016,Kathy Baker
+217388,Boulevard,2016,Roberto Aguire
+246918,Bernadette Lafont et Dieu créa la femme,2016,Jean-Pierre Kalfon
+246918,Bernadette Lafont et Dieu créa la femme,2016,Bernadette Lafont
+246918,Bernadette Lafont et Dieu créa la femme,2016,Bulle Ogier
+223872,Singing Women,2016,Melisa Akman
+223872,Singing Women,2016,Philip Arditti
+223872,Singing Women,2016,Aylin Aslım
+241592,Frankenstein (Arts Alliance),2016,Koen Kessels
+241592,Frankenstein (Arts Alliance),2016,Laura Morera
+241592,Frankenstein (Arts Alliance),2016,Steven McRae
+244849,LA FLÛTE ENCHANTÉE (PATHÉ LIVE),2016,Matthew Polenzani
+244849,LA FLÛTE ENCHANTÉE (PATHÉ LIVE),2016,Nathan Gunn
+244849,LA FLÛTE ENCHANTÉE (PATHÉ LIVE),2016,Ying Huang
+231874,Elle,2016,Isabelle Huppert
+231874,Elle,2016,Laurent Lafitte
+231874,Elle,2016,Anne Consigny
+129526,Warcraft : Le commencement,2016,Travis Fimmel
+129526,Warcraft : Le commencement,2016,Toby Kebbell
+129526,Warcraft : Le commencement,2016,Paula Patton
+214644,L'Origine de la violence,2016,Richard Berry
+214644,L'Origine de la violence,2016,Stanley Weber
+214644,L'Origine de la violence,2016,César Chouraqui
+202441,Notre Demeure,2016,Fernando Alves Pinto
+202441,Notre Demeure,2016,Rosanne Mulholland
+202441,Notre Demeure,2016,Inez Viana
+227956,Men & Chicken,2016,Mads Mikkelsen
+227956,Men & Chicken,2016,David Dencik
+227956,Men & Chicken,2016,Nicolas Bro
+239038,Joyeuse Fête des Mères,2016,Julia Roberts
+239038,Joyeuse Fête des Mères,2016,Jennifer Aniston
+239038,Joyeuse Fête des Mères,2016,Kate Hudson
+240262,Ultimo Tango,2016,Leonardo Cuello
+240262,Ultimo Tango,2016,María Nieves
+240262,Ultimo Tango,2016,Juan Carlos Copes
+242113,John From,2016,Júlia Palha
+242113,John From,2016,Clara Riedenstein
+242113,John From,2016,Filipe Vargas
+241459,La Vie nous appartient,2016,Alix Bénézech
+241459,La Vie nous appartient,2016,Florent Arnoult
+245242,Mademoiselle de La Charce,2016,Alexia Carr
+245242,Mademoiselle de La Charce,2016,Marie-Christine Barrault
+240638,De Douces Paroles,2016,Rotem Zismann-Cohen
+240638,De Douces Paroles,2016,Roy Assaf
+240638,De Douces Paroles,2016,Assaf Ben-Shimon
+247792,The Middle Distance,2016,Ross Partridge
+247792,The Middle Distance,2016,Joslyn Jensen
+247792,The Middle Distance,2016,Kentucker Audley
+245633,Eddy Mitchell – Big Band En direct au cinéma,2016,Eddy Mitchell
+221904,Alice de l'autre côté du miroir,2016,Mia Wasikowska
+221904,Alice de l'autre côté du miroir,2016,Johnny Depp
+221904,Alice de l'autre côté du miroir,2016,Lindsay Duncan
+243501,Retour chez ma mère,2016,Alexandra Lamy
+243501,Retour chez ma mère,2016,Josiane Balasko
+243501,Retour chez ma mère,2016,Mathilde Seigner
+235734,Ils sont partout,2016,Yvan Attal
+235734,Ils sont partout,2016,Benoît Poelvoorde
+235734,Ils sont partout,2016,Valérie Bonneton
+241343,The Door,2016,Sarah Wayne Callies
+241343,The Door,2016,Jeremy Sisto
+241343,The Door,2016,Suchitra Pillai-Malik
+243385,"Mr Gaga, sur les pas d’Ohad Naharin",2016,Ohad Naharin
+231735,A War,2016,Pilou Asbæk
+231735,A War,2016,Tuva Novotny
+231735,A War,2016,Dar Salim
+246522,Apprentice,2016,Fir Rahman
+246522,Apprentice,2016,Wan Hanafi Su
+246522,Apprentice,2016,Ahmad Mastura
+239520,Bella e Perduta,2016,Tommaso Cestrone
+239520,Bella e Perduta,2016,Sergio Vitolo
+239520,Bella e Perduta,2016,Gesuino Pittalis
+237314,Le Lendemain,2016,Ulrik Munther
+237314,Le Lendemain,2016,Mats Blomgren
+237314,Le Lendemain,2016,Ellen Jelinek
+214130,"Sans Automne, sans printemps",2016,Angela Peñaherrera
+214130,"Sans Automne, sans printemps",2016,Paola Baldion
+214130,"Sans Automne, sans printemps",2016,Lucía Moscoso
+247749,Une saison pour Maurice Pons,2016,Denis Lavant
+247749,Une saison pour Maurice Pons,2016,Adrien Beau
+247749,Une saison pour Maurice Pons,2016,Michael Lonsdale
+247528,Housefull 3,2016,Akshay Kumar
+247528,Housefull 3,2016,Abhishek Bachchan
+247528,Housefull 3,2016,Riteish Deshmukh
+240657,Cash Only,2016,Nickola Shreli
+240657,Cash Only,2016,Brandon Trammer
+240657,Cash Only,2016,Stivi Paskoski
+229925,DIamant Noir,2016,Niels Schneider
+229925,DIamant Noir,2016,August Diehl
+229925,DIamant Noir,2016,Hans Peter Cloos
+232793,The Neon Demon,2016,Elle Fanning
+232793,The Neon Demon,2016,Jena Malone
+232793,The Neon Demon,2016,Bella Heathcote
+243573,Bienvenue à Marly-Gomont,2016,Marc Zinga
+243573,Bienvenue à Marly-Gomont,2016,Aïssa Maïga
+243573,Bienvenue à Marly-Gomont,2016,Bayron Lebli
+238311,La Légende de Baahubali : 1ère Partie,2016,Prabhas Raju
+238311,La Légende de Baahubali : 1ère Partie,2016,Rana Daggubati
+238311,La Légende de Baahubali : 1ère Partie,2016,Anushka Shetty
+241701,Folles de Joie,2016,Valeria Bruni Tedeschi
+241701,Folles de Joie,2016,Micaela Ramazzotti
+241701,Folles de Joie,2016,Bob Messini
+243546,La Nouvelle vie de Paul Sneijder,2016,Thierry Lhermitte
+243546,La Nouvelle vie de Paul Sneijder,2016,Géraldine Pailhas
+243546,La Nouvelle vie de Paul Sneijder,2016,Pierre Curzi
+226616,Ma Ma,2016,Penélope Cruz
+226616,Ma Ma,2016,Luis Tosar
+226616,Ma Ma,2016,Alex Brendemühl
+234402,Vicky,2016,Victoria Bedos
+234402,Vicky,2016,Chantal Lauby
+234402,Vicky,2016,François Berléand
+1819,La Vie Est À Nous,2016,Jean Dasté
+1819,La Vie Est À Nous,2016,Madeleine Sologne
+1819,La Vie Est À Nous,2016,Roger Blin
+243544,Celui Qu'on Attendait,2016,Patrick Chesnais
+243544,Celui Qu'on Attendait,2016,Arsinée Khanjian
+243544,Celui Qu'on Attendait,2016,Robert Harutyunyan
+244640,Illégitime,2016,Alina Grigore
+244640,Illégitime,2016,Adrian Titieni
+244640,Illégitime,2016,Robi Urs
+245261,600 euros,2016,Adlène Chennine
+245261,600 euros,2016,Lisa Cavazinni
+245261,600 euros,2016,Youssef Diawara
+241455,Ouragan,2016,Romane Bohringer
+237172,La Quatrième Voie (Chauthi Koot),2016,Suvinder Pal Vicky
+237172,La Quatrième Voie (Chauthi Koot),2016,Rajbir Kaur
+237172,La Quatrième Voie (Chauthi Koot),2016,Gurpreet Bhangu
+230748,Zoom,2016,Gael García Bernal
+230748,Zoom,2016,Alison Pill
+230748,Zoom,2016,Mariana Ximenes
+238577,American Hero,2016,Stephen Dorff
+238577,American Hero,2016,Eddie Griffin
+238577,American Hero,2016,Luis Da Silva Jr.
+242029,Madres de los dioses,2016,Geraldine Chaplin
+242029,Madres de los dioses,2016,Samiha Aguirre
+242029,Madres de los dioses,2016,Humana Espectral Amarilla
+246559,Vivre sa mort,2016,Vivre sa mort
+246559,Vivre sa mort,2016,Manu Bonmariage accompagne deux hommes qui ont décidé de ne pas subir leur mort qui après des mois de lutte contre la maladie
+246559,Vivre sa mort,2016,tentent une ultime fois d’être acteur de leur propre vie
+246559,Vivre sa mort,2016,et de reprendre le contrôle de leur corps.
+248287,Les Pingouins,2016,Thor Schenker
+248287,Les Pingouins,2016,Noémie Zeitoun
+248287,Les Pingouins,2016,Antoine Lacoste
+233854,The Witch,2016,Anya Taylor-Joy
+233854,The Witch,2016,Ralph Ineson
+233854,The Witch,2016,Kate Dickie
+234215,La Loi de La Jungle,2016,Vincent Macaigne
+234215,La Loi de La Jungle,2016,Vimala Pons
+234215,La Loi de La Jungle,2016,Pascal Légitimus
+22015,Belladonna,2016,Tatsuya Nakadai
+22015,Belladonna,2016,Katsuyuki Itô
+22015,Belladonna,2016,Aiko Nagayama
+234346,Dans les forêts de Sibérie,2016,Raphaël Personnaz
+234346,Dans les forêts de Sibérie,2016,Evgueni Sidikhine
+203476,Ma Meilleure Amie,2016,Drew Barrymore
+203476,Ma Meilleure Amie,2016,Toni Collette
+203476,Ma Meilleure Amie,2016,Paddy Considine
+237953,L'Idéal,2016,Gaspard Proust
+237953,L'Idéal,2016,Audrey Fleurot
+237953,L'Idéal,2016,Anamaria Vartolomei
+207302,Un traître idéal,2016,Ewan McGregor
+207302,Un traître idéal,2016,Stellan Skarsgård
+207302,Un traître idéal,2016,Damian Lewis
+246556,Un Homme d'État,2016,Pierre Santini
+246556,Un Homme d'État,2016,Patrick Braoudé
+246556,Un Homme d'État,2016,Bruno Solo
+238271,Tous les Chats sont gris,2016,Bouli Lanners
+238271,Tous les Chats sont gris,2016,Manon Capelle
+238271,Tous les Chats sont gris,2016,Anne Coesens
+250914,Les Souterrains du temps,2016,"""""Les Souterrains du Temps"""""
+250914,Les Souterrains du temps,2016,Georges Combe s’est livré à une enquête haletante sur notre Histoire
+250914,Les Souterrains du temps,2016,nos mythes
+250914,Les Souterrains du temps,2016,nos légendes et nos croyances. Une quête qui ressemble à celle du Graal. Ces souterrains sont à quelques dizaines de mètres sous une grande ville
+250914,Les Souterrains du temps,2016,à l’intérieur de la colline de la Croix-Rousse
+250914,Les Souterrains du temps,2016,à Lyon. Ils n’ont été découverts que récemment. Les approches des archéologues et les études des historiens ont soulevé mille questions sans réponse.
+239900,Deux au carré,2016,Charlie Dupont
+239900,Deux au carré,2016,Tania Garbarski
+239900,Deux au carré,2016,Olivier Sitruk
+241563,Dauna. Lo que lleva el río,2016,Diego Armando Salazar
+247635,Udta Punjab,2016,Shahid Kapoor
+247635,Udta Punjab,2016,Alia Bhatt
+247635,Udta Punjab,2016,Kareena Kapoor
+248114,Welcome to the men's group,2016,Timothy Bottoms
+248114,Welcome to the men's group,2016,Joseph Culp
+248114,Welcome to the men's group,2016,Stephen Tobolowsky
+230327,Avant toi,2016,Emilia Clarke
+230327,Avant toi,2016,Sam Claflin
+230327,Avant toi,2016,Janet McTeer
+225647,L'Outsider,2016,Arthur Dupont
+225647,L'Outsider,2016,François-Xavier Demaison
+225647,L'Outsider,2016,Sabrina Ouazani
+210222,Le Monde de Dory,2016,Céline Monsarrat
+210222,Le Monde de Dory,2016,Ellen DeGeneres
+210222,Le Monde de Dory,2016,Franck Dubosc
+235657,Tout de suite maintenant,2016,Agathe Bonitzer
+235657,Tout de suite maintenant,2016,Vincent Lacoste
+235657,Tout de suite maintenant,2016,Lambert Wilson
+235296,Love & Friendship,2016,Kate Beckinsale
+235296,Love & Friendship,2016,Chloë Sevigny
+235296,Love & Friendship,2016,Stephen Fry
+236320,Le Secret des banquises,2016,Guillaume Canet
+236320,Le Secret des banquises,2016,Charlotte Le Bon
+236320,Le Secret des banquises,2016,Anne Le Ny
+222584,La Forêt de Quinconces,2016,Grégoire Leprince-Ringuet
+222584,La Forêt de Quinconces,2016,Pauline Caupenne
+222584,La Forêt de Quinconces,2016,Amandine Truffy
+240727,Le Professeur de Violon,2016,Lázaro Ramos
+240727,Le Professeur de Violon,2016,Kaique de Jesus
+240727,Le Professeur de Violon,2016,Elzio Vieira
+239671,Futur antérieur,2016,Chris Imberdis
+239671,Futur antérieur,2016,Louise De Fleury
+239671,Futur antérieur,2016,Camille Lindskog
+209797,Rosenn,2016,Hande Kodja
+209797,Rosenn,2016,Rupert Everett
+209797,Rosenn,2016,Stanislas Merhar
+235022,Layla in the sky,2016,Devon Keller
+235022,Layla in the sky,2016,Deztiny Gonzales
+235022,Layla in the sky,2016,Jocko Sims
+11030,Insiang,2016,Hilda Koronal
+11030,Insiang,2016,Mona Lisa
+11030,Insiang,2016,Ruel Vernal
+241593,Werther (Arts Alliance),2016,Vittorio Grigolo
+241593,Werther (Arts Alliance),2016,Joyce DiDonato
+241593,Werther (Arts Alliance),2016,Antonio Pappano
+240105,L'Effet Aquatique,2016,Florence Loiret Caille
+240105,L'Effet Aquatique,2016,Samir Guesmi
+240105,L'Effet Aquatique,2016,Didda Jonsdottir
+209487,Camping 3,2016,Franck Dubosc
+209487,Camping 3,2016,Claude Brasseur
+209487,Camping 3,2016,Mylène Demongeot
+222796,Conjuring 2 : Le Cas Enfield,2016,Vera Farmiga
+222796,Conjuring 2 : Le Cas Enfield,2016,Patrick Wilson
+222796,Conjuring 2 : Le Cas Enfield,2016,Frances O'Connor
+243780,La Tortue rouge,2016,Tom Hudson
+243780,La Tortue rouge,2016,Barbara Beretta
+230822,Ninja Turtles 2,2016,Megan Fox
+230822,Ninja Turtles 2,2016,Stephen Amell
+230822,Ninja Turtles 2,2016,Noel Fisher
+35431,Le Décalogue,2016,Maja Komorowska
+35431,Le Décalogue,2016,Wojciech Klata
+35431,Le Décalogue,2016,Henryk Baranowski
+231479,Voix off,2016,Ingrid Isensee
+231479,Voix off,2016,María José Siebald
+231479,Voix off,2016,Paulina García
+204030,Cosmodrama,2016,Jackie Berroyer
+204030,Cosmodrama,2016,Bernard Blancan
+204030,Cosmodrama,2016,Emilia Derou-Bernal
+241924,Voleur d'Histoire,2016,Frédéric Andrei
+241924,Voleur d'Histoire,2016,Hervé Hiolle
+244631,"Casablancas, l’homme qui aimait les femmes",2016,Cindy Crawford
+244631,"Casablancas, l’homme qui aimait les femmes",2016,Linda Evangelista
+244631,"Casablancas, l’homme qui aimait les femmes",2016,Naomi Campbell
+230868,The Strangers,2016,Do-Won Kwak
+230868,The Strangers,2016,Hwang Jeong-min
+230868,The Strangers,2016,Jun Kunimura
+209062,Tarzan,2016,Alexander Skarsgård
+209062,Tarzan,2016,Margot Robbie
+209062,Tarzan,2016,Christoph Waltz
+238648,Irréprochable,2016,Marina Foïs
+238648,Irréprochable,2016,Jérémie Elkaïm
+238648,Irréprochable,2016,Joséphine Japy
+235408,Nos pires voisins 2,2016,Seth Rogen
+235408,Nos pires voisins 2,2016,Zac Efron
+235408,Nos pires voisins 2,2016,Rose Byrne
+244123,Hibou,2016,Ramzy Bedia
+244123,Hibou,2016,Élodie Bouchez
+244123,Hibou,2016,Etienne Chicot
+228818,Truman,2016,Ricardo Darín
+228818,Truman,2016,Javier Cámara
+228818,Truman,2016,Dolores Fonzi
+225642,Je me tue à le dire,2016,Jean-Jacques Rausin
+225642,Je me tue à le dire,2016,Myriam Boyer
+225642,Je me tue à le dire,2016,Serge Riaboukine
+234312,Malgré la nuit,2016,Kristian Marr
+234312,Malgré la nuit,2016,Ariane Labed
+234312,Malgré la nuit,2016,Roxane Mesquida
+226990,L’ Aigle et l’Enfant,2016,Jean Reno
+226990,L’ Aigle et l’Enfant,2016,Tobias Moretti
+226990,L’ Aigle et l’Enfant,2016,Manuel Camacho
+239067,Sur Quel Pied Danser,2016,Pauline Etienne
+239067,Sur Quel Pied Danser,2016,Olivier Chantreau
+239067,Sur Quel Pied Danser,2016,François Morel
+240020,Sultan,2016,Marrese Crump
+240020,Sultan,2016,Salman Khan
+240020,Sultan,2016,Anushka Sharma
+37884,La Planète des vampires,2016,Barry Sullivan
+37884,La Planète des vampires,2016,Norma Bengell
+37884,La Planète des vampires,2016,Angel Aranda
+240796,Viva,2016,Jorge Perugorria
+240796,Viva,2016,Luis Alberto Garcia
+240796,Viva,2016,Héctor Medina Valdés
+243787,"Moi, Olga",2016,Michalina Olszanska
+243787,"Moi, Olga",2016,Martin Pechlát
+243787,"Moi, Olga",2016,Klára Melísková
+243425,Halal Love,2016,Darine Hamzé
+243425,Halal Love,2016,Rodrigue Sleiman
+243425,Halal Love,2016,Mirna Moukarzel
+247561,Humeur Liquide,2016,Robinson Stévenin
+248592,Le Salaire du courage,2016,Santhanam
+248592,Le Salaire du courage,2016,Shanaya
+248592,Le Salaire du courage,2016,Karunas
+247247,Lover's garden - CGR EVENTS,2016,Roberto Bolle
+247247,Lover's garden - CGR EVENTS,2016,Nicoletta Mani
+245429,Lea,2016,Vanessa Scalera
+245429,Lea,2016,Linda Caridi
+245429,Lea,2016,Alessio Praticò
+226078,L'Âge de Glace : les Lois de l'Univers,2016,Gérard Lanvin
+226078,L'Âge de Glace : les Lois de l'Univers,2016,Ray Romano
+226078,L'Âge de Glace : les Lois de l'Univers,2016,Elie Semoun
+231738,Débarquement immédiat,2016,Ary Abittan
+231738,Débarquement immédiat,2016,Medi Sadoun
+231738,Débarquement immédiat,2016,Cyril Lecomte
+206317,Bastille Day,2016,Idris Elba
+206317,Bastille Day,2016,Richard Madden
+206317,Bastille Day,2016,Charlotte Le Bon
+232226,Florence Foster Jenkins,2016,Meryl Streep
+232226,Florence Foster Jenkins,2016,Hugh Grant
+232226,Florence Foster Jenkins,2016,Simon Helberg
+237226,L'Olivier,2016,Anna Castillo
+237226,L'Olivier,2016,Javier Gutiérrez
+237226,L'Olivier,2016,Pep Ambròs
+238745,Juillet Août,2016,Alma Jodorowsky
+238745,Juillet Août,2016,Luna Lou
+238745,Juillet Août,2016,Patrick Chesnais
+2188,Les Poings dans les poches,2016,Lou Castel
+2188,Les Poings dans les poches,2016,Paola Pitagora
+2188,Les Poings dans les poches,2016,Marino Masé
+234154,La Vie est belge,2016,Amaryllis Uitterlinden
+234154,La Vie est belge,2016,Arthur Dupont
+234154,La Vie est belge,2016,Jos Verbist
+240073,Sparrows,2016,Atli Oskar Fjalarsson
+240073,Sparrows,2016,Ingvar Sigurðsson
+240073,Sparrows,2016,Nanna Kristín Magnúsdóttir
+248720,La Panthère noire,2016,Donald Sumpter
+248720,La Panthère noire,2016,Debbie Farrington
+248720,La Panthère noire,2016,Marjorie Yates
+5131,Mémoires du sous-developpement,2016,Sergio Corrieri
+5131,Mémoires du sous-developpement,2016,Omar Valdés
+5131,Mémoires du sous-developpement,2016,Rene de la Cruz
+231836,Colonia,2016,Emma Watson
+231836,Colonia,2016,Daniel Brühl
+231836,Colonia,2016,Michael Nyqvist
+181061,Independence Day : Resurgence,2016,Liam Hemsworth
+181061,Independence Day : Resurgence,2016,Jeff Goldblum
+181061,Independence Day : Resurgence,2016,Bill Pullman
+197814,Le BGG – Le Bon Gros Géant,2016,Mark Rylance
+197814,Le BGG – Le Bon Gros Géant,2016,Dany Boon
+197814,Le BGG – Le Bon Gros Géant,2016,Ruby Barnhill
+228165,American Nightmare 3 : Elections,2016,Frank Grillo
+228165,American Nightmare 3 : Elections,2016,Elizabeth Mitchell
+228165,American Nightmare 3 : Elections,2016,Mykelti Williamson
+230281,Man on High Heels,2016,Seung-Won Cha
+230281,Man on High Heels,2016,Jung-se Oh
+230281,Man on High Heels,2016,Sung-woong Park
+248033,Parenthèse,2016,Vincent Winterhalter
+248033,Parenthèse,2016,Gilles Gaston-Dreyfus
+248033,Parenthèse,2016,Eric Viellard
+198759,Elvis & Nixon,2016,Michael Shannon
+198759,Elvis & Nixon,2016,Kevin Spacey
+198759,Elvis & Nixon,2016,Alex Pettyfer
+231353,Absence,2016,Matheus Fagundes
+231353,Absence,2016,Irandhir Santos
+231353,Absence,2016,Gilda Nomacce
+243939,D'une famille à l'autre,2016,Naomi Nero
+243939,D'une famille à l'autre,2016,Dani Nefussi
+243939,D'une famille à l'autre,2016,Matheus Nachtergaele
+246871,Une nouvelle année,2016,Nadya Lumpova
+246871,Une nouvelle année,2016,Aleksey Filimonov
+246871,Une nouvelle année,2016,Natalya Tereshkova
+247365,Kabali,2016,Rajinikanth
+247365,Kabali,2016,Winston Chao
+247365,Kabali,2016,Radhika Apte
+223199,Insaisissables 2,2016,Jesse Eisenberg
+223199,Insaisissables 2,2016,Mark Ruffalo
+223199,Insaisissables 2,2016,Woody Harrelson
+237443,Comme des bêtes,2016,Philippe Lacheau
+237443,Comme des bêtes,2016,Louis C.K.
+237443,Comme des bêtes,2016,François Damiens
+233552,The Wave,2016,Kristoffer Joner
+233552,The Wave,2016,Thomas Bo Larsen
+233552,The Wave,2016,Ane Dahl Torp
+184269,Genius,2016,Colin Firth
+184269,Genius,2016,Jude Law
+184269,Genius,2016,Nicole Kidman
+211082,La Couleur de la victoire,2016,Stephan James
+211082,La Couleur de la victoire,2016,Jason Sudeikis
+211082,La Couleur de la victoire,2016,Eli Goree
+239539,Guibord s'en va-t-en guerre,2016,Patrick Huard
+239539,Guibord s'en va-t-en guerre,2016,Irdens Exantus
+239539,Guibord s'en va-t-en guerre,2016,Clémence Dufresne-Deslières
+202642,Rio 2096 : Une histoire d'amour et de furie,2016,Selton Mello
+202642,Rio 2096 : Une histoire d'amour et de furie,2016,Camila Pitanga
+202642,Rio 2096 : Une histoire d'amour et de furie,2016,Rodrigo Santoro
+221273,Carmina !,2016,Carmina Barrios
+221273,Carmina !,2016,María León
+221273,Carmina !,2016,Paco Casaus
+240359,Déesses indiennes en colère,2016,Amrit Maghera
+240359,Déesses indiennes en colère,2016,Rajshri Deshpande
+240359,Déesses indiennes en colère,2016,Pavleen Gujral
+241161,À tous les vents du ciel,2016,Noémie Merlant
+241161,À tous les vents du ciel,2016,Daniel Njo Lobé
+241161,À tous les vents du ciel,2016,Marie-Christine Barrault
 130191,Au-delà de l'illusion,2016,Catherine Zeta-Jones
 130191,Au-delà de l'illusion,2016,Guy Pearce
 130191,Au-delà de l'illusion,2016,Timothy Spall
+248328,Dishoom,2016,Jacqueline Fernandez
+248328,Dishoom,2016,John Abraham (II)
+248328,Dishoom,2016,Varun Dhawan
+144185,Suicide Squad,2016,Margot Robbie
+144185,Suicide Squad,2016,Will Smith
+144185,Suicide Squad,2016,Jared Leto
+238291,Bad Moms,2016,Mila Kunis
+238291,Bad Moms,2016,Kristen Bell
+238291,Bad Moms,2016,Kathryn Hahn
+234622,Ma vie de chat,2016,Kevin Spacey
+234622,Ma vie de chat,2016,Jennifer Garner
+234622,Ma vie de chat,2016,Christopher Walken
+231252,La Chanson de l'éléphant,2016,Bruce Greenwood
+231252,La Chanson de l'éléphant,2016,Xavier Dolan
+231252,La Chanson de l'éléphant,2016,Catherine Keener
+238667,Free Dance,2016,Keenan Kampa
+238667,Free Dance,2016,Nicholas Galitzine
+238667,Free Dance,2016,Jane Seymour
+2944,Poussières dans le vent,2016,Shufang Chen
+2944,Poussières dans le vent,2016,Hsin Shu-Fen
+2944,Poussières dans le vent,2016,Li Tien-lu
+235198,Ma révolution,2016,Samuel Vincent
+235198,Ma révolution,2016,Anamaria Vartolomei
+235198,Ma révolution,2016,Lubna Azabal
+91878,Les Garçons de Fengkuei,2016,Niu Doze
+91878,Les Garçons de Fengkuei,2016,Niu Cheng-Che
+91878,Les Garçons de Fengkuei,2016,Lee Hsiu-Ling
+21767,Green Green Grass of Home,2016,Kenny Bee
+21767,Green Green Grass of Home,2016,Mei Fang
+21767,Green Green Grass of Home,2016,Tsui Fu-Sheng
+236818,Sieranevada,2016,Mimi Branescu
+236818,Sieranevada,2016,Judith State
+236818,Sieranevada,2016,Bogdan Dumitrache
+130483,Pauvres millionnaires,2016,Maurizio Arena
+130483,Pauvres millionnaires,2016,Renato Salvatori
+130483,Pauvres millionnaires,2016,Lorella De Luca
+95538,Cute Girl,2016,Kenny Bee
+95538,Cute Girl,2016,Anthony Chan
+95538,Cute Girl,2016,Feng Fei-Fei
+231615,Jason Bourne,2016,Matt Damon
+231615,Jason Bourne,2016,Tommy Lee Jones
+231615,Jason Bourne,2016,Alicia Vikander
+241159,C'est quoi cette famille?!,2016,Julie Gayet
+241159,C'est quoi cette famille?!,2016,Thierry Neuvic
+241159,C'est quoi cette famille?!,2016,Julie Depardieu
+126155,S.O.S. Fantômes,2016,Melissa McCarthy
+126155,S.O.S. Fantômes,2016,Kristen Wiig
+126155,S.O.S. Fantômes,2016,Kate McKinnon
+236567,L'Économie du couple,2016,Bérénice Bejo
+236567,L'Économie du couple,2016,Cédric Kahn
+236567,L'Économie du couple,2016,Marthe Keller
+98532,The Endless Summer,2016,Bruce Brown
+236916,"Stefan Zweig, adieu l'Europe",2016,Josef Hader
+236916,"Stefan Zweig, adieu l'Europe",2016,Barbara Sukowa
+236916,"Stefan Zweig, adieu l'Europe",2016,Aenne Schwarz
+244605,Parasol,2016,Julienne Goeffers
+244605,Parasol,2016,Delphine Théodore
+244605,Parasol,2016,Alfie Thomson
+246702,Dernier train pour Busan,2016,Gong Yoo
+246702,Dernier train pour Busan,2016,Yu-mi Jung
+246702,Dernier train pour Busan,2016,Dong-seok Ma
+240685,Instinct de survie - The Shallows,2016,Blake Lively
+240685,Instinct de survie - The Shallows,2016,Angelo Lozano Corzo
+240685,Instinct de survie - The Shallows,2016,Jose Manuel Trujillo Salas
+228026,Toni Erdmann,2016,Peter Simonischek
+228026,Toni Erdmann,2016,Sandra Hüller
+228026,Toni Erdmann,2016,Michael Wittenborn
+219903,Peter et Elliott le dragon,2016,Bryce Dallas Howard
+219903,Peter et Elliott le dragon,2016,Robert Redford
+219903,Peter et Elliott le dragon,2016,Oakes Fegley
+215770,Star Trek Sans limites,2016,Chris Pine
+215770,Star Trek Sans limites,2016,Zachary Quinto
+215770,Star Trek Sans limites,2016,Simon Pegg
+234427,Hors contrôle,2016,Zac Efron
+234427,Hors contrôle,2016,Adam Devine
+234427,Hors contrôle,2016,Anna Kendrick
+240698,Moka,2016,Emmanuelle Devos
+240698,Moka,2016,Nathalie Baye
+240698,Moka,2016,David Clavel
+244867,El Acompañante,2016,Yotuel Romero
+244867,El Acompañante,2016,Armando Miguel Gómez
+244867,El Acompañante,2016,Camila Arteche
+245854,Barbie: Star Light Adventure,2016,Erica Lindbeck
+245854,Barbie: Star Light Adventure,2016,Robbie Daymond
+245854,Barbie: Star Light Adventure,2016,Kimberly Woods
+171204,Agents presque secrets,2016,Dwayne Johnson
+171204,Agents presque secrets,2016,Kevin Hart
+171204,Agents presque secrets,2016,Amy Ryan
+235120,Nerve,2016,Emma Roberts
+235120,Nerve,2016,Dave Franco
+235120,Nerve,2016,Emily Meade
+238670,Dans le noir,2016,Teresa Palmer
+238670,Dans le noir,2016,Maria Bello
+238670,Dans le noir,2016,Billy Burke
+243226,Rester Vertical,2016,Damien Bonnard
+243226,Rester Vertical,2016,India Hair
+243226,Rester Vertical,2016,Christian Bouillette
+236974,"Mimosas, la voie de l’Atlas",2016,Ahmed Hammoud
+236974,"Mimosas, la voie de l’Atlas",2016,Shakib Ben Omar
+236974,"Mimosas, la voie de l’Atlas",2016,Said Aagli
+248357,Le Correspondant,2016,Jimmy Labeeu
+248357,Le Correspondant,2016,Sophie Mousel
+248357,Le Correspondant,2016,Charles Berling
+227910,"Iqbal, l'enfant qui n’avait pas peur",2016,Bruno Solo
+227910,"Iqbal, l'enfant qui n’avait pas peur",2016,Yvan Le Bolloc'h
+227910,"Iqbal, l'enfant qui n’avait pas peur",2016,Victor Quilichini
+248514,Elektro Mathematrix,2016,Khaled Abdulahi
+248514,Elektro Mathematrix,2016,Arnaud Bacharach
+248514,Elektro Mathematrix,2016,Mamadou Bathily
+197487,Princess,2016,Katja Kukkola
+197487,Princess,2016,Krista Kosonen
+197487,Princess,2016,Samuli Edelmann
+236098,Hôtel Singapura,2016,Josie Ho
+236098,Hôtel Singapura,2016,George Young
+236098,Hôtel Singapura,2016,Woo-sik Choi
+215135,Mechanic Résurrection,2016,Jason Statham
+215135,Mechanic Résurrection,2016,Jessica Alba
+215135,Mechanic Résurrection,2016,Tommy Lee Jones
+244069,Divines,2016,Oulaya Amamra
+244069,Divines,2016,Kevin Mischel
+244069,Divines,2016,Jisca Kalvanda
+228047,Blood Father,2016,Mel Gibson
+228047,Blood Father,2016,Erin Moriarty
+228047,Blood Father,2016,Diego Luna
+236312,Un Petit Boulot,2016,Romain Duris
+236312,Un Petit Boulot,2016,Michel Blanc
+236312,Un Petit Boulot,2016,Alice Belaïdi
+231885,Nocturama,2016,Finnegan Oldfield
+231885,Nocturama,2016,Vincent Rottiers
+231885,Nocturama,2016,Hamza Meziani
+238274,Le Fils de Jean,2016,Pierre Deladonchamps
+238274,Le Fils de Jean,2016,Gabriel Arcand
+238274,Le Fils de Jean,2016,Catherine de Léan
+187880,Fronteras,2016,Germán Alcarazu
+187880,Fronteras,2016,Adil Koukouh
+187880,Fronteras,2016,Joseba Ugalde
+248583,La Mécanique des flux,2016,pour seules armes la force de leurs rêves et leur vitalité
+248583,La Mécanique des flux,2016,ils affrontent une violence qui ne dit pas son nom
+248583,La Mécanique des flux,2016,décidant ainsi de leurs vies
+248583,La Mécanique des flux,2016,envers et contre tout. Un autre regard
+248583,La Mécanique des flux,2016,à la fois proche
+248583,La Mécanique des flux,2016,sensible et cinématographique
+248583,La Mécanique des flux,2016,sur cette réalité.
+233908,First date,2016,Parker Sawyers
+233908,First date,2016,Tika Sumpter
+233908,First date,2016,Vanessa Bell Calloway
+247806,Nature morte avec des oranges,2016,Laura d’Assche
+247806,Nature morte avec des oranges,2016,Frédéric Moulin
+247806,Nature morte avec des oranges,2016,Julian Eggerickx
+239451,Olmo et la Mouette,2016,Olivia Corsini
+239451,Olmo et la Mouette,2016,Serge Nicolaï
+239451,Olmo et la Mouette,2016,Arman Saribekyan
+239846,Blanka,2016,Cydel Gabutero
+239846,Blanka,2016,Peter Millari
+239846,Blanka,2016,Jomar Bisuyo
+206412,Comancheria,2016,Chris Pine
+206412,Comancheria,2016,Ben Foster
+206412,Comancheria,2016,Jeff Bridges
+240836,Frantz,2016,Pierre Niney
+240836,Frantz,2016,Paula Beer
+240836,Frantz,2016,Ernst Stötzner
+227327,Éternité,2016,Audrey Tautou
+227327,Éternité,2016,Bérénice Bejo
+227327,Éternité,2016,Mélanie Laurent
+232164,Infiltrator,2016,Bryan Cranston
+232164,Infiltrator,2016,Diane Kruger
+232164,Infiltrator,2016,John Leguizamo
+217537,Ben-Hur,2016,Jack Huston
+217537,Ben-Hur,2016,Morgan Freeman
+217537,Ben-Hur,2016,Toby Kebbell
+230079,Voir du Pays,2016,Soko
+230079,Voir du Pays,2016,Ariane Labed
+230079,Voir du Pays,2016,Ginger Romàn
+245961,Relève : histoire d'une création,2016,Benjamin Millepied
+227756,Rodéo,2016,Juliano Cazarré
+227756,Rodéo,2016,Maeve Jinkings
+227756,Rodéo,2016,Alyne Santana
+245828,Jeunesse,2016,Kévin Azaïs
+245828,Jeunesse,2016,Jean-François Stévenin
+245828,Jeunesse,2016,Samir Guesmi
+248776,Propriété privée,2016,Kate Manx
+248776,Propriété privée,2016,Corey Allen
+248776,Propriété privée,2016,Warren Oates
+246640,Mandorla,2016,Roberto Miller
+246640,Mandorla,2016,Marianne Shine
+246640,Mandorla,2016,Alain Blazquez
+248917,One More Time With Feeling,2016,Nick Cave
+248917,One More Time With Feeling,2016,Nick Cave And The Bad Seeds
+249721,Iru Mugan,2016,Vikram
+249721,Iru Mugan,2016,Nayanthara
+249721,Iru Mugan,2016,Nithya Menon
+249915,Baar Baar Dekho,2016,Katrina Kaif
+249915,Baar Baar Dekho,2016,Sidharth Malhotra
+249915,Baar Baar Dekho,2016,Sayani Gupta
+196253,War Dogs,2016,Miles Teller
+196253,War Dogs,2016,Jonah Hill
+196253,War Dogs,2016,Ana de Armas
+239116,Victoria,2016,Virginie Efira
+239116,Victoria,2016,Vincent Lacoste
+239116,Victoria,2016,Melvil Poupaud
+232911,Free State Of Jones,2016,Matthew McConaughey
+232911,Free State Of Jones,2016,Gugu Mbatha-Raw
+232911,Free State Of Jones,2016,Mahershala Ali
+214642,Ainsi va la vie,2016,Michael Douglas
+214642,Ainsi va la vie,2016,Diane Keaton
+214642,Ainsi va la vie,2016,Rob Reiner
+230170,La Taularde,2016,Sophie Marceau
+230170,La Taularde,2016,Suzanne Clément
+230170,La Taularde,2016,Anne Le Ny
+240074,Les Démons,2016,Édouard Tremblay-Grenier
+240074,Les Démons,2016,Pier-Luc Funk
+240074,Les Démons,2016,Yannick Gobeil-Dugas
+232806,Mr. Ove,2016,Rolf Lassgård
+232806,Mr. Ove,2016,Bahar Pars
+232806,Mr. Ove,2016,Ida Engvoll
+222576,Toril,2016,Vincent Rottiers
+222576,Toril,2016,Bernard Blancan
+222576,Toril,2016,Tim Seyfi
+238143,Le Pantin,2016,Philippe Gouin
+238143,Le Pantin,2016,Aurore Laloy
+238143,Le Pantin,2016,Daniel Berlioux
+232420,Simshar,2016,Lotfi Abdelli
+232420,Simshar,2016,Sékouba Doucouré
+232420,Simshar,2016,Clare Agiue
+239918,Where To Invade Next,2016,Michael Moore
+236466,Eshtebak,2016,Nelly Karim
+236466,Eshtebak,2016,Hani Adel
+236466,Eshtebak,2016,Ahmed Malek
+246660,Confusion,2016,Aude Bourrier
+246660,Confusion,2016,Joseph Chanet
+246660,Confusion,2016,Caroline Gasser
+248851,Mohenjo Daro,2016,Hrithik Roshan
+248851,Mohenjo Daro,2016,Pooja Hegde
+248851,Mohenjo Daro,2016,Kabir Bedi
+222127,Chronique d'une vie...Cronica Del Fin Del Mundo,2016,Victor Hugo Morant
+222127,Chronique d'une vie...Cronica Del Fin Del Mundo,2016,Jimmy Vasquez
+222127,Chronique d'une vie...Cronica Del Fin Del Mundo,2016,Claudia Aguirre
+230314,The Beatles : Le monde est à eux,2016,Paul McCartney
+230314,The Beatles : Le monde est à eux,2016,Ringo Starr
+230314,The Beatles : Le monde est à eux,2016,John Lennon
+249285,Leonardo Da Vinci - Le génie de Milan,2016,Sandro Lombardi
+249285,Leonardo Da Vinci - Le génie de Milan,2016,Cristiana Capotondi
+249285,Leonardo Da Vinci - Le génie de Milan,2016,Alessandro Haber
+237510,Juste La Fin Du Monde,2016,Gaspard Ulliel
+237510,Juste La Fin Du Monde,2016,Nathalie Baye
+237510,Juste La Fin Du Monde,2016,Léa Seydoux
+234291,Kubo et l'armure magique,2016,Charlize Theron
+234291,Kubo et l'armure magique,2016,Art Parkinson
+234291,Kubo et l'armure magique,2016,Ralph Fiennes
+241777,Blair Witch,2016,Brandon Scott
+241777,Blair Witch,2016,Callie Hernandez
+241777,Blair Witch,2016,Valorie Curry
+233662,Cézanne et moi,2016,Guillaume Gallienne
+233662,Cézanne et moi,2016,Guillaume Canet
+233662,Cézanne et moi,2016,Alice Pol
+226776,Vendanges,2016,ce film
+226776,Vendanges,2016,"Paul Lacoste a cherché à savoir si les vendangeurs saisonniers choisissent leur vie ou la subissent. Le metteur en scène explique ne pas avoir trouvé la réponse : """"D’un côté"
+226776,Vendanges,2016,oui
+226776,Vendanges,2016,ce sont des victimes sociales et dans le même temps
+226776,Vendanges,2016,il y a une forme de liberté à faire les vendanges. Le cadre est superbe
+226776,Vendanges,2016,on est au grand air
+226776,Vendanges,2016,"vous n’avez pas un patron constamment sur le dos. C’est une précarité subie mais aussi un peu choisie."""""
+239514,Brooklyn Village,2016,Theo Taplitz
+239514,Brooklyn Village,2016,Michael Barbieri
+239514,Brooklyn Village,2016,Greg Kinnear
+243429,Tout va bien,2016,Agustín Silva
+243429,Tout va bien,2016,Paulina García
+243429,Tout va bien,2016,Alejandro Goic
+245572,A Cinderella Story: If The Shoe Fits,2016,Sofia Carson
+245572,A Cinderella Story: If The Shoe Fits,2016,Jennifer Tilly
+245572,A Cinderella Story: If The Shoe Fits,2016,Thomas Law
+181546,Rock'n'roll... Of Corse!,2016,Sting
+181546,Rock'n'roll... Of Corse!,2016,Kim Wilde
+181546,Rock'n'roll... Of Corse!,2016,Henri Padovani
+237431,Des Porto Ricains à Paris,2016,Alice Taglioni
+237431,Des Porto Ricains à Paris,2016,Luis Guzmán
+237431,Des Porto Ricains à Paris,2016,Rosario Dawson
+244530,Soy Nero,2016,Johnny Ortiz
+244530,Soy Nero,2016,Rory Cochrane
+244530,Soy Nero,2016,Aml Ameen
+248011,Faeryland,2016,Yves Duteil
+248011,Faeryland,2016,Janine Piguet
+250223,Thodari,2016,V Dhanush
+250223,Thodari,2016,Keerthy Suresh
+250223,Thodari,2016,Ganesh Venkatraman
+229845,Pet,2016,Dominic Monaghan
+229845,Pet,2016,Ksenia Solo
+229845,Pet,2016,Jennette McCurdy
+248951,Louane - Le concert au cinéma,2016,Louane Emera
+248320,Norma (Royal Opera House),2016,Anna Netrebko
+248320,Norma (Royal Opera House),2016,Joseph Calleja
+248320,Norma (Royal Opera House),2016,Sonia Ganassi
+207874,Les 7 Mercenaires,2016,Denzel Washington
+207874,Les 7 Mercenaires,2016,Chris Pratt
+207874,Les 7 Mercenaires,2016,Ethan Hawke
+243329,Radin!,2016,Dany Boon
+243329,Radin!,2016,Laurence Arné
+243329,Radin!,2016,Noémie Schmidt
+241115,La Danseuse,2016,Soko
+241115,La Danseuse,2016,Gaspard Ulliel
+241115,La Danseuse,2016,Mélanie Thierry
+239210,Aquarius,2016,Sônia Braga
+239210,Aquarius,2016,Maeve Jinkings
+239210,Aquarius,2016,Irandhir Santos
+236397,Morgane,2016,Kate Mara
+236397,Morgane,2016,Anya Taylor-Joy
+236397,Morgane,2016,Toby Jones
+235738,Le Pape François,2016,Dario Grandinetti
+235738,Le Pape François,2016,Silvia Abascal
+235738,Le Pape François,2016,Laura Novoa
+241702,Dogs,2016,Dragos Bucur
+241702,Dogs,2016,Gheorghe Visu
+241702,Dogs,2016,Vlad Ivanov
+244222,"Fuocoammare, par-delà Lampedusa",2016,Pietro Bartolo
+247838,"Apollinaire, 13 films-poèmes",2016,Sylvain Despretz
+247838,"Apollinaire, 13 films-poèmes",2016,Pascal Greggory
+247838,"Apollinaire, 13 films-poèmes",2016,Yolande Moreau
+237488,L'Étoile du jour,2016,Denis Lavant
+237488,L'Étoile du jour,2016,Iggy Pop
+237488,L'Étoile du jour,2016,Tchéky Karyo
+247587,Nola Circus,2016,Jessica Morali
+247587,Nola Circus,2016,Martin Bats Bradford
+247587,Nola Circus,2016,Kamille McCuin
+247802,La Déferlante,2016,Mathilde Lazuech
+247802,La Déferlante,2016,Vincent Mermet
+247802,La Déferlante,2016,Joris Dangles
+234945,The Sea is behind,2016,Malek Akhmiss
+234945,The Sea is behind,2016,Fairouz Amiri
+234945,The Sea is behind,2016,Mohamed Aouragh
+234420,The Boss,2016,Melissa McCarthy
+234420,The Boss,2016,Kristen Bell
+234420,The Boss,2016,Peter Dinklage
+248014,M.S. Dhoni: The Untold Story,2016,Sushant Singh Rajput
+248014,M.S. Dhoni: The Untold Story,2016,Kiara Advani
+248014,M.S. Dhoni: The Untold Story,2016,Anupam Kher
+194075,Miss Peregrine et les enfants particuliers,2016,Eva Green
+194075,Miss Peregrine et les enfants particuliers,2016,Asa Butterfield
+194075,Miss Peregrine et les enfants particuliers,2016,Samuel L. Jackson
+232740,Don't Breathe - La maison des ténèbres,2016,Stephen Lang
+232740,Don't Breathe - La maison des ténèbres,2016,Jane Levy
+232740,Don't Breathe - La maison des ténèbres,2016,Dylan Minnette
+241450,Chouf,2016,Sofian Khammes
+241450,Chouf,2016,Foued Nabba
+241450,Chouf,2016,Zine Darar
+223728,Une vie entre deux océans,2016,Michael Fassbender
+223728,Une vie entre deux océans,2016,Alicia Vikander
+223728,Une vie entre deux océans,2016,Rachel Weisz
+245618,Le Ciel Attendra,2016,Noémie Merlant
+245618,Le Ciel Attendra,2016,Naomi Amarger
+245618,Le Ciel Attendra,2016,Sandrine Bonnaire
+170004,Bridget Jones Baby,2016,Renée Zellweger
+170004,Bridget Jones Baby,2016,Colin Firth
+170004,Bridget Jones Baby,2016,Patrick Dempsey
+247959,Monsieur Bout de Bois,2016,Martin Freeman
+247959,Monsieur Bout de Bois,2016,Sally Hawkins
+247959,Monsieur Bout de Bois,2016,Jennifer Saunders
+236237,Mercenaire,2016,Toki Pilioko
+236237,Mercenaire,2016,Iliana Zabeth
+236237,Mercenaire,2016,Mikaele Tuugahala
+1107,L'Histoire officielle,2016,Norma Aleandro
+1107,L'Histoire officielle,2016,Héctor Alterio
+1107,L'Histoire officielle,2016,Hugo Arana
+235348,Poesía Sin Fin,2016,Adan Jodorowsky
+235348,Poesía Sin Fin,2016,Pamela Flores
+235348,Poesía Sin Fin,2016,Brontis Jodorowsky
+244915,La Philo vagabonde,2016,Alain Guyard
+242059,Le Cancre,2016,Pascal Cervo
+242059,Le Cancre,2016,Paul Vecchiali
+242059,Le Cancre,2016,Catherine Deneuve
+273025,Garçon !,2016,Bastien Ughetto
+273025,Garçon !,2016,Dominique Thomas
+273025,Garçon !,2016,Pascal Aubert
+250279,MAFIA III,2016,Lincoln Clay
+250279,MAFIA III,2016,Vito Scaletta
+250279,MAFIA III,2016,Thomas Burke L'Anarchiste
+250522,Rekka,2016,Vijay Sethupathi
+250522,Rekka,2016,Lakshmi Menon
+250522,Rekka,2016,Kishore Kumar G.
+250672,Remo,2016,Keerthy Suresh
+250672,Remo,2016,Sathish Krishnan
+250672,Remo,2016,Siva Karthikeyan
+245971,Tristan et Isolde (Met-Pathé Live),2016,Nina Stemme
+227320,Captain Fantastic,2016,Viggo Mortensen
+227320,Captain Fantastic,2016,Frank Langella
+227320,Captain Fantastic,2016,George MacKay
+189535,L'Odyssée,2016,Lambert Wilson
+189535,L'Odyssée,2016,Pierre Niney
+189535,L'Odyssée,2016,Audrey Tautou
+191344,Deepwater,2016,Mark Wahlberg
+191344,Deepwater,2016,Dylan O'Brien
+191344,Deepwater,2016,Kate Hudson
+237405,La Fille Inconnue,2016,Adèle Haenel
+237405,La Fille Inconnue,2016,Olivier Bonnaud
+237405,La Fille Inconnue,2016,Jérémie Renier
+237409,Cigognes et compagnie,2016,Florent Peyre
+237409,Cigognes et compagnie,2016,Andy Samberg
+237409,Cigognes et compagnie,2016,Bérengère Krief
+247756,Virtual Revolution,2016,Mike Dopud
+247756,Virtual Revolution,2016,Jane Badler
+247756,Virtual Revolution,2016,Jochen Hägele
+232390,Voyage à travers le cinéma français,2016,Bertrand Tavernier
+232390,Voyage à travers le cinéma français,2016,André Marcon
+232390,Voyage à travers le cinéma français,2016,Thierry Frémaux
+242982,A Beautiful Planet,2016,Jennifer Lawrence
+243439,Sonita,2016,Sonita Alizadeh
+243439,Sonita,2016,Rokhsareh Ghaem Maghami
+247645,La Pièce - Les derniers seront les premiers,2016,Thiébaut Viel
+247645,La Pièce - Les derniers seront les premiers,2016,Fahmi Guerbâa
+247645,La Pièce - Les derniers seront les premiers,2016,Dawala Badiri Diakite
+118831,Du soleil dans les yeux,2016,Irène Galter
+118831,Du soleil dans les yeux,2016,Gabriele Ferzetti
+118831,Du soleil dans les yeux,2016,Pina Bottin
+248935,L'Homme flottant,2016,Camille Bardery
+248935,L'Homme flottant,2016,Anne-Jacqueline Bousch
+248935,L'Homme flottant,2016,Muriel Gaudin
+238133,Les Impressionnistes,2016,Robert Lindsay
+238133,Les Impressionnistes,2016,Glen McCready
+250715,La Jeune fille à la perle,2016,Hugh Bonneville
+250715,La Jeune fille à la perle,2016,Tracy Chevalier
+250714,Rembrandt,2016,un accès exclusif aux deux galeries
+250714,Rembrandt,2016,le film documente ce spectacle extraordinaire et entremêle l’histoire de la vie de Rembrandt avec les coulisses de la préparation de l’exposition.
+248325,Cosi Fan Tutte (Royal Opera House),2016,Johannes Martin Kränzle
+248325,Cosi Fan Tutte (Royal Opera House),2016,Daniel Behle
+248325,Cosi Fan Tutte (Royal Opera House),2016,Alessio Arduini
+246811,Willy 1er,2016,Daniel Vannet
+246811,Willy 1er,2016,Noémie Lvovsky
+246811,Willy 1er,2016,Romain Léger
+238953,Brice 3,2016,Jean Dujardin
+238953,Brice 3,2016,Clovis Cornillac
+238953,Brice 3,2016,Bruno Salomone
+236415,Ma Vie De Courgette,2016,Gaspard Schlatter
+236415,Ma Vie De Courgette,2016,Sixtine Murat
+236415,Ma Vie De Courgette,2016,Paulin Jaccoud
+225768,Jack Reacher: Never Go Back,2016,Tom Cruise
+225768,Jack Reacher: Never Go Back,2016,Cobie Smulders
+225768,Jack Reacher: Never Go Back,2016,Robert Knepper
+221615,Mal de Pierres,2016,Marion Cotillard
+221615,Mal de Pierres,2016,Louis Garrel
+221615,Mal de Pierres,2016,Alex Brendemühl
+183006,Les Trolls,2016,Louane Emera
+183006,Les Trolls,2016,Anna Kendrick
+183006,Les Trolls,2016,Matt Pokora
+244756,Apnée,2016,Céline Fuhrer
+244756,Apnée,2016,Thomas Scimeca
+244756,Apnée,2016,Maxence Tual
+233796,Le Teckel,2016,Greta Gerwig
+233796,Le Teckel,2016,Julie Delpy
+233796,Le Teckel,2016,Kieran Culkin
+246689,Olli Mäki,2016,Jarkko Lahti
+246689,Olli Mäki,2016,Oona Airola
+246689,Olli Mäki,2016,Eero Milonoff
+247874,Nouveau Monde,2016,Jeremy Rifkin
+250167,Miss Saigon - 25ème anniversaire Gala,2016,Jonathan Pryce
+250167,Miss Saigon - 25ème anniversaire Gala,2016,Lea Salonga
+250167,Miss Saigon - 25ème anniversaire Gala,2016,Alistair Brammer
+245973,Don giovanni (Met-Pathé Live),2016,Simon Keenlyside
+245973,Don giovanni (Met-Pathé Live),2016,Hibla Gerzmava
+130533,Doctor Strange,2016,Benedict Cumberbatch
+130533,Doctor Strange,2016,Chiwetel Ejiofor
+130533,Doctor Strange,2016,Tilda Swinton
+234725,La Fille du train,2016,Emily Blunt
+234725,La Fille du train,2016,Rebecca Ferguson
+234725,La Fille du train,2016,Haley Bennett
+58033,Bleeder,2016,Kim Bodnia
+58033,Bleeder,2016,Mads Mikkelsen
+58033,Bleeder,2016,Rikke Louise Andersson
+241697,"Moi, Daniel Blake",2016,Dave Johns
+241697,"Moi, Daniel Blake",2016,Hayley Squires
+241697,"Moi, Daniel Blake",2016,Dylan McKiernan
+227018,Sing Street,2016,Ferdia Walsh-Peelo
+227018,Sing Street,2016,Lucy Boynton
+227018,Sing Street,2016,Maria Doyle Kennedy
+244062,Tamara,2016,Héloïse Martin
+244062,Tamara,2016,Sylvie Testud
+244062,Tamara,2016,Cyril Gueï
+225946,L'Attrape-rêves,2016,Cillian Murphy
+225946,L'Attrape-rêves,2016,Jennifer Connelly
+225946,L'Attrape-rêves,2016,Mélanie Laurent
+246350,Le Mystère Jérôme Bosch,2016,Miquel Barceló
+246350,Le Mystère Jérôme Bosch,2016,Guo-Qiang Cai
+246350,Le Mystère Jérôme Bosch,2016,William Christie
+248061,Les Voyeurs,2016,Arik Einstein
+248061,Les Voyeurs,2016,Sima Eliyahu
+248061,Les Voyeurs,2016,Uri Zohar
+233319,L'Orchestre des aveugles,2016,Younes Megri
+233319,L'Orchestre des aveugles,2016,Mouna Fettou
+233319,L'Orchestre des aveugles,2016,Ilyas El Jihani
+45986,Les Yeux plus gros que le ventre,2016,Uri Zohar
+45986,Les Yeux plus gros que le ventre,2016,Arik Einstein
+45986,Les Yeux plus gros que le ventre,2016,Sima Eliyahu
+121986,Trois jours et un enfant,2016,Oded Kotler
+121986,Trois jours et un enfant,2016,Shai Asharov
+121986,Trois jours et un enfant,2016,Yehudit Sola
+248983,Brussel-Texas,2016,Dominique Potenza
+248983,Brussel-Texas,2016,Marjorie Kerhoas
+248983,Brussel-Texas,2016,Stéphane Malassenet
+249111,Les Noces de Figaro - All'Opera (CGR Events),2016,Carlos Alvarez
+249111,Les Noces de Figaro - All'Opera (CGR Events),2016,Diana Damrau
+249111,Les Noces de Figaro - All'Opera (CGR Events),2016,Markus Werba
+250272,La Bataille De Florange,2016,une imagination redoutable
+250272,La Bataille De Florange,2016,pendant deux années
+250272,La Bataille De Florange,2016,ils ont fait trembler les chefs d’états et leurs gouvernements tout en forgeant leur fraternité dans une lutte exemplaire. Un combat jonché de rebondissements
+250272,La Bataille De Florange,2016,de trahisons d’Etat
+250272,La Bataille De Florange,2016,de promesses non tenues
+250272,La Bataille De Florange,2016,de coups de gueule
+250272,La Bataille De Florange,2016,mais un combat d’hommes debout face à une multinationale et aux puissants.
+249978,Ae Dil Hai Mushkil,2016,Aishwarya Rai
+249978,Ae Dil Hai Mushkil,2016,Anushka Sharma
+249978,Ae Dil Hai Mushkil,2016,Ranbir Kapoor
+251172,Kodi,2016,V Dhanush
+251172,Kodi,2016,Trisha Krishnan
+251172,Kodi,2016,G. Marimuthu
+251101,Kaashmora,2016,Karthik Sivakumar
+251101,Kaashmora,2016,Nayanthara
+251101,Kaashmora,2016,Sri Diviya
+251121,Shivaay,2016,Ajay Devgan
+251121,Shivaay,2016,Erika Kaar
+251121,Shivaay,2016,Abigail Eames
+296180,Détour aux sources,2016,Roda Fawaz
+296180,Détour aux sources,2016,Cyril Gueï
+296180,Détour aux sources,2016,Ariane Ascaride
+231299,Mademoiselle,2016,Kim Min-Hee
+231299,Mademoiselle,2016,Tae-ri Kim
+231299,Mademoiselle,2016,Jung-woo Ha
+232013,Mr Wolff,2016,Ben Affleck
+232013,Mr Wolff,2016,Anna Kendrick
+232013,Mr Wolff,2016,J.K. Simmons
+229359,Snowden,2016,Joseph Gordon-Levitt
+229359,Snowden,2016,Shailene Woodley
+229359,Snowden,2016,Melissa Leo
+241480,La Folle Histoire de Max et Léon,2016,David Marsais
+241480,La Folle Histoire de Max et Léon,2016,Grégoire Ludig
+241480,La Folle Histoire de Max et Léon,2016,Alice Vial
+238997,Réparer Les Vivants,2016,Tahar Rahim
+238997,Réparer Les Vivants,2016,Emmanuelle Seigner
+238997,Réparer Les Vivants,2016,Anne Dorval
+234860,La Mort de Louis XIV,2016,Jean-Pierre Léaud
+234860,La Mort de Louis XIV,2016,Patrick d'Assumçao
+234860,La Mort de Louis XIV,2016,Marc Susini
+234748,Ouija : les origines,2016,Annalise Basso
+234748,Ouija : les origines,2016,Elizabeth Reaser
+234748,Ouija : les origines,2016,Lulu Wilson
+240449,One Piece: Gold,2016,Mayumi Tanaka
+240449,One Piece: Gold,2016,Ikue Ôtani
+240449,One Piece: Gold,2016,Hikari Mitsushima
+73975,Les Enfants du chemin de fer,2016,Dinah Sheridan
+73975,Les Enfants du chemin de fer,2016,Bernard Cribbins
+73975,Les Enfants du chemin de fer,2016,William Mervyn
+244092,The Mirror,2016,Jemma Dallender
+244092,The Mirror,2016,Joshua Dickinson
+244092,The Mirror,2016,Nate Fallows
+247262,Roseville,2016,Kalin Vrachanski
+247262,Roseville,2016,Lydia Indjova
+247262,Roseville,2016,Plamen Manassiev
+20697,Man on a Tightrope,2016,Fredric March
+20697,Man on a Tightrope,2016,Terry Moore
+20697,Man on a Tightrope,2016,Gloria Grahame
+232840,For This Is My Body,2016,Carl Barât
+232840,For This Is My Body,2016,Audrey Bastien
+232840,For This Is My Body,2016,Fanny Ardant
+250080,Food Coop,2016,des vrais gens dedans
+250080,Food Coop,2016,et un concept de supermarché collaboratif qui perdure depuis 1973. Et ça rend heureux ! Un endroit où on achète plus sain
+250080,Food Coop,2016,plus éthique et moins cher
+250080,Food Coop,2016,ça marche ! La bonne nouvelle
+250080,Food Coop,2016,"c'est que Tom Boothe et près de 3000 coopérateurs Parisiens s'apprêtent à ouvrir """"La Louve"""""
+250080,Food Coop,2016,développée ...
+6218,Il Boom,2016,Alberto Sordi
+6218,Il Boom,2016,Gianna Maria Canale
+6218,Il Boom,2016,Geri
+250713,Le curieux monde de Hieronymus Bosch,2016,Peter Greenaway
+250845,Trotro fait son cirque,2016,l'aide de papa
+250845,Trotro fait son cirque,2016,maman et de ses fidèles amis
+250845,Trotro fait son cirque,2016,Lili et Boubou
+250845,Trotro fait son cirque,2016,Trotro redouble de malice
+250845,Trotro fait son cirque,2016,de drôlerie et de poésie pour créer un spectacle merveilleux pour son amoureuse.
+247390,Le Clair ruisseau (Bolchoï-Pathé Live),2016,Svetlana Lunkina
+247390,Le Clair ruisseau (Bolchoï-Pathé Live),2016,Mikhail Lobukhin
+247390,Le Clair ruisseau (Bolchoï-Pathé Live),2016,Maria Alexandrova
+208104,Tu ne tueras point,2016,Andrew Garfield
+208104,Tu ne tueras point,2016,Vince Vaughn
+208104,Tu ne tueras point,2016,Teresa Palmer
+242886,L'Invitation,2016,Nicolas Bedos
+242886,L'Invitation,2016,Michaël Cohen
+242886,L'Invitation,2016,Camille Chamoux
+222798,Inferno,2016,Tom Hanks
+222798,Inferno,2016,Felicity Jones
+222798,Inferno,2016,Ben Foster
+238379,Ma Famille T'Adore Déjà,2016,Arthur Dupont
+238379,Ma Famille T'Adore Déjà,2016,Déborah François
+238379,Ma Famille T'Adore Déjà,2016,Thierry Lhermitte
+245360,Le Client,2016,Shahab Hosseini
+245360,Le Client,2016,Taraneh Alidoosti
+245360,Le Client,2016,Babak Karimi
+244758,Maman a tort,2016,Jeanne Jestin
+244758,Maman a tort,2016,Emilie Dequenne
+244758,Maman a tort,2016,Camille Chamoux
+247964,Dernières Nouvelles du Cosmos,2016,Dernières nouvelles du cosmos
+247964,Dernières Nouvelles du Cosmos,2016,l'émotion est encore plus forte
+247964,Dernières Nouvelles du Cosmos,2016,le sujet (une écrivain autiste) encore plus casse-gueule qui redonne la pèche mais là
+247964,Dernières Nouvelles du Cosmos,2016,ça va beaucoup plus loin jusqu'au cosmos
+247964,Dernières Nouvelles du Cosmos,2016,au plus profond de ...
+239971,La Grande course au fromage,2016,Kari Ann Grønsund
+239971,La Grande course au fromage,2016,Trond Hovik
+239971,La Grande course au fromage,2016,Trond Braenne
+236608,Les Beaux Jours d'Aranjuez,2016,Reda Kateb
+236608,Les Beaux Jours d'Aranjuez,2016,Sophie Semin
+236608,Les Beaux Jours d'Aranjuez,2016,Jens Harzer
+241135,L'Histoire de l'Amour,2016,Gemma Arterton
+241135,L'Histoire de l'Amour,2016,Elliott Gould
+241135,L'Histoire de l'Amour,2016,Mark Rendall
+244093,Les Oiseaux De Passage,2016,Clarisse Djuroski
+244093,Les Oiseaux De Passage,2016,Léa Warny
+244093,Les Oiseaux De Passage,2016,Jeanne Dandoy
+235771,Creative Control,2016,Benjamin Dickinson
+235771,Creative Control,2016,Nora Zehetner
+235771,Creative Control,2016,Dan Gill
+237603,2 nuits jusqu'au matin,2016,Marie-Josée Croze
+237603,2 nuits jusqu'au matin,2016,Mikko Nousiainen
+237603,2 nuits jusqu'au matin,2016,Arly Jover
+247793,Sadoum,2016,Vincent Cheikh
+247793,Sadoum,2016,Marie-Cécile Gueguen
+247793,Sadoum,2016,Grégory Baud
+249239,Mon père en grand,2016,Serge Renou
+249239,Mon père en grand,2016,Alix Schmidt
+249239,Mon père en grand,2016,Marie Rivière
+246396,Je M'appelle Feridun,2016,Halil Sezai Paracıkoğlu
+246396,Je M'appelle Feridun,2016,Büşra Pekin
+246396,Je M'appelle Feridun,2016,Özge Borak
+251937,Achcham Yenbadhu Madamaiyada,2016,Silambarasan Rajendar
+251937,Achcham Yenbadhu Madamaiyada,2016,Manjima Mohan
+251937,Achcham Yenbadhu Madamaiyada,2016,Baba Sehgal
+248327,Les Contes d’Hoffmann (Royal Opera House),2016,Vittorio Grigolo
+248327,Les Contes d’Hoffmann (Royal Opera House),2016,Thomas Hampson
+248327,Les Contes d’Hoffmann (Royal Opera House),2016,Christine Rice
+249118,Les Contes d'Hoffmann (UGC VIVA L'OPERA-FRA CINEMA),2016,Ramón Vargas
+249118,Les Contes d'Hoffmann (UGC VIVA L'OPERA-FRA CINEMA),2016,Nadine Koutcher
+249118,Les Contes d'Hoffmann (UGC VIVA L'OPERA-FRA CINEMA),2016,Philippe Jordan
+223940,Les Animaux fantastiques,2016,Eddie Redmayne
+223940,Les Animaux fantastiques,2016,Katherine Waterston
+223940,Les Animaux fantastiques,2016,Dan Fogler
+237830,Planétarium,2016,Natalie Portman
+237830,Planétarium,2016,Lily-Rose Depp
+237830,Planétarium,2016,Emmanuel Salinger
+248037,Les Têtes de l'emploi,2016,Franck Dubosc
+248037,Les Têtes de l'emploi,2016,Elsa Zylberstein
+248037,Les Têtes de l'emploi,2016,François-Xavier Demaison
+246813,Swagger,2016,Aïssatou Dia
+246813,Swagger,2016,Mariyama Diallo
+246813,Swagger,2016,Abou Fofana
+242491,Iris,2016,Romain Duris
+242491,Iris,2016,Charlotte Le Bon
+242491,Iris,2016,Jalil Lespert
+245158,Le Petit locataire,2016,Karin Viard
+245158,Le Petit locataire,2016,Philippe Rebbot
+245158,Le Petit locataire,2016,Hélène Vincent
+240082,Tour De France,2016,Gérard Depardieu
+240082,Tour De France,2016,"Sadok """"Sadek"""" Bourguiba"
+240082,Tour De France,2016,Louise Grinberg
+234760,"Polina, Danser Sa Vie",2016,Anastasia Shevtsova
+234760,"Polina, Danser Sa Vie",2016,Niels Schneider
+234760,"Polina, Danser Sa Vie",2016,Juliette Binoche
+106469,Eclairage intime,2016,Zdenek Bezusek
+106469,Eclairage intime,2016,Karel Blazek
+106469,Eclairage intime,2016,Vera Kresadlová
+249288,Gorge Coeur Ventre,2016,Virgile Hanrot
+249288,Gorge Coeur Ventre,2016,Dimitri Buchenet
+207002,Trashed,2016,Jeremy Irons
+246916,Close Encounters with Vilmos Zsigmond,2016,Vilmos Zsigmond
+246916,Close Encounters with Vilmos Zsigmond,2016,Susan Roether Zsigmond
+246916,Close Encounters with Vilmos Zsigmond,2016,John Travolta
+239824,Tanna,2016,Marie Wawa
+239824,Tanna,2016,Mungau Dain
+239824,Tanna,2016,Marceline Rofit
+251616,Aynabaji,2016,Chanchal Chowdhury
+251616,Aynabaji,2016,Nabila Masuma
+251705,Dieu Existe Kumaru,2016,Prakash Raj
+251705,Dieu Existe Kumaru,2016,Nikki Galrani
+251705,Dieu Existe Kumaru,2016,G.V. Prakash Kumar
+247123,Adam Mısın!,2016,Ahmet Çakar
+247123,Adam Mısın!,2016,Sinan Engin
+247123,Adam Mısın!,2016,Ceyhun Yılmaz
+286726,Sur les traces de ma mère,2016,André Schneider
+286726,Sur les traces de ma mère,2016,Thomas Laroppe
+286726,Sur les traces de ma mère,2016,Alexandre Vallès
+251811,Mon père cet inconnu,2016,Jana De Kazhig
+251811,Mon père cet inconnu,2016,Marie Brue
+251811,Mon père cet inconnu,2016,Etouman Elvire
+194969,Seul dans Berlin,2016,Emma Thompson
+194969,Seul dans Berlin,2016,Brendan Gleeson
+194969,Seul dans Berlin,2016,Daniel Brühl
+228094,Alliés,2016,Brad Pitt
+228094,Alliés,2016,Marion Cotillard
+228094,Alliés,2016,Jared Harris
+234386,Arès,2016,Ola Rapace
+234386,Arès,2016,Micha Lescot
+234386,Arès,2016,Thierry Hancisse
+230083,Une Vie,2016,Judith Chemla
+230083,Une Vie,2016,Jean-Pierre Darroussin
+230083,Une Vie,2016,Yolande Moreau
+194177,La Fille de Brest,2016,Sidse Babett Knudsen
+194177,La Fille de Brest,2016,Benoît Magimel
+194177,La Fille de Brest,2016,Charlotte Laemmel
+241158,Rupture pour tous,2016,Benjamin Lavernhe
+241158,Rupture pour tous,2016,Elisa Erka
+241158,Rupture pour tous,2016,Aïssa Maïga
+216588,Friend Request,2016,Alycia Debnam-Carey
+216588,Friend Request,2016,Brit Morgan
+216588,Friend Request,2016,William Moseley
+214352,Les Cerveaux,2016,Zach Galifianakis
+214352,Les Cerveaux,2016,Kristen Wiig
+214352,Les Cerveaux,2016,Owen Wilson
+239842,Abluka - Suspicions,2016,Mehmet Özgür
+239842,Abluka - Suspicions,2016,Berkay Ateş
+239842,Abluka - Suspicions,2016,Tülin Özen
+242171,Louise en Hiver,2016,Dominique Frot
+242171,Louise en Hiver,2016,Diane Dassigny
+242171,Louise en Hiver,2016,Antony Hickling
+230605,Theeb - la naissance d'un chef,2016,Jacir Eid
+230605,Theeb - la naissance d'un chef,2016,Hassan Mutlag
+230605,Theeb - la naissance d'un chef,2016,Hussein Salameh
+246720,La Supplication,2016,Dinara Drukarova
+246720,La Supplication,2016,Iryna Voloshyna
+246720,La Supplication,2016,Vitaliy Matvienko
+248025,La Chute des Hommes,2016,Laure Lochet
+248025,La Chute des Hommes,2016,Nouamen Maâmar
+248025,La Chute des Hommes,2016,François Pouron
+246659,Le Disciple,2016,Petr Skvortsov
+246659,Le Disciple,2016,Yuliya Aug
+246659,Le Disciple,2016,Alexander Gorchilin
+45845,Il Vigile (L'agent),2016,Alberto Sordi
+45845,Il Vigile (L'agent),2016,Vittorio De Sica
+45845,Il Vigile (L'agent),2016,Marisa Merlini
+249794,Julius et le Père Noël,2016,Achille Dubois
+249794,Julius et le Père Noël,2016,Mélanie Dermont
+249794,Julius et le Père Noël,2016,Olivier Bony
+205840,Comment dire,2016,Eric Chevaleyre
+205840,Comment dire,2016,Yann Guillemot
+248680,Les Rues de Pantin,2016,Hiroto Ogi
+248680,Les Rues de Pantin,2016,Astrid Adverbe
+248680,Les Rues de Pantin,2016,Pascale Bodet
+246274,İkinci Şans,2016,Özcan Deniz
+246274,İkinci Şans,2016,Nurgül Yeşilçay
+246274,İkinci Şans,2016,Mesut Can Tomay
+251777,Kavalai Vendam,2016,Jiiva
+251777,Kavalai Vendam,2016,Kajal Aggarwal
+251777,Kavalai Vendam,2016,Sunaina
+250886,Dear Zindagi,2016,Shah Rukh Khan
+250886,Dear Zindagi,2016,Alia Bhatt
+250886,Dear Zindagi,2016,Kunal Kapoor
+249115,Tristan et Isolde - All'Opera (CGR Events),2016,Andreas Schager
+249115,Tristan et Isolde - All'Opera (CGR Events),2016,Iréne Theorin
+225958,"Vaiana, la légende du bout du monde",2016,Cerise Calixte
+225958,"Vaiana, la légende du bout du monde",2016,Auli'i Cravalho
+225958,"Vaiana, la légende du bout du monde",2016,Anthony Kavanagh
+238330,Sully,2016,Tom Hanks
+238330,Sully,2016,Aaron Eckhart
+238330,Sully,2016,Laura Linney
+226819,Sausage Party,2016,Seth Rogen
+226819,Sausage Party,2016,Kristen Wiig
+226819,Sausage Party,2016,Nick Kroll
+246290,Rocco,2016,Rocco Siffredi
+246290,Rocco,2016,Rozsa Tano
+246290,Rocco,2016,Gabriele Galetta
+241132,Les Enfants de la chance,2016,Matteo Perez
+241132,Les Enfants de la chance,2016,Philippe Torreton
+241132,Les Enfants de la chance,2016,Pauline Cheviller
+248140,La Fine équipe,2016,Annabelle Lengronne
+248140,La Fine équipe,2016,William Lebghil
+248140,La Fine équipe,2016,Ralph Amoussou
+236006,Oppression,2016,Naomi Watts
+236006,Oppression,2016,Oliver Platt
+236006,Oppression,2016,Charlie Heaton
+240381,Le Gang des Antillais,2016,Djedje Apali
+240381,Le Gang des Antillais,2016,Eriq Ebouaney
+240381,Le Gang des Antillais,2016,Adama Niane
+213143,O Ornitólogo,2016,Paul Hamy
+213143,O Ornitólogo,2016,João Pedro Rodrigues
+213143,O Ornitólogo,2016,Han Wen
+246575,Wolf And Sheep,2016,Sediqa Rasuli
+246575,Wolf And Sheep,2016,Qodratollah Qadiri
+246575,Wolf And Sheep,2016,Amina Musavi
+250254,Enfin des bonnes nouvelles,2016,Dan Herzberg
+250254,Enfin des bonnes nouvelles,2016,Nicolas Le Quang
+250254,Enfin des bonnes nouvelles,2016,Julie de Bona
+250276,Banana,2016,Marco Todisco
+250276,Banana,2016,Beatrice Modica
+250276,Banana,2016,Anna Bonaiuto
+246693,Ma' Rosa,2016,Jaclyn Jose
+246693,Ma' Rosa,2016,Julio Diaz
+246693,Ma' Rosa,2016,Felix Roco
+246812,Le Voyage au Groenland,2016,Thomas Blanchard
+246812,Le Voyage au Groenland,2016,Thomas Scimeca
+246812,Le Voyage au Groenland,2016,François Chattot
+248134,Dark Show,2016,Malcolm Conrath
+248134,Dark Show,2016,Joanne McCallin
+248134,Dark Show,2016,Matthew Mellalieu
+251173,Lazar,2016,Vedran Zivolic
+251173,Lazar,2016,Natasa Petrovic
+251173,Lazar,2016,Goran Navojec
+251779,Saithan,2016,Vijay Antony
+251779,Saithan,2016,Arundhati Nair
+251779,Saithan,2016,Y.G. Mahendran
+242046,L'Ascension des Kray,2016,Simon Cotton
+242046,L'Ascension des Kray,2016,Kevin Leslie (II)
+242046,L'Ascension des Kray,2016,Nicola Stapleton
+250867,Kids United,2016,plus de 500 000 exemplaires vendus de leur 1er album «Un monde meilleur» et plus de 115 millions de vues du clip de leur tube «On écrit sur les murs»
+250867,Kids United,2016,Kids United est devenu en quelques mois le groupe favori des cours de récréation et de tous ceux qui ont su garder un cœur d’enfant.
+251659,"Jésus, Michael Lonsdale et ses amis",2016,Michael Lonsdale
+226509,Premier Contact,2016,Amy Adams
+226509,Premier Contact,2016,Jeremy Renner
+226509,Premier Contact,2016,Forest Whitaker
+240944,Demain Tout Commence,2016,Omar Sy
+240944,Demain Tout Commence,2016,Gloria Colston
+240944,Demain Tout Commence,2016,Clémence Poésy
+241700,Baccalauréat,2016,Adrian Titieni
+241700,Baccalauréat,2016,Maria Dragus
+241700,Baccalauréat,2016,Lia Bugnar
+239043,Sex Doll,2016,Hafsia Herzi
+239043,Sex Doll,2016,Ash Stymest
+239043,Sex Doll,2016,Karole Rocher
+239764,Papa Ou maman 2,2016,Laurent Lafitte
+239764,Papa Ou maman 2,2016,Marina Foïs
+239764,Papa Ou maman 2,2016,Alexandre Desrousseaux
+235507,Carole Matthieu,2016,Isabelle Adjani
+235507,Carole Matthieu,2016,Corinne Masiero
+235507,Carole Matthieu,2016,Lyes Salem
+218090,À Jamais,2016,Mathieu Amalric
+218090,À Jamais,2016,Julia Roy
+218090,À Jamais,2016,Jeanne Balibar
+199447,Absolutely Fabulous : Le Film,2016,Jennifer Saunders
+199447,Absolutely Fabulous : Le Film,2016,Joanna Lumley
+199447,Absolutely Fabulous : Le Film,2016,Julia Sawalha
+235433,Salt and Fire,2016,Michael Shannon
+235433,Salt and Fire,2016,Gael García Bernal
+235433,Salt and Fire,2016,Veronica Ferres
+240266,The Music of Strangers,2016,Yo-Yo Ma
+240266,The Music of Strangers,2016,Keyhan Kalhor
+240266,The Music of Strangers,2016,Cristina Pato
+243301,Bienvenus !,2016,Anders Baasmo Christiansen
+243301,Bienvenus !,2016,Olivier Mukuta
+243301,Bienvenus !,2016,Slimane Dazi
+243646,Go Home,2016,Golshifteh Farahani
+243646,Go Home,2016,Maximilien Seweryn
+243646,Go Home,2016,François Nour
+239536,Tikkoun,2016,Aharon Traitel
+239536,Tikkoun,2016,Khalifa Natour
+239536,Tikkoun,2016,Riki Blich
+249240,La Danse des accrochés,2016,Jean-Claude Gauthier
+249240,La Danse des accrochés,2016,Christophe Sauvion
+249240,La Danse des accrochés,2016,Dorothée Dentel
+251857,Kinoa et l'île merveilleuse,2016,Brigitte Lecordier
+251857,Kinoa et l'île merveilleuse,2016,Fily Keita
+251857,Kinoa et l'île merveilleuse,2016,Alexandre Aubry
+11029,Manille,2016,Hilda Koronel
+11029,Manille,2016,Bembol Roco
+11029,Manille,2016,Lou Salvador Jr.
+246783,Journal d'un photographe de mariage,2016,Ohad Knoller
+246783,Journal d'un photographe de mariage,2016,Naama Preis
+246783,Journal d'un photographe de mariage,2016,Dan Shapira
+250923,Befikre,2016,Ranveer Singh
+250923,Befikre,2016,Vaani Kapoor
+250923,Befikre,2016,Julie Ordon
+245975,L'Amour de loin (Met-Pathé Live),2016,Susanna Phillips
+245975,L'Amour de loin (Met-Pathé Live),2016,Eric Owens
+231408,Manchester By the Sea,2016,Casey Affleck
+231408,Manchester By the Sea,2016,Michelle Williams
+231408,Manchester By the Sea,2016,Kyle Chandler
+218395,Rogue One: A Star Wars Story,2016,Felicity Jones
+218395,Rogue One: A Star Wars Story,2016,Diego Luna
+218395,Rogue One: A Star Wars Story,2016,Ben Mendelsohn
+232143,Ballerina,2016,Camille Cottin
+232143,Ballerina,2016,Elle Fanning
+232143,Ballerina,2016,Malik Bentalha
+246805,La Jeune Fille Sans Mains,2016,Anaïs Demoustier
+246805,La Jeune Fille Sans Mains,2016,Jérémie Elkaïm
+246805,La Jeune Fille Sans Mains,2016,Philippe Laudenbach
+237879,Personal Shopper,2016,Kristen Stewart
+237879,Personal Shopper,2016,Lars Eidinger
+237879,Personal Shopper,2016,Sigrid Bouaziz
+244059,Cigarettes et chocolat chaud,2016,Gustave Kervern
+244059,Cigarettes et chocolat chaud,2016,Camille Cottin
+244059,Cigarettes et chocolat chaud,2016,Héloïse Dugas
+239527,Wonderland,2016,Peter Jecklin
+239527,Wonderland,2016,Dashmir Ristemi
+239527,Wonderland,2016,Julia Glaus
+228253,Box,2016,Hilda Peter
+228253,Box,2016,Sorin Leoveanu
+228253,Box,2016,Mária Tasnádi Fekete
+250939,La Nuit Rebelle,2016,Mona Hackel
+250939,La Nuit Rebelle,2016,Elsa Léviant
+250939,La Nuit Rebelle,2016,Sofia Lesaffre
+246772,Une semaine et un jour,2016,Shai Avivi
+246772,Une semaine et un jour,2016,Evgenia Dodina
+246772,Une semaine et un jour,2016,Tomer Capon
+242743,Heart of glass,2016,Jeremy Maxwell Wintrebert
+249117,Roméo & Juliette - All'Opera (CGR Events),2016,Maria Kochetkova
+249117,Roméo & Juliette - All'Opera (CGR Events),2016,Davit Karapetyan
+253115,I Due Foscari (Rising Alternative),2016,Plácido Domingo
+253115,I Due Foscari (Rising Alternative),2016,Francesco Meli
+253115,I Due Foscari (Rising Alternative),2016,Anna Pirozzi
+241070,Souvenir,2016,Isabelle Huppert
+241070,Souvenir,2016,Kévin Azaïs
+241070,Souvenir,2016,Johan Leysen
+240842,À fond,2016,José Garcia
+240842,À fond,2016,André Dussollier
+240842,À fond,2016,Caroline Vigneaux
+228189,Paterson,2016,Adam Driver
+228189,Paterson,2016,Golshifteh Farahani
+228189,Paterson,2016,Rizwan Manji
+238310,Beauté cachée,2016,Will Smith
+238310,Beauté cachée,2016,Kate Winslet
+238310,Beauté cachée,2016,Keira Knightley
+30316,Quand une femme monte l'escalier,2016,Hideko Takamine
+30316,Quand une femme monte l'escalier,2016,Masayuki Mori (I)
+30316,Quand une femme monte l'escalier,2016,Reiko Dan
+198730,Assassin's Creed,2016,Michael Fassbender
+198730,Assassin's Creed,2016,Marion Cotillard
+198730,Assassin's Creed,2016,Jeremy Irons
+245271,Joyeux bordel !,2016,Jennifer Aniston
+245271,Joyeux bordel !,2016,Jason Bateman
+245271,Joyeux bordel !,2016,Olivia Munn
+236460,La Prunelle de mes yeux,2016,Mélanie Bernier
+236460,La Prunelle de mes yeux,2016,Bastien Bouillon
+236460,La Prunelle de mes yeux,2016,Antonin Fresson
+249923,Timgad,2016,Sid Hamed Agoumi
+249923,Timgad,2016,Mounir Margoum
+249923,Timgad,2016,Myriem Akheddiou
+223264,Monster Cars,2016,Lucas Till
+223264,Monster Cars,2016,Jane Levy
+223264,Monster Cars,2016,Thomas Lennon
+240344,La Bataille géante de boules de neige,2016,Erza Muqoli
+240344,La Bataille géante de boules de neige,2016,Sophie Cadieux
+240344,La Bataille géante de boules de neige,2016,Gabriel Gros
+177972,Norm,2016,Omar Sy
+177972,Norm,2016,Rob Schneider
+177972,Norm,2016,Med Hondo
+65332,Amour,2016,Mari Töröcsik
+65332,Amour,2016,Lilly Darvas
+65332,Amour,2016,Ivan Darvas
+250761,Juste après les larmes,2016,Sandrine Nicolas
+250761,Juste après les larmes,2016,Floriane Vogel
+250761,Juste après les larmes,2016,Galléa
+243704,Mapplethorpe : Look at the Pictures,2016,Robert Mapplethorpe
+243704,Mapplethorpe : Look at the Pictures,2016,Deborah Harry
+243704,Mapplethorpe : Look at the Pictures,2016,Fran Lebowitz
+248838,"Le Ruisseau, le pré vert et le doux visage",2016,Laila Eloui
+248838,"Le Ruisseau, le pré vert et le doux visage",2016,Mena Shalaby
+248838,"Le Ruisseau, le pré vert et le doux visage",2016,Basem Samrah
+220846,Passengers,2016,Jennifer Lawrence
+220846,Passengers,2016,Chris Pratt
+220846,Passengers,2016,Michael Sheen
+249877,Your Name,2016,Yoann Borg
+249877,Your Name,2016,Ryûnosuke Kamiki
+249877,Your Name,2016,Alice Orsat
+234023,Le Fondateur,2016,Michael Keaton
+234023,Le Fondateur,2016,Nick Offerman
+234023,Le Fondateur,2016,John Carroll Lynch
+55768,American Pastoral,2016,Ewan McGregor
+55768,American Pastoral,2016,Jennifer Connelly
+55768,American Pastoral,2016,Dakota Fanning
+238340,Le Coeur en braille,2016,Charles Berling
+238340,Le Coeur en braille,2016,Pascal Elbé
+238340,Le Coeur en braille,2016,Laurent Capelluto
+237959,"L'Ami, François d'Assise et ses frères",2016,Jérémie Renier
+237959,"L'Ami, François d'Assise et ses frères",2016,Elio Germano
+237959,"L'Ami, François d'Assise et ses frères",2016,Yannick Renier
+239722,Fais de beaux rêves,2016,Valerio Mastandrea
+239722,Fais de beaux rêves,2016,Bérénice Bejo
+239722,Fais de beaux rêves,2016,Guido Caprino
+240771,Père Fils Thérapie !,2016,Richard Berry
+240771,Père Fils Thérapie !,2016,Waly Dia
+240771,Père Fils Thérapie !,2016,Jacques Gamblin
+243227,Diamond Island,2016,Sobon Nuon
+243227,Diamond Island,2016,Cheanick Nov
+243227,Diamond Island,2016,Madeza Chhem
+229887,L'Élan,2016,Aurélia Petit
+229887,L'Élan,2016,Olivier Broche
+229887,L'Élan,2016,Délia Espinat-Dief
+244528,"Hedi, un vent de liberté",2016,Majd Mastoura
+244528,"Hedi, un vent de liberté",2016,Rym Ben Messaoud
+244528,"Hedi, un vent de liberté",2016,Sabah Bouzouita
 5013,Les Baisers de Secours,2017,Philippe Garrel
 5013,Les Baisers de Secours,2017,Anémone
 5013,Les Baisers de Secours,2017,Brigitte Sy
@@ -42944,12 +45503,18 @@ allocine_id,titre,annee,acteur
 1629,Que le spectacle commence !,2024,Keith Gordon
 1629,Que le spectacle commence !,2024,CCH Pounder
 1629,Que le spectacle commence !,2024,Wallace Shawn
+34241,Cran d'arrêt,2024,Renaud Verley
+34241,Cran d'arrêt,2024,Bruno Cremer
+34241,Cran d'arrêt,2024,Claudio Gora
 34268,La Baston,2024,Robin Renucci
 34268,La Baston,2024,Véronique Genest
 34268,La Baston,2024,Gérard Desarthe
 13110,Pile ou face,2025,Philippe Noiret
 13110,Pile ou face,2025,Michel Serrault
 13110,Pile ou face,2025,Dorothée
+10586,Brewster McCloud,2025,Bud Cort
+10586,Brewster McCloud,2025,Michael Murphy
+10586,Brewster McCloud,2025,Shelley Duvall
 110631,Prends ta rolls et va pointer,2025,Jean Lefebvre
 110631,Prends ta rolls et va pointer,2025,Micheline Luccioni
 110631,Prends ta rolls et va pointer,2025,Jacques Ardouin
@@ -42958,6 +45523,9 @@ allocine_id,titre,annee,acteur
 53932,Héros ou salopards,2025,John Waters (III)
 124161,Feu sur moi,2025,Sonali Kulkarni
 124161,Feu sur moi,2025,Omar Sharif
+50930,Les Faucons,2026,Ivan Andonov
+50930,Les Faucons,2026,György Bánffy
+50930,Les Faucons,2026,Judit Meszléry
 34390,Même les mômes ont du vague à l'âme,2026,Marie-Christine Barrault
 34390,Même les mômes ont du vague à l'âme,2026,Guy Bedos
 34390,Même les mômes ont du vague à l'âme,2026,Bruno Cremer
@@ -42981,6 +45549,9 @@ allocine_id,titre,annee,acteur
 245189,Manon,2026,Sylvie Gonnord
 245189,Manon,2026,Audrey Vallée
 245189,Manon,2026,Arnaud Cottereau
+252357,INFRA Story,2026,Mary-Jo Hertzog
+252357,INFRA Story,2026,Olivia Loiseau
+252357,INFRA Story,2026,David Lancelin-Guerrero
 32619,Le Bus,2026,Alain Beigel
 32619,Le Bus,2026,Pierre-Loup Rajot
 235475,Délicate Gravité,2026,Yvan Attal
@@ -43016,3 +45587,5 @@ allocine_id,titre,annee,acteur
 236766,NN,2026,Paul Vega
 236766,NN,2026,Antonieta Pari
 236766,NN,2026,Isabel Gaona
+268249,Meeting Snowden,2026,Edward Snowden
+268249,Meeting Snowden,2026,Lawrence Lessig
