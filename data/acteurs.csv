@@ -55,6 +55,9 @@ allocine_id,titre,annee,acteur
 43638,Vive le sport !,1925,Harold Lloyd
 43638,Vive le sport !,1925,Jobyna Ralston
 43638,Vive le sport !,1925,Brooks Benedict
+89979,Le Cuirassé Potemkine,1926,Grigoriy Aleksandrov
+89979,Le Cuirassé Potemkine,1926,Sergei Eisenstein
+89979,Le Cuirassé Potemkine,1926,Aleksandr Antonov
 240,Metropolis,1927,Brigitte Helm
 240,Metropolis,1927,Alfred Abel
 240,Metropolis,1927,Rudolf Klein-Rogge
@@ -427,6 +430,9 @@ allocine_id,titre,annee,acteur
 2451,Un revenant,1946,Louis Jouvet
 2451,Un revenant,1946,Gaby Morlay
 2451,Un revenant,1946,Ludmilla Tcherina
+772,La Belle et la bête,1946,Josette Day
+772,La Belle et la bête,1946,Jean Marais
+772,La Belle et la bête,1946,Marcel André
 2154,Fantasia,1946,Deems Taylor
 2154,Fantasia,1946,Leopold Stokowski
 2154,Fantasia,1946,Walt Disney
@@ -508,6 +514,9 @@ allocine_id,titre,annee,acteur
 2541,La Femme au portrait,1947,Thomas E. Jackson
 2541,La Femme au portrait,1947,Edmund Breon
 2541,La Femme au portrait,1947,Dorothy Peterson
+44940,Enamorada,1947,María Félix
+44940,Enamorada,1947,Pedro Armendariz
+44940,Enamorada,1947,Fernando Fernández
 1823,Henry V,1947,Laurence Olivier
 1823,Henry V,1947,Renée Asherson
 1823,Henry V,1947,Leslie Banks
@@ -628,6 +637,9 @@ allocine_id,titre,annee,acteur
 43450,La Route au tabac,1949,Charley Grapewin
 43450,La Route au tabac,1949,Marjorie Rambeau
 43450,La Route au tabac,1949,Gene Tierney
+2605,Jour de fête,1949,Roger Rafal
+2605,Jour de fête,1949,Jacques Beauvais
+2605,Jour de fête,1949,Robert Balpo
 553,Les Chaussons rouges,1949,Anton Walbrook
 553,Les Chaussons rouges,1949,Moira Shearer
 553,Les Chaussons rouges,1949,Marius Goring
@@ -652,6 +664,9 @@ allocine_id,titre,annee,acteur
 2250,La Dame au manteau d'hermine,1949,Cesar Romero
 2250,La Dame au manteau d'hermine,1949,Betty Grable
 2250,La Dame au manteau d'hermine,1949,Douglas Fairbanks Jr.
+4742,Riz amer,1949,Doris Dowling
+4742,Riz amer,1949,Vittorio Gassman
+4742,Riz amer,1949,Silvana Mangano
 1826,Le Troisième homme,1949,Joseph Cotten
 1826,Le Troisième homme,1949,Alida Valli
 1826,Le Troisième homme,1949,Orson Welles
@@ -760,6 +775,9 @@ allocine_id,titre,annee,acteur
 1024,Chronique d'un amour,1951,Lucia Bosè
 1024,Chronique d'un amour,1951,Massimo Girotti
 1024,Chronique d'un amour,1951,Ferdinando Sarmi
+11861,"Allons donc, papa !",1951,Spencer Tracy
+11861,"Allons donc, papa !",1951,Elizabeth Taylor
+11861,"Allons donc, papa !",1951,Joan Bennett
 3443,Le Christ interdit,1951,Alain Cuny
 3443,Le Christ interdit,1951,Raf Vallone
 3443,Le Christ interdit,1951,Rina Morelli
@@ -889,6 +907,9 @@ allocine_id,titre,annee,acteur
 2254,Les Feux de la rampe,1952,Charles Chaplin
 2254,Les Feux de la rampe,1952,Claire Bloom
 2254,Les Feux de la rampe,1952,Buster Keaton
+44849,Sudden Fear,1952,Joan Crawford
+44849,Sudden Fear,1952,Jack Palance
+44849,Sudden Fear,1952,Gloria Grahame
 47272,Le Démon s'éveille la nuit,1952,Barbara Stanwyck
 47272,Le Démon s'éveille la nuit,1952,Paul Douglas
 47272,Le Démon s'éveille la nuit,1952,Robert Ryan
@@ -910,6 +931,9 @@ allocine_id,titre,annee,acteur
 60535,Bas les masques,1953,Humphrey Bogart
 60535,Bas les masques,1953,Ethel Barrymore
 60535,Bas les masques,1953,Kim Hunter
+2615,Les Vacances de Monsieur Hulot,1953,Jacques Tati
+2615,Les Vacances de Monsieur Hulot,1953,Nathalie Pascaud
+2615,Les Vacances de Monsieur Hulot,1953,Micheline Rolla
 4055,Le Soleil brille pour tout le monde,1953,Arleen Whelan
 4055,Le Soleil brille pour tout le monde,1953,Charles Winninger
 4055,Le Soleil brille pour tout le monde,1953,John Russell
@@ -928,6 +952,9 @@ allocine_id,titre,annee,acteur
 93031,"Carrie, un amour désespéré",1953,Jennifer Jones
 93031,"Carrie, un amour désespéré",1953,Laurence Olivier
 93031,"Carrie, un amour désespéré",1953,Miriam Hopkins
+1369,Pâques sanglantes,1953,Raf Vallone
+1369,Pâques sanglantes,1953,Lucia Bosè
+1369,Pâques sanglantes,1953,Folco Lulli
 2469,La Loi du silence,1953,Montgomery Clift
 2469,La Loi du silence,1953,Anne Baxter
 2469,La Loi du silence,1953,Karl Malden
@@ -937,6 +964,9 @@ allocine_id,titre,annee,acteur
 12783,Bienvenue Mr Marshall,1953,Lolita Sevilla
 12783,Bienvenue Mr Marshall,1953,Manolo Morán
 12783,Bienvenue Mr Marshall,1953,Jose Isbert
+218850,Another Man's Poison,1953,Bette Davis
+218850,Another Man's Poison,1953,Gary Merrill
+218850,Another Man's Poison,1953,Emlyn Williams
 37527,Les Misérables,1953,Michael Rennie
 37527,Les Misérables,1953,Debra Paget
 37527,Les Misérables,1953,Robert Newton
@@ -1033,6 +1063,9 @@ allocine_id,titre,annee,acteur
 3732,Les Diaboliques,1955,Simone Signoret
 3732,Les Diaboliques,1955,Vera Clouzot
 3732,Les Diaboliques,1955,Paul Meurisse
+700,Le Crime était presque parfait,1955,Ray Milland
+700,Le Crime était presque parfait,1955,Grace Kelly
+700,Le Crime était presque parfait,1955,Robert Cummings
 5256,Sabrina,1955,Humphrey Bogart
 5256,Sabrina,1955,Audrey Hepburn
 5256,Sabrina,1955,William Holden
@@ -1150,6 +1183,9 @@ allocine_id,titre,annee,acteur
 1030,La 5e victime,1956,George Sanders
 1030,La 5e victime,1956,Dana Andrews
 1030,La 5e victime,1956,Rhonda Fleming
+2233,Gervaise,1956,Maria Schell
+2233,Gervaise,1956,François Périer
+2233,Gervaise,1956,Suzy Delair
 3683,La Mort en ce jardin,1956,Simone Signoret
 3683,La Mort en ce jardin,1956,Charles Vanel
 3683,La Mort en ce jardin,1956,Georges Marchal
@@ -1180,6 +1216,9 @@ allocine_id,titre,annee,acteur
 2599,L'Ultime razzia,1957,Sterling Hayden
 2599,L'Ultime razzia,1957,Coleen Gray
 2599,L'Ultime razzia,1957,Vince Edwards
+93101,Cast a Dark Shadow,1957,Kay Walsh
+93101,Cast a Dark Shadow,1957,Kathleen Harrison
+93101,Cast a Dark Shadow,1957,Dirk Bogarde
 48463,Meurtre à Montmartre,1957,Michel Auclair
 48463,Meurtre à Montmartre,1957,Paul Frankeur
 48463,Meurtre à Montmartre,1957,Giani Esposito
@@ -1308,6 +1347,9 @@ allocine_id,titre,annee,acteur
 3597,Nuits blanches,1958,Maria Schell
 3597,Nuits blanches,1958,Marcello Mastroianni
 3597,Nuits blanches,1958,Jean Marais
+2614,Mon oncle,1958,Jacques Tati
+2614,Mon oncle,1958,Jean-Pierre Zola
+2614,Mon oncle,1958,Adrienne Servantie
 299,La Soif du mal,1958,Charlton Heston
 299,La Soif du mal,1958,Janet Leigh
 299,La Soif du mal,1958,Orson Welles
@@ -1394,6 +1436,9 @@ allocine_id,titre,annee,acteur
 2657,Le Tombeau hindou,1959,Debra Paget
 2657,Le Tombeau hindou,1959,Paul Hubschmid
 2657,Le Tombeau hindou,1959,Walter Reyer
+51536,"Venise, la lune et toi",1959,Alberto Sordi
+51536,"Venise, la lune et toi",1959,Marisa Allasio
+51536,"Venise, la lune et toi",1959,Nino Manfredi
 5088,Le Journal d'Anne Frank,1959,Millie Perkins
 5088,Le Journal d'Anne Frank,1959,Joseph Schildkraut
 5088,Le Journal d'Anne Frank,1959,Shelley Winters
@@ -1613,6 +1658,9 @@ allocine_id,titre,annee,acteur
 16259,La Rumeur,1962,Audrey Hepburn
 16259,La Rumeur,1962,Shirley MacLaine
 16259,La Rumeur,1962,Miriam Hopkins
+33488,L'Eclipse,1962,Alain Delon
+33488,L'Eclipse,1962,Monica Vitti
+33488,L'Eclipse,1962,Francisco Rabal
 6299,Boccace 70,1962,Romy Schneider
 6299,Boccace 70,1962,Anita Ekberg
 6299,Boccace 70,1962,Marisa Solinas
@@ -1691,6 +1739,9 @@ allocine_id,titre,annee,acteur
 3076,Salvatore Giuliano,1963,Frank Wolff
 3076,Salvatore Giuliano,1963,Salvo Randone
 3076,Salvatore Giuliano,1963,Pietro Cammarata
+4749,Lawrence d'Arabie,1963,Peter O'Toole
+4749,Lawrence d'Arabie,1963,Alec Guinness
+4749,Lawrence d'Arabie,1963,Omar Sharif
 1772,Le Couteau dans l'eau,1963,Leon Niemczyk
 1772,Le Couteau dans l'eau,1963,Jolanta Umecka
 1772,Le Couteau dans l'eau,1963,Zygmunt Malanowicz
@@ -1808,6 +1859,9 @@ allocine_id,titre,annee,acteur
 520,"Freud, passions secrètes",1964,Montgomery Clift
 520,"Freud, passions secrètes",1964,Susannah York
 520,"Freud, passions secrètes",1964,Larry Parks
+12977,La Forteresse cachée,1964,Susumu Fujita
+12977,La Forteresse cachée,1964,Toshirô Mifune
+12977,La Forteresse cachée,1964,Takashi Shimura
 7626,Le Mari de la femme a barbe,1964,Ugo Tognazzi
 7626,Le Mari de la femme a barbe,1964,Annie Girardot
 7626,Le Mari de la femme a barbe,1964,Achille Majeroni
@@ -1889,6 +1943,9 @@ allocine_id,titre,annee,acteur
 87989,"Alphaville, une étrange aventure de Lemmy Caution",1965,Eddie Constantine
 87989,"Alphaville, une étrange aventure de Lemmy Caution",1965,Anna Karina
 87989,"Alphaville, une étrange aventure de Lemmy Caution",1965,Akim Tamiroff
+4904,Kwaïdan,1965,Michiyo Aratama
+4904,Kwaïdan,1965,Misako Watanabe
+4904,Kwaïdan,1965,Rentarô Mikuni
 1140,Paris vu par...,1965,Barbara Wilkind
 1140,Paris vu par...,1965,François Chappey
 1140,Paris vu par...,1965,Jean-Pierre Andreani
@@ -1979,6 +2036,9 @@ allocine_id,titre,annee,acteur
 6944,Walkover,1966,Jerzy Skolimowski
 6944,Walkover,1966,Alexandra Zawieruszanka
 6944,Walkover,1966,Krzysztof Chamiec
+1581,Le Château de l'araignée,1966,Toshirô Mifune
+1581,Le Château de l'araignée,1966,Isuzu Yamada
+1581,Le Château de l'araignée,1966,Takashi Shimura
 172,Les Désarrois de l'élève Törless,1966,Mathieu Carrière
 172,Les Désarrois de l'élève Törless,1966,Marian Seidovski
 172,Les Désarrois de l'élève Törless,1966,Barbara Steele
@@ -2150,6 +2210,9 @@ allocine_id,titre,annee,acteur
 4852,Le Départ,1967,Jean-Pierre Léaud
 4852,Le Départ,1967,Catherine-Isabelle Duport
 4852,Le Départ,1967,Paul Roland
+1363,Playtime,1967,Jacques Tati
+1363,Playtime,1967,Barbara Dennek
+1363,Playtime,1967,Jacqueline Lecome
 4311,Casino Royale,1967,Peter Sellers
 4311,Casino Royale,1967,David Niven
 4311,Casino Royale,1967,Orson Welles
@@ -2300,6 +2363,9 @@ allocine_id,titre,annee,acteur
 2466,Guêpier pour trois abeilles,1969,Rex Harrison
 2466,Guêpier pour trois abeilles,1969,Susan Hayward
 2466,Guêpier pour trois abeilles,1969,Cliff Robertson
+5052,The Party,1969,Peter Sellers
+5052,The Party,1969,Claudine Longet
+5052,The Party,1969,J. Edward McKinley
 2021,Il était une fois dans l'Ouest,1969,Henry Fonda
 2021,Il était une fois dans l'Ouest,1969,Charles Bronson
 2021,Il était une fois dans l'Ouest,1969,Frank Wolff
@@ -42262,6 +42328,9 @@ allocine_id,titre,annee,acteur
 222891,Thalaiva - Le Leader,2013,Santhanam
 173991,Robbie Williams en concert (Côté Diffusion),2013,Robbie Williams
 173991,Robbie Williams en concert (Côté Diffusion),2013,Olly Murs
+3213,Los Golfos,2013,Manolo Zarzo
+3213,Los Golfos,2013,Jose Luis Marin
+3213,Los Golfos,2013,Óscar Cruz
 209525,Jeune & Jolie,2013,Marine Vacth
 209525,Jeune & Jolie,2013,Géraldine Pailhas
 209525,Jeune & Jolie,2013,Frédéric Pierrot
@@ -56088,6 +56157,9 @@ allocine_id,titre,annee,acteur
 269707,Saaho,2019,Shraddha Kapoor
 269707,Saaho,2019,Prabhas Raju
 269707,Saaho,2019,Mandira Bedi
+1000036867,Avengers : Endgame Extended,2019,Robert Downey Jr.
+1000036867,Avengers : Endgame Extended,2019,Chris Evans
+1000036867,Avengers : Endgame Extended,2019,Mark Ruffalo
 273321,Ravachol,2019,Dominique Coquard
 273321,Ravachol,2019,Pierre Merejkowsky
 273321,Ravachol,2019,Ghislain de Fonclare
@@ -69950,9 +70022,541 @@ allocine_id,titre,annee,acteur
 1000021616,Le Dernier rêve de Frida et Diego (Metropolitan Opera),2026,Isabel Leonard
 1000021616,Le Dernier rêve de Frida et Diego (Metropolitan Opera),2026,Carlos Alvarez
 1000021616,Le Dernier rêve de Frida et Diego (Metropolitan Opera),2026,Gabriella Reyes
+294280,La Bataille de Gaulle - partie 1 : L'Âge de Fer,2026,Simon Abkarian
+294280,La Bataille de Gaulle - partie 1 : L'Âge de Fer,2026,Simon Russell Beale
+294280,La Bataille de Gaulle - partie 1 : L'Âge de Fer,2026,Florian Lesieur
+1000001030,Scary Movie,2026,Marlon Wayans
+1000001030,Scary Movie,2026,Shawn Wayans
+1000001030,Scary Movie,2026,Anna Faris
+1000022816,The Plague,2026,Joel Edgerton
+1000022816,The Plague,2026,Everett Blunck
+1000022816,The Plague,2026,Elliott Heffernan
+1000016927,Le Garçon qui faisait danser les collines,2026,Arif Jakup
+1000016927,Le Garçon qui faisait danser les collines,2026,Agush Agushev
+1000016927,Le Garçon qui faisait danser les collines,2026,Dora Akan Zlatanova
+1000037444,Saccharine,2026,Midori Francis
+1000037444,Saccharine,2026,Danielle Macdonald
+1000037444,Saccharine,2026,Madeleine Madden
+1000031026,En nous,2026,Juliette Binoche
+1000031026,En nous,2026,Akram Khan
+271156,Bait,2026,Edward Rowe
+271156,Bait,2026,Simon Shepherd
+271156,Bait,2026,Mary Woodvine
+1000020104,L'Affaire Zanetti,2026,Roschdy Zem
+1000020104,L'Affaire Zanetti,2026,Barbara Ronchi
+1000020104,L'Affaire Zanetti,2026,Hippolyte Girardot
+314613,Nouveaux copains à Puffin Rock,2026,Chris O'Dowd
+314613,Nouveaux copains à Puffin Rock,2026,Amy Huberman
+314613,Nouveaux copains à Puffin Rock,2026,Eva Whittaker
+1000031927,Anna et les enfants,2026,Camille Chamoux
+1000031927,Anna et les enfants,2026,Alban Lenoir
+1000031927,Anna et les enfants,2026,Olivia Côte
+1000019876,Francesca & Giovanni,2026,Ester Pantano
+1000019876,Francesca & Giovanni,2026,Primo Reggiani
+1000019876,Francesca & Giovanni,2026,Anna Ferruzzo
+1000040757,Santa - Le Concert au cinéma,2026,Santa
+1000042614,The Amazing Digital Circus : Acte Final,2026,Lizzie Freeman
+1000042614,The Amazing Digital Circus : Acte Final,2026,Michael Kovach
+1000042614,The Amazing Digital Circus : Acte Final,2026,Marissa Lenti
+1000001453,Disclosure Day,2026,Emily Blunt
+1000001453,Disclosure Day,2026,Josh O'Connor
+1000001453,Disclosure Day,2026,Colin Firth
+1000044063,Le Vertige,2026,Alain Chabat
+1000044063,Le Vertige,2026,Jonathan Cohen
+1000044063,Le Vertige,2026,Anaïs Demoustier
+1000002042,The Furious,2026,Xie Miao
+1000002042,The Furious,2026,Joe Taslim
+1000002042,The Furious,2026,Brian Le
+327942,Une année italienne,2026,Stella Wendick
+327942,Une année italienne,2026,Giacomo Covi
+327942,Une année italienne,2026,Pietro Giustolisi
+306800,Au bord du monde,2026,Mara Taquin
+306800,Au bord du monde,2026,Sasha Deprez
+306800,Au bord du monde,2026,Hamza Essalouh
+1000016836,The Christophers,2026,Ian McKellen
+1000016836,The Christophers,2026,Michaela Coel
+1000016836,The Christophers,2026,James Corden
+1000006447,Fils de personne,2026,Romain Duris
+1000006447,Fils de personne,2026,Cristiana Capotondi
+1000006447,Fils de personne,2026,Vithaya Pansringarm
+1000028364,D’un monde à l’autre,2026,Jérémie Renier
+1000028364,D’un monde à l’autre,2026,Loury Lag
+1000016412,A Second Life,2026,Agathe Rousselle
+1000016412,A Second Life,2026,Alex Lawther
+1000016412,A Second Life,2026,Suzy Bemba
+1000007034,Ma famille chérie,2026,Élodie Bouchez
+1000007034,Ma famille chérie,2026,Marisa Berenson
+1000007034,Ma famille chérie,2026,Jeanne Balibar
+1000009299,Le Dernier vrai samouraï,2026,Makiya Yamaguchi
+1000009299,Le Dernier vrai samouraï,2026,Norimasa Fuke
+1000009299,Le Dernier vrai samouraï,2026,Yuno Sakura
+1000015935,L'Athlète,2026,Stevens Dorcelus
+1000045600,Governor,2026,Manoj Bajpayee
+1000045600,Governor,2026,Adah Sharma
+1000045600,Governor,2026,Aryan Pushkar
+1000045637,BTS World Tour 'Arirang' in BUSAN : Live Viewing,2026,RM
+1000045637,BTS World Tour 'Arirang' in BUSAN : Live Viewing,2026,Jin
+1000045637,BTS World Tour 'Arirang' in BUSAN : Live Viewing,2026,Suga
+128961,Eagle vs Shark,2026,Jemaine Clement
+128961,Eagle vs Shark,2026,Loren Horsley
+128961,Eagle vs Shark,2026,Taika Waititi
+310112,Jim Queen,2026,Alex Ramires
+310112,Jim Queen,2026,Jérémy Gillet
+310112,Jim Queen,2026,Shirley Souagnon
+313220,Backrooms,2026,Chiwetel Ejiofor
+313220,Backrooms,2026,Renate Reinsve
+313220,Backrooms,2026,Mark Duplass
+313256,Toy Story 5,2026,Jean-Philippe Puymartin
+313256,Toy Story 5,2026,Tom Hanks
+313256,Toy Story 5,2026,Richard Darbois
+1000037967,The Giaccomo,2026,Xavier Lacaille
+1000037967,The Giaccomo,2026,Tibo Inshape
+1000037967,The Giaccomo,2026,Benjamin Castaldi
+1000022114,Shana,2026,Eva Huault
+1000022114,Shana,2026,Noémie Lvovsky
+1000022114,Shana,2026,Inès Gherib
+1000019387,Ulysse,2026,Élodie Bouchez
+1000019387,Ulysse,2026,Alphonse Roberts
+1000019387,Ulysse,2026,Stanislas Merhar
+1000023414,Deviens Génial,2026,Manu Payet
+1000023414,Deviens Génial,2026,Melha Bedia
+1000023414,Deviens Génial,2026,Marie-Julie Baup
+1000022404,L'Illusion de Yakushima,2026,Vicky Krieps
+1000022404,L'Illusion de Yakushima,2026,Kan'ichirô
+1000022404,L'Illusion de Yakushima,2026,Ojiro Nakamura
+1000012309,La Baleine et le musicien,2026,Rone
+1000041971,Les Beaux Jours,2026,Juliette Lepic
+108550,War Requiem,2026,Claire Davenport
+108550,War Requiem,2026,Antony Gabriel
+108550,War Requiem,2026,Alex Jennings
+1000044332,Nos victoires fragiles,2026,Simalinne Ozgun
+1000044332,Nos victoires fragiles,2026,France Renard
+1000044332,Nos victoires fragiles,2026,Alex Martin (II)
+315380,Des Minions et des monstres,2026,Pierre Coffin
+315380,Des Minions et des monstres,2026,Alexandre Astier
+315380,Des Minions et des monstres,2026,Christoph Waltz
+1000022312,Les Caprices de l’Enfant Roi,2026,Artus
+1000022312,Les Caprices de l’Enfant Roi,2026,Julia Piaton
+1000022312,Les Caprices de l’Enfant Roi,2026,Franck Dubosc
+1000017160,Maspalomas,2026,José Ramón Soroiz
+1000017160,Maspalomas,2026,Nagore Aranburu
+1000017160,Maspalomas,2026,Kandido Uranga
+1000027149,Blue Heron,2026,Eylul Guven
+1000027149,Blue Heron,2026,Amy Zimmer
+1000027149,Blue Heron,2026,Iringó Retí
+1000020330,Les Parfait(s) : arnaques en famille,2026,Audrey Fleurot
+1000020330,Les Parfait(s) : arnaques en famille,2026,Ramzy Bedia
+1000020330,Les Parfait(s) : arnaques en famille,2026,Alan Cumming
+1000012579,L’Étrangère,2026,Zar Amir
+1000012579,L’Étrangère,2026,Alexis Manenti
+1000012579,L’Étrangère,2026,Amr Waked
+1000018041,Seuls les rebelles,2026,Hiam Abbass
+1000018041,Seuls les rebelles,2026,Amine Benrachid
+1000018041,Seuls les rebelles,2026,Shaden Fakih
+325653,Noise,2026,Lee Sun-bin
+325653,Noise,2026,Kim Min-seok
+325653,Noise,2026,Kyung-soo Ryu
+1000012946,Eruption,2026,Charli xcx
+1000012946,Eruption,2026,Lena Góra
+1000012946,Eruption,2026,Will Madden
+1000031132,11 rue Denver,2026,Lauryanne Philippe
+1000031132,11 rue Denver,2026,Olivier Thouret
+1000031132,11 rue Denver,2026,Cindy Mostacci
+326899,My Summer With Irene,2026,Noée Abita
+326899,My Summer With Irene,2026,Maria Camilla Brandenburg
+326899,My Summer With Irene,2026,Claudio Segaluscio
+294281,La Bataille de Gaulle - Partie 2 : J’écris ton nom,2026,Simon Abkarian
+294281,La Bataille de Gaulle - Partie 2 : J’écris ton nom,2026,Niels Schneider
+294281,La Bataille de Gaulle - Partie 2 : J’écris ton nom,2026,Anamaria Vartolomei
+1000045383,Bleach : Thousand-Year Blood War - The Calamity,2026,Masakazu Morita
+1000045383,Bleach : Thousand-Year Blood War - The Calamity,2026,Fumiko Orikasa
+1000045383,Bleach : Thousand-Year Blood War - The Calamity,2026,Noriaki Sugiyama
+208659,"Eega, la mouche vengeresse",2026,Sudeep
+208659,"Eega, la mouche vengeresse",2026,Nani
+208659,"Eega, la mouche vengeresse",2026,Samantha Ruth Prabhu
+1000002580,On l'appelait Robin des Bois,2026,Hugh Jackman
+1000002580,On l'appelait Robin des Bois,2026,Jodie Comer
+1000002580,On l'appelait Robin des Bois,2026,Bill Skarsgård
+293636,In Waves,2026,Lyna Khoudri
+293636,In Waves,2026,Paul Kircher
+293636,In Waves,2026,Rio Vega
+266720,Supergirl,2026,Milly Alcock
+266720,Supergirl,2026,Matthias Schoenaerts
+266720,Supergirl,2026,Eve Ridley
+1000021764,Permis de détruire,2026,Kad Merad
+1000021764,Permis de détruire,2026,Patrick Timsit
+1000021764,Permis de détruire,2026,Eric Fraticelli
+315283,Notre histoire - Chroniques du Caire,2026,Amir El-Masry
+315283,Notre histoire - Chroniques du Caire,2026,Valerie Pachner
+315283,Notre histoire - Chroniques du Caire,2026,Nelly Karim
+1000010002,Miss Mermaid,2026,Aloïse Sauvage
+1000010002,Miss Mermaid,2026,Thomas VDB
+1000010002,Miss Mermaid,2026,Alison Wheeler
+1000027832,Ghost Elephants,2026,Werner Herzog
+295636,Un champ de fraises pour l’éternité,2026,Philippe Rebbot
+295636,Un champ de fraises pour l’éternité,2026,Grégory Montel
+295636,Un champ de fraises pour l’éternité,2026,Florence Loiret Caille
+1000017497,André Is An Idiot,2026,André Ricciardi
+1000017497,André Is An Idiot,2026,Kyan Khojandi
+1000022999,Entroncamento,2026,Ana Vilaça
+1000022999,Entroncamento,2026,Cleo Diára
+1000022999,Entroncamento,2026,Rafael Morais
+314942,"Vaiana, la légende du bout du monde",2026,Catherine Laga'aia
+314942,"Vaiana, la légende du bout du monde",2026,Dwayne Johnson
+314942,"Vaiana, la légende du bout du monde",2026,Rena Owen
+326465,Evil Dead Burn,2026,Souheila Yacoub
+326465,Evil Dead Burn,2026,Hunter Doohan
+326465,Evil Dead Burn,2026,Luciane Buchanan
+1000028176,Kill Bill: The Whole Bloody Affair,2026,Uma Thurman
+1000028176,Kill Bill: The Whole Bloody Affair,2026,David Carradine
+1000028176,Kill Bill: The Whole Bloody Affair,2026,Lucy Liu
+287462,Seule la vie,2026,Valerie Pachner
+287462,Seule la vie,2026,Robert Stadlober
+287462,Seule la vie,2026,Stefanie Reinsperger
+326124,Le Passage,2026,Yasmine Al Massri
+326124,Le Passage,2026,Yahya Mahayni
+326124,Le Passage,2026,Omar Sy
+1000025598,La Chaleur,2026,Hadrien Hussein
+1000025598,La Chaleur,2026,Tristan Richard
+1000025598,La Chaleur,2026,Martina La Manna
+325471,Dry Leaf,2026,David Koberidze
+325471,Dry Leaf,2026,Otar Nijaradze
+325471,Dry Leaf,2026,Irina Chelidze
+1000007567,Hanami,2026,Sanaya Andrade
+1000007567,Hanami,2026,Dailma Mendes
+1000007567,Hanami,2026,Alice Da Luz Gomes
+1000048157,Backrooms : tout doit disparaître,2026,Chiwetel Ejiofor
+1000048157,Backrooms : tout doit disparaître,2026,Renate Reinsve
+1000048157,Backrooms : tout doit disparaître,2026,Mark Duplass
+1000030390,Microstar,2026,Abraham Wapler
+1000030390,Microstar,2026,Félix Lefebvre
+1000030390,Microstar,2026,Raïka Hazanavicius
+1000040166,L’Écologie des sentiments,2026,Andranic Manet
+1000040166,L’Écologie des sentiments,2026,Salomé Rose Stein
+1000040166,L’Écologie des sentiments,2026,Alexandre Steiger
+1000027153,The Fin,2026,Yeon Yeji
+1000027153,The Fin,2026,Pu-reum Kim
+1000027153,The Fin,2026,Goh-woo
+1000046436,Le premier rôle,2026,Zakaria Souakria
+1000046436,Le premier rôle,2026,Amor Hakkar
+1000046436,Le premier rôle,2026,Tounès Aït-Ali
+1000013045,L'Odyssée,2026,Matt Damon
+1000013045,L'Odyssée,2026,Tom Holland
+1000013045,L'Odyssée,2026,Anne Hathaway
+316460,The Last Viking,2026,Mads Mikkelsen
+316460,The Last Viking,2026,Nikolaj Lie Kaas
+316460,The Last Viking,2026,Lars Brygmann
+305835,L'Aventure rêvée,2026,Yana Radeva
+305835,L'Aventure rêvée,2026,Syuleyman Alilov Letifov
+305835,L'Aventure rêvée,2026,Stoicho Kostadinov
+281912,La Dernière séance,2026,Bhavin Rabari
+281912,La Dernière séance,2026,Bhavesh Shrimali
+281912,La Dernière séance,2026,Richa Meena
+1000017047,D'où vient le vent,2026,Eya Bellagha
+1000017047,D'où vient le vent,2026,Slim Baccar
+1000017047,D'où vient le vent,2026,Sondos Belhassen
+327050,Le Héros de Berlin,2026,Charly Hübner
+327050,Le Héros de Berlin,2026,Christiane Paul
+327050,Le Héros de Berlin,2026,Leon Ullrich
+1000015418,Le Berger et les ours,2026,une humanité et une poésie rares
+1000015418,Le Berger et les ours,2026,il éclaire le quotidien des éleveurs et des bergers confrontés aux bouleversements liés à la réintroduction de l’ours dans les Pyrénées. Le réalisateur Max Keegan déploie une mise en scène superbe
+1000015418,Le Berger et les ours,2026,visuellement cinématographique et pourtant toujours distanciée. Il pose un regard d’une grande justesse sur une ...
+1000014102,"Kayara, Princesse inca",2026,Naomi Serrano
+1000014102,"Kayara, Princesse inca",2026,Charles Gonzales
+1000014102,"Kayara, Princesse inca",2026,Arthur Romero (II)
+1000043086,Comète,2026,Vincent Macaigne
+1000043086,Comète,2026,Sandor Funtek
+1000043086,Comète,2026,Alexia Chardard
+1000037046,De la Comédie-Française,2026,Pauline Clément
+1000037046,De la Comédie-Française,2026,Laurent Stocker
+1000037046,De la Comédie-Française,2026,Julien Frison
+1000017192,Sur la route d'Omaha,2026,John Magaro
+1000017192,Sur la route d'Omaha,2026,Molly Belle Wright
+1000017192,Sur la route d'Omaha,2026,Wyatt Solis
+320561,La Fille dans les nuages,2026,Louane Emera
+320561,La Fille dans les nuages,2026,Jamel Debbouze
+320561,La Fille dans les nuages,2026,Grégoire Ludig
+1000003105,Charlie et les kangourous,2026,Lily Whiteley
+1000003105,Charlie et les kangourous,2026,Ryan Corr
+1000003105,Charlie et les kangourous,2026,Rachel House
+1000014327,Sous le ciel de Kyoto,2026,Riku Hagiwara
+1000014327,Sous le ciel de Kyoto,2026,Yuumi Kawai
+1000014327,Sous le ciel de Kyoto,2026,Aoi Itô
+328440,Nightborn,2026,Seidi Haarla
+328440,Nightborn,2026,Rupert Grint
+328440,Nightborn,2026,Pamela Tola
+1000044689,Les Vacances de Golo & Ritchie,2026,Golo
+1000044689,Les Vacances de Golo & Ritchie,2026,Ritchie
+1000044689,Les Vacances de Golo & Ritchie,2026,john Café
+327309,Cap Farewell,2026,Noée Abita
+327309,Cap Farewell,2026,Pascale Bussières
+327309,Cap Farewell,2026,Olivier Gourmet
+282094,"Gavagai, et autres malentendus",2026,Jean-Christophe Folly
+282094,"Gavagai, et autres malentendus",2026,Maren Eggert
+282094,"Gavagai, et autres malentendus",2026,Nathalie Richard
+1000022261,Gorgonà,2026,Melissanthi Mahut
+1000022261,Gorgonà,2026,Aurora Marion
+1000022261,Gorgonà,2026,Christos Loulis
+327574,Soleils Atikamekw,2026,Jacques Newashish
+327574,Soleils Atikamekw,2026,Mirociw Chilton
+327574,Soleils Atikamekw,2026,Wikwasa Newashish-Petiquay
+1000046374,WHAM! 10 Days In China,2026,George Michael
+1000046374,WHAM! 10 Days In China,2026,Andrew Ridgeley
+276608,Spider-Man: Brand New Day,2026,Tom Holland
+276608,Spider-Man: Brand New Day,2026,Zendaya
+276608,Spider-Man: Brand New Day,2026,Sadie Sink
+1000019327,Les Matins merveilleux,2026,India Hair
+1000019327,Les Matins merveilleux,2026,Raya Martigny
+1000019327,Les Matins merveilleux,2026,Eric Cantona
+1000031160,Le Triangle d'or,2026,Malou Khebizi
+1000031160,Le Triangle d'or,2026,Soundos Mosbah
+1000031160,Le Triangle d'or,2026,Ziad Bakri
+1000003998,I Want Your Sex,2026,Olivia Wilde
+1000003998,I Want Your Sex,2026,Cooper Hoffman
+1000003998,I Want Your Sex,2026,Mason Gooding
+1000019764,The Ugly,2026,Jeong Min Park
+1000019764,The Ugly,2026,Hae-hyo Kwon
+1000019764,The Ugly,2026,Shin Hyon Bin
+289867,Home stories,2026,Frida Hornemann
+289867,Home stories,2026,Max Riemelt
+289867,Home stories,2026,Eva Löbau
+306166,Tommy Guns,2026,João Luís Arrais
+306166,Tommy Guns,2026,Anabela Moreira
+306166,Tommy Guns,2026,Gustavo Sumpta
+1000043299,Lost in Territories,2026,Tomer Barash
+1000043299,Lost in Territories,2026,Maayan Bloom
+1000043299,Lost in Territories,2026,Gil Cohen
+320681,La Pat' Patrouille : Le film mission Dino,2026,Rain Janjua
+320681,La Pat' Patrouille : Le film mission Dino,2026,Carter Young
+320681,La Pat' Patrouille : Le film mission Dino,2026,Mckenna Grace
+1000022546,Les Gendarmes,2026,Arnaud Ducret
+1000022546,Les Gendarmes,2026,Marc Riso
+1000022546,Les Gendarmes,2026,Fred Testot
+1000023007,Des Fleurs pour Tokyo,2026,Kodai Kurosaki
+1000023007,Des Fleurs pour Tokyo,2026,Ken'ichi Endô
+1000023007,Des Fleurs pour Tokyo,2026,Haruka Igawa
+1000027856,Girl,2026,Roy Chiu
+1000027856,Girl,2026,Esther Liu
+1000027856,Girl,2026,Yu-Fei Lai
+1000019673,Les Silences de Riyad,2026,Mila Al Zahrani
+1000019673,Les Silences de Riyad,2026,Aziz Gharbawi
+1000019673,Les Silences de Riyad,2026,Shafi Al Harthy
+305836,Cotton Queen,2026,Mihad Murtada
+305836,Cotton Queen,2026,Rabha Mohamed Mahmoud
+305836,Cotton Queen,2026,Talaat Farid
+1000012952,"Kyma, l’onde mystérieuse",2026,Jules Lefebvre
+1000012952,"Kyma, l’onde mystérieuse",2026,Lucy Loste Berset
+1000012952,"Kyma, l’onde mystérieuse",2026,Mamadou Haïdara
+1000008200,Jour de chasse,2026,Nahéma Ricci
+1000008200,Jour de chasse,2026,Bruno Marcil
+1000008200,Jour de chasse,2026,Frédéric Millaire Zouvi
+1000048132,Ateez : Light The Way in cinemas,2026,ATEEZ
+1000048132,Ateez : Light The Way in cinemas,2026,Hongjoong
+1000048132,Ateez : Light The Way in cinemas,2026,Yunho
+1000039379,Le concert d'été 2026 d'André Rieu : Viva Maastricht !,2026,André Rieu
+1000024105,Soudain,2026,Virginie Efira
+1000024105,Soudain,2026,Tao Okamoto
+1000024105,Soudain,2026,Kodai Kurosaki
+1000032856,Tombé du ciel,2026,Ilyes Djadel
+1000032856,Tombé du ciel,2026,Josiane Balasko
+1000032856,Tombé du ciel,2026,Fred Testot
+314503,La fin d’Oak Street,2026,Anne Hathaway
+314503,La fin d’Oak Street,2026,Ewan McGregor
+314503,La fin d’Oak Street,2026,Maisy Stella
+1000041528,Un grand raccourci,2026,Sara Montpetit
+1000041528,Un grand raccourci,2026,Louise Labeque
+1000041528,Un grand raccourci,2026,François Le Bris
+1000019899,Juste pour une nuit,2026,Monica Barbaro
+1000019899,Juste pour une nuit,2026,Callum Turner
+1000019899,Juste pour une nuit,2026,Maya Hawke
+1000034332,Une affaire turque,2026,Lionel Erdogan
+1000034332,Une affaire turque,2026,Charles Berling
+1000034332,Une affaire turque,2026,Metehan Aygün
+1000029301,Chicas tristes,2026,Rocio Guzmán
+1000029301,Chicas tristes,2026,Darana Álvarez
+1000029301,Chicas tristes,2026,Tatsumi Milori
+1000020491,Undertone,2026,Nina Kiri
+1000020491,Undertone,2026,Michelle Duquet
+1000020491,Undertone,2026,Keana Lyn Bastidas
+1000019382,Une aube nouvelle,2026,Riku Hagiwara
+1000019382,Une aube nouvelle,2026,Kotone Furukawa
+1000019382,Une aube nouvelle,2026,Miyu Irino
+327754,Lydia et le vaisseau des tempêtes,2026,Sophie Nélisse
+327754,Lydia et le vaisseau des tempêtes,2026,Anthony Kavanagh
+327754,Lydia et le vaisseau des tempêtes,2026,Eveline Gélinas
+56608,The Quiet Family,2026,Song Kang-Ho
+56608,The Quiet Family,2026,Min-sik Choi
+56608,The Quiet Family,2026,Jae-yeong Jeong
+188280,Fjord,2026,Sebastian Stan
+188280,Fjord,2026,Renate Reinsve
+188280,Fjord,2026,Lisa Carlehed
+316021,Oklahoma Honey,2026,Matthew McConaughey
+316021,Oklahoma Honey,2026,Angelina LookingGlass
+316021,Oklahoma Honey,2026,Kurt Russell
+1000002942,Mutiny,2026,Jason Statham
+1000002942,Mutiny,2026,Annabelle Wallis
+1000002942,Mutiny,2026,Roland Møller
+1000016503,Insidious : l'invasion du lointain,2026,Amelia Eve
+1000016503,Insidious : l'invasion du lointain,2026,Island Austin
+1000016503,Insidious : l'invasion du lointain,2026,Lin Shaye
+1000033718,La Nirvana,2026,Ichem Bougheraba
+1000033718,La Nirvana,2026,Jean-Baptiste Brucker
+1000033718,La Nirvana,2026,Emma Smet
+308394,Paradise,2026,Daniel Atsu Hukporti
+308394,Paradise,2026,Joey Boivin-Desmeules
+308394,Paradise,2026,Benjamin Kwao Delali
+1000022452,La Fille Condor,2026,María Magdalena Sanizo
+1000022452,La Fille Condor,2026,Marisol Vallejo Montaño
+1000022452,La Fille Condor,2026,Nely Huayta Cutipa
+1000037432,La Providence et la Guitare,2026,Pedro Inês
+1000037432,La Providence et la Guitare,2026,Clara Riedenstein
+1000037432,La Providence et la Guitare,2026,Salvador Sobral
+121982,Lost Paradise,2026,Koji Yakusho
+121982,Lost Paradise,2026,Hitomi Kuroki
+121982,Lost Paradise,2026,Akira Terao
+1000037129,South Bound,2026,Etsushi Toyokawa
+1000037129,South Bound,2026,Yuki Amami
+1000037129,South Bound,2026,Shuto Tanabe
+1000010367,Main Theme,2026,Hiroko Yakushimaru
+1000010367,Main Theme,2026,Kaori Momoi
+1000010367,Main Theme,2026,Hironobu Nomura
+316499,The Black House,2026,Seiyô Uchino
+316499,The Black House,2026,Shinobu Ôtake
+316499,The Black House,2026,Masahiko Nishimura
+1000033875,Khalifa,2026,Prithviraj Sukumaran
+1000033875,Khalifa,2026,Mohanlal
+1000033875,Khalifa,2026,Indrans
+1000049968,Modha Rathiri,2026,Rishikanth
+1000049968,Modha Rathiri,2026,Anishma Anilkumar
+1000049968,Modha Rathiri,2026,Abdool Lee
+1000040592,Irumudi,2026,Ravi Teja
+1000040592,Irumudi,2026,Priya Bhavani Shankar
+1000040592,Irumudi,2026,Ajay Ghosh
+1000014969,The Dog Stars,2026,Jacob Elordi
+1000014969,The Dog Stars,2026,Margaret Qualley
+1000014969,The Dog Stars,2026,Josh Brolin
+327993,L'Inconnue,2026,Léa Seydoux
+327993,L'Inconnue,2026,Niels Schneider
+327993,L'Inconnue,2026,Valérie Dréville
+1000039625,Dégel,2026,Maya O’Rourke
+1000039625,Dégel,2026,Saskia Rosendahl
+1000039625,Dégel,2026,Maia Rae Domagala
+257425,Tad l'explorateur et la lampe magique,2026,Oscar Barberán
+257425,Tad l'explorateur et la lampe magique,2026,Michelle Jenner
+257425,Tad l'explorateur et la lampe magique,2026,Luis Posada
+1000032278,Face à la mer,2026,Barry Ward
+1000032278,Face à la mer,2026,Lorne MacFadyen
+1000032278,Face à la mer,2026,Liz White
+318365,Decorado,2026,Asier Hormaza
+318365,Decorado,2026,Aintzane Gamiz
+318365,Decorado,2026,Kandido Uranga
+321617,Bombonera,2026,Soufiane Guerrab
+321617,Bombonera,2026,Vimala Pons
+321617,Bombonera,2026,Emma Boumali
+1000028076,Memory Of Princess Mumbi,2026,Shandra Apondi
+1000028076,Memory Of Princess Mumbi,2026,Ibrahim Joseph
+1000028076,Memory Of Princess Mumbi,2026,Samson Waithaka
+1000029051,New Group,2026,Anna Yamada
+1000029051,New Group,2026,Yuzu Aoki
+1000029051,New Group,2026,Pierre Taki
+324492,Toxic - A Fairy Tale for Grown-Ups,2026,Yash
+324492,Toxic - A Fairy Tale for Grown-Ups,2026,Kiara Advani
+324492,Toxic - A Fairy Tale for Grown-Ups,2026,Nayanthara
+1000049021,GHOST: 2 Big To Rig,2026,les seules images captées par des caméras professionnelles de Papa V Perpetua et de son groupe de Nameless Ghouls lors du SKELETOUR
+1000049021,GHOST: 2 Big To Rig,2026,où les téléphones étaient interdits
+1000049021,GHOST: 2 Big To Rig,2026,2 BIG TO RIG plonge les spectateurs au cœur du rituel live de GHOST.
 207538,Une langouste au petit déjeuner,2026,Enrico Montesano
 207538,Une langouste au petit déjeuner,2026,Claude Brasseur
 207538,Une langouste au petit déjeuner,2026,Janet Agren
+1000050408,Once More,2026,Arjun Das
+1000050408,Once More,2026,Aditi Shankar
+1000050408,Once More,2026,Sona Olickal
+147956,Bleach : The DiamondDust Rebellion,2026,Masakazu Morita
+147956,Bleach : The DiamondDust Rebellion,2026,Fumiko Orikasa
+224258,Bleach - Le Film 4 : Hell Verse,2026,Masakazu Morita
+224258,Bleach - Le Film 4 : Hell Verse,2026,Fumiko Orikasa
+224258,Bleach - Le Film 4 : Hell Verse,2026,Kazuya Nakai
+135076,Bleach : Memories of Nobody,2026,Masakazu Morita
+135076,Bleach : Memories of Nobody,2026,Fumiko Orikasa
+135076,Bleach : Memories of Nobody,2026,Chiwa Saito
+1000019852,Trois adieux,2026,Alba Rohrwacher
+1000019852,Trois adieux,2026,Elio Germano
+1000019852,Trois adieux,2026,Galatea Bellugi
+314290,La Frappe,2026,Diego Murgia
+314290,La Frappe,2026,Bastien Bouillon
+314290,La Frappe,2026,Romane Fringeli
+1000022260,Salvation,2026,Caner Cindoruk
+1000022260,Salvation,2026,Berkay Ateş
+1000022260,Salvation,2026,Feyyaz Duman
+300784,La Dernière patiente,2026,Anouk Grinberg
+300784,La Dernière patiente,2026,Luàna Bajrami
+300784,La Dernière patiente,2026,Félix Lefebvre
+1000044253,Lettres d'amour de ma grand-mère,2026,Sitong Li
+1000044253,Lettres d'amour de ma grand-mère,2026,Yantong Wang
+1000044253,Lettres d'amour de ma grand-mère,2026,Shaoqing Wu
+1000018551,The Good Sister,2026,Marie Bloching
+1000018551,The Good Sister,2026,Anton Weil
+1000018551,The Good Sister,2026,Proschat Madani
+1000024164,The Holy Boy,2026,Michele Riondino
+1000024164,The Holy Boy,2026,Romana Maggiora Vergano
+1000024164,The Holy Boy,2026,Roberto Citran
+1000047849,Retour avant 15 heures,2026,Serge Renko
+1000047849,Retour avant 15 heures,2026,Philippe Girard
+316397,The Opera!,2026,Valentino Buzza
+316397,The Opera!,2026,Mariam Battistelli
+316397,The Opera!,2026,Vincent Cassel
+1000034818,Gouffres et merveilles,2026,Christine Dancausse
+1000034818,Gouffres et merveilles,2026,Jean Boiron Lajous
+44148,Arrebato,2026,Eusebio Poncela
+44148,Arrebato,2026,Cecilia Roth
+44148,Arrebato,2026,Will More
+138263,Smash Palace,2026,Bruno Lawrence
+138263,Smash Palace,2026,Anna Maria Monticelli
+138263,Smash Palace,2026,Greer Robson
+1000036604,I'm Game,2026,Dulquer Salmaan
+1000036604,I'm Game,2026,Antony Varghese
+1000036604,I'm Game,2026,Samyuktha Viswanathan
+1000045609,Katy Perry: The Lifetimes Tour - Live from Paris,2026,Katy Perry
+1000019736,Nimrods : A Green Day Comedy,2026,Mason Thames
+1000019736,Nimrods : A Green Day Comedy,2026,Kylr Coffman
+1000019736,Nimrods : A Green Day Comedy,2026,Ryan Foust
+1000004458,Pressure,2026,Andrew Scott
+1000004458,Pressure,2026,Brendan Fraser
+1000004458,Pressure,2026,Kerry Condon
+327941,La Vie d'une femme,2026,Léa Drucker
+327941,La Vie d'une femme,2026,Mélanie Thierry
+327941,La Vie d'une femme,2026,Charles Berling
+323826,Les Héros du Louvre,2026,Kad Merad
+323826,Les Héros du Louvre,2026,Marie Gillain
+323826,Les Héros du Louvre,2026,Julia de Nunez
+319893,Rose,2026,Sandra Hüller
+319893,Rose,2026,Caro Braun
+319893,Rose,2026,Marisa Growaldt
+1000004679,Les Ensorceleuses 2,2026,Nicole Kidman
+1000004679,Les Ensorceleuses 2,2026,Sandra Bullock
+1000004679,Les Ensorceleuses 2,2026,Cassie Bradley
+1000012310,Adieu monde cruel,2026,Milo Machado-Graner
+1000012310,Adieu monde cruel,2026,Jane Beever
+1000012310,Adieu monde cruel,2026,Emmanuelle Destremau
+318226,Les Survivants du Che,2026,Vincent Lindon
+1000031730,Flush,2026,Jonathan Lambert
+1000031730,Flush,2026,Elodie Navarre
+1000031730,Flush,2026,Elliot Jenicot
+1000021803,Oasis: Don't Look Back In Anger,2026,Liam Gallagher
+1000021803,Oasis: Don't Look Back In Anger,2026,Noel Gallagher
+1000021803,Oasis: Don't Look Back In Anger,2026,Paul Arthurs
+1000021763,Billie Melody,2026,Roschdy Zem
+1000021763,Billie Melody,2026,Bonnie Bouriche Troutaud
+1000021763,Billie Melody,2026,Julia Faure
+1000030749,The Sea,2026,Muhammad Gazawi
+1000030749,The Sea,2026,Khalifa Natour
+1000030749,The Sea,2026,Marlene Bajali
+1000043030,Commis d'office,2026,Bing Yin
+1000043030,Commis d'office,2026,Emma Vaneecloo
+1000043030,Commis d'office,2026,Frédéric Ambrosini
+1000023324,Mandaadi,2026,Soori
+1000023324,Mandaadi,2026,Suhas
+1000023324,Mandaadi,2026,Krish Hassan
 50930,Les Faucons,2026,Ivan Andonov
 50930,Les Faucons,2026,György Bánffy
 50930,Les Faucons,2026,Judit Meszléry
@@ -70032,6 +70636,38 @@ allocine_id,titre,annee,acteur
 236766,NN,2026,Paul Vega
 236766,NN,2026,Antonieta Pari
 236766,NN,2026,Isabel Gaona
+1000019874,Les Contrebandiers,2026,Ethan Hawke
+1000019874,Les Contrebandiers,2026,Russell Crowe
+1000019874,Les Contrebandiers,2026,Julia Jones
+1000018854,Resident Evil,2026,Austin Abrams
+1000018854,Resident Evil,2026,Paul Walter Hauser
+1000018854,Resident Evil,2026,Zach Cherry
+1000043221,Si tu penses bien,2026,Monia Chokri
+1000043221,Si tu penses bien,2026,Niels Schneider
+1000043221,Si tu penses bien,2026,Clémentine Célarié
+317219,L'Invitation,2026,Seth Rogen
+317219,L'Invitation,2026,Olivia Wilde
+317219,L'Invitation,2026,Penélope Cruz
+324014,Histoires De La Nuit,2026,Hafsia Herzi
+324014,Histoires De La Nuit,2026,Benoît Magimel
+324014,Histoires De La Nuit,2026,Bastien Bouillon
+1000014638,Sham,2026,Gô Ayano
+1000014638,Sham,2026,Kô Shibasaki
+1000014638,Sham,2026,Kazuya Kamenashi
+1000042891,La Vie en relief - Jacques Henri Lartigue,2026,Luàna Bajrami
+1000042891,La Vie en relief - Jacques Henri Lartigue,2026,Hervé Pierre
+1000042891,La Vie en relief - Jacques Henri Lartigue,2026,Milo Machado-Graner
+1000023495,Ma famille de samouraïs,2026,Justine Hostekint
+1000023495,Ma famille de samouraïs,2026,Laurent Pasquier
+1000023495,Ma famille de samouraïs,2026,Angélique Heller
+1000014136,Maoussi,2026,Moustapha Mbengue
+1000014136,Maoussi,2026,Charlotte Schiøler
+1000014136,Maoussi,2026,Elsa Wolliaston
+1000049118,Hanuman Ansh,2026,Shobhinaw Satyaa
+1000049118,Hanuman Ansh,2026,Chandan Anand
+1000049118,Hanuman Ansh,2026,Purnima Tiwari
+321354,Festin boréal,2026,Robert Morin
+321354,Festin boréal,2026,Solomon Wawatie
 37100,Les Murs ont des oreilles,2026,Louis Velle
 37100,Les Murs ont des oreilles,2026,Martine Sarcey
 37100,Les Murs ont des oreilles,2026,Chantal Nobel
@@ -70040,6 +70676,9 @@ allocine_id,titre,annee,acteur
 259447,Défense de Filmer,2026,Nour Caillaud
 259447,Défense de Filmer,2026,Maria M. Kann
 259447,Défense de Filmer,2026,Ioulia Plotnikova
+1000046254,The Transformers: The Movie 40th Anniversary,2026,Peter Cullen
+1000046254,The Transformers: The Movie 40th Anniversary,2026,Frank Welker
+1000046254,The Transformers: The Movie 40th Anniversary,2026,Orson Welles
 128445,Plus vénimeux que le cobra,2026,George Ardisson
 128445,Plus vénimeux que le cobra,2026,Erika Blanc
 128445,Plus vénimeux que le cobra,2026,Alberto de Mendoza
@@ -70056,3 +70695,228 @@ allocine_id,titre,annee,acteur
 1000038824,Surface of Blood,2026,Tiara Chanel Sehn
 1000038824,Surface of Blood,2026,Omer Aubin
 1000038824,Surface of Blood,2026,Michael Palmer (XX)
+1000049013,Daayra,2026,Prithviraj Sukumaran
+1000049013,Daayra,2026,Kareena Kapoor
+1000049013,Daayra,2026,Mounis Ratta
+1000051176,Échos de l'Histoire Asiatique,2026,une sélection élargie à six longs métrages et huit courts métrages
+1000051176,Échos de l'Histoire Asiatique,2026,Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie
+1000051176,Échos de l'Histoire Asiatique,2026,chargés d’histoires et de cultures
+1000051176,Échos de l'Histoire Asiatique,2026,en nous emmenant toujours plus loin au cœur du continent.
+1000051178,Horizons de l'Asie Contemporaine,2026,une sélection élargie à six longs métrages et huit courts métrages
+1000051178,Horizons de l'Asie Contemporaine,2026,Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie
+1000051178,Horizons de l'Asie Contemporaine,2026,chargés d’histoires et de cultures
+1000051178,Horizons de l'Asie Contemporaine,2026,en nous emmenant toujours plus loin au cœur du continent.
+1000052387,Ailleurs,2026,Isidor Germain
+1000052387,Ailleurs,2026,Gaël Gerthoffer
+1000052387,Ailleurs,2026,Fabio Gorgolini
+1000000085,Heart Of The Beast,2026,Brad Pitt
+1000000085,Heart Of The Beast,2026,J.K. Simmons
+1000000085,Heart Of The Beast,2026,Anna Lambe
+1000026039,Garance,2026,Adèle Exarchopoulos
+1000026039,Garance,2026,Sara Giraudeau
+1000026039,Garance,2026,Sarajeanne Drillaud
+1000013908,Primetime,2026,Robert Pattinson
+1000013908,Primetime,2026,Merritt Wever
+1000013908,Primetime,2026,Skyler Gisondo
+1000028944,Justin le Juste,2026,Alban Ivanov
+1000028944,Justin le Juste,2026,Alexandra Lamy
+1000028944,Justin le Juste,2026,Birane Ba
+1000026622,Raison et sentiments,2026,Daisy Edgar-Jones
+1000026622,Raison et sentiments,2026,Esmé Creed-Miles
+1000026622,Raison et sentiments,2026,Caitriona Balfe
+1000037846,Détective Conan : L'Ange déchu de l'asphalte,2026,Minami Takayama
+1000037846,Détective Conan : L'Ange déchu de l'asphalte,2026,Wakana Yamazaki
+1000037846,Détective Conan : L'Ange déchu de l'asphalte,2026,Rikiya Koyama
+1000048319,Fini de rire ! L'humour politique au garde-à-vous ?,2026,Guillaume Meurice
+1000048319,Fini de rire ! L'humour politique au garde-à-vous ?,2026,Lionel Dutemple
+1000048319,Fini de rire ! L'humour politique au garde-à-vous ?,2026,Sandrine Alexi
+326989,Les Roches Rouges,2026,Kaylon Lancel
+326989,Les Roches Rouges,2026,Kelsie Verdeilles
+326989,Les Roches Rouges,2026,Louise Podolski
+1000042927,Les Éléphants dans la brume,2026,Pushpa Thing Lama
+1000042927,Les Éléphants dans la brume,2026,Deepika Yadav
+1000042927,Les Éléphants dans la brume,2026,Jasmin Bishwokarma
+1000023438,Her Private Hell,2026,Sophie Thatcher
+1000023438,Her Private Hell,2026,Charles Melton
+1000023438,Her Private Hell,2026,Kristine Frøseth
+1000046253,"Haute solitude, Jean Zay prisonnier politique",2026,Eric Caravaca
+1000020779,The Paradise,2026,Nani
+1000020779,The Paradise,2026,Kayadu Lohar
+1000020779,The Paradise,2026,Mohan Babu
+1000051923,Meesaya Murukku 2,2026,Hiphop Tamizha Adhi
+1000051923,Meesaya Murukku 2,2026,Ketika Sharma
+1000051923,Meesaya Murukku 2,2026,Chithra J. Achar
+1000051542,Dorothy,2026,Keerthy Suresh
+1000051542,Dorothy,2026,Rishikanth
+1000051542,Dorothy,2026,Sananth
+1000023845,Vvaan,2026,Sidharth Malhotra
+1000023845,Vvaan,2026,Tamannaah Bhatia
+1000023845,Vvaan,2026,Nimrat Kaur
+1000050695,Anbil Avan,2026,Sabumon Abdusamad
+1000050695,Anbil Avan,2026,Ashok Selvan
+1000050695,Anbil Avan,2026,Mahadevan Ganesh
+1000007388,Notre salut,2026,Swann Arlaud
+1000007388,Notre salut,2026,Sandrine Blancke
+1000007388,Notre salut,2026,Harpo Guit
+1000032855,Kraken,2026,Alassane Diong
+1000032855,Kraken,2026,Manon Bresch
+1000032855,Kraken,2026,Guillaume Gouix
+327174,Digger,2026,Tom Cruise
+327174,Digger,2026,Sandra Hüller
+327174,Digger,2026,Riz Ahmed
+1000015739,Verity,2026,Anne Hathaway
+1000015739,Verity,2026,Dakota Johnson
+1000015739,Verity,2026,Josh Hartnett
+1000026296,Mémoire de fille,2026,Tess Barthélemy
+1000026296,Mémoire de fille,2026,Valérie Dréville
+1000026296,Mémoire de fille,2026,Maïwène Barthèlemy
+1000007346,Le Monde à l'endroit,2026,Sandrine Bonnaire
+1000007346,Le Monde à l'endroit,2026,Marianne Denicourt
+1000007346,Le Monde à l'endroit,2026,Isild Le Besco
+1000045261,Melpomène,2026,Charlotte Dauphin
+1000045261,Melpomène,2026,Pascal Greggory
+1000045261,Melpomène,2026,Andie MacDowell
+1000038237,Le Chant des oliviers,2026,Michela Farrugia
+1000038237,Le Chant des oliviers,2026,Nenu Borg
+1000038237,Le Chant des oliviers,2026,Michael Azzopardi
+1000050921,L’idée qu’on s’en faisait,2026,Laetitia Beauvais
+1000050921,L’idée qu’on s’en faisait,2026,Andrea Dolente
+1000050921,L’idée qu’on s’en faisait,2026,Catherine Sorolla
+1000051519,Kadar The Sons of the Lord,2026,Takla Chamoun
+1000051519,Kadar The Sons of the Lord,2026,Wajiha Jendoubi
+1000051519,Kadar The Sons of the Lord,2026,Mhadheb Rmili
+1000049814,Linkin Park: Unshatter,2026,Joseph Hahn
+1000049814,Linkin Park: Unshatter,2026,Mike Shinoda
+1000046806,Sigma,2026,Yog Japee
+1000046806,Sigma,2026,Faria Abdullah
+1000046806,Sigma,2026,Sundeep Kishan
+1000043022,Così fan tutte (Metropolitan Opera),2026,Federica Lombardi
+1000043022,Così fan tutte (Metropolitan Opera),2026,Samantha Hankey
+1000043022,Così fan tutte (Metropolitan Opera),2026,Ana María Martínez (II)
+1000031247,La Maison de nos rêves,2026,Kev Adams
+1000031247,La Maison de nos rêves,2026,Chantal Ladesou
+1000031247,La Maison de nos rêves,2026,Camille Aguilar
+1000019249,Ducobu et le fantôme de Saint-Potache,2026,Charlie Garnier Naslin
+1000019249,Ducobu et le fantôme de Saint-Potache,2026,Elie Semoun
+1000019249,Ducobu et le fantôme de Saint-Potache,2026,Émilie Caen
+1000023992,"Ni vue, ni connue",2026,Isabelle Huppert
+1000023992,"Ni vue, ni connue",2026,Sandrine Kiberlain
+1000023992,"Ni vue, ni connue",2026,Anne Marivin
+1000037443,Leviticus,2026,Joe Bird
+1000037443,Leviticus,2026,Stacy Clausen
+1000037443,Leviticus,2026,Mia Wasikowska
+1000030290,Fausse note,2026,Kad Merad
+1000030290,Fausse note,2026,Benoît Poelvoorde
+285141,L'Espèce explosive,2026,Alexis Manenti
+285141,L'Espèce explosive,2026,Ella Rumpf
+285141,L'Espèce explosive,2026,Vincent Dedienne
+1000026649,The Social Reckoning,2026,Mikey Madison
+1000026649,The Social Reckoning,2026,Jeremy Allen White
+1000026649,The Social Reckoning,2026,Jeremy Strong
+299748,Ton animal maternel,2026,Daniela Marin Navarro
+299748,Ton animal maternel,2026,Marina de Tavira
+299748,Ton animal maternel,2026,Reinaldo Amien Gutierrez
+313150,Butterfly Jam,2026,Barry Keoghan
+313150,Butterfly Jam,2026,Riley Keough
+313150,Butterfly Jam,2026,Harry Melling
+1000040606,Doraemon et le Château sous-marin,2026,Emmanuel Curtil
+1000040606,Doraemon et le Château sous-marin,2026,Wasabi Mizuta
+1000040606,Doraemon et le Château sous-marin,2026,Brigitte Lecordier
+1000018994,Mikusu Modan,2026,Toshizo Fujiwara
+1000018994,Mikusu Modan,2026,Daiki Ido
+1000018994,Mikusu Modan,2026,Tomoko Fujita
+1000048424,No Wifi,2026,Mélina Tatopoulos
+1000048424,No Wifi,2026,Sébastien Drouet
+1000048424,No Wifi,2026,Natasha Mashkevich
+1000051533,Artou,2026,Omar Sy
+1000051533,Artou,2026,Mohamed Salem Ould Dandou
+1000051533,Artou,2026,Kessen Tall
+272376,Volcans : Plongez au cœur du cratère,2026,Ross Huguet
+1000050836,Queen Budapest,2026,Queen
+1000050836,Queen Budapest,2026,John Deacon
+1000050836,Queen Budapest,2026,Brian May
+1000049428,Always Lalisa,2026,Lalisa Manobal
+326160,Les Misérables,2026,Vincent Lindon
+326160,Les Misérables,2026,Tahar Rahim
+326160,Les Misérables,2026,Camille Cottin
+321790,Le Corset,2026,Gary Clichy
+321790,Le Corset,2026,Rod Paradot
+321790,Le Corset,2026,Brune Moulin
+318791,Englouti,2026,Austin Abrams
+318791,Englouti,2026,Josh Brolin
+318791,Englouti,2026,Elisabeth Shue
+1000023068,Malfaisante,2026,Jessica Chastain
+1000023068,Malfaisante,2026,Jay Duplass
+1000023068,Malfaisante,2026,Arabella Olivia Clark
+1000022205,Minotaure,2026,Dmitriy Mazurov
+1000022205,Minotaure,2026,Iris Lebedeva
+1000022205,Minotaure,2026,Boris Kudrin
+314939,Street Fighter,2026,Noah Centineo
+314939,Street Fighter,2026,Andrew Koji
+314939,Street Fighter,2026,Callina Liang
+1000013643,Mochy,2026,Axel Auriant
+1000013643,Mochy,2026,Joseph Balderrama
+1000047512,Petite Casbah,2026,Alicia Hava
+1000047512,Petite Casbah,2026,Céline Ronte
+1000047512,Petite Casbah,2026,Magali Rosenzweig
+1000019091,Low Expectations,2026,Marie Ulven
+1000019091,Low Expectations,2026,Anders Danielsen Lie
+1000019091,Low Expectations,2026,Tone Beate Mostraum
+1000012312,Où vont les âmes,2026,Monia Chokri
+1000012312,Où vont les âmes,2026,Sylvie Testud
+1000012312,Où vont les âmes,2026,Sara Montpetit
+1000039457,Le Jour de son retour,2026,Song Sunmi
+1000039457,Le Jour de son retour,2026,Cho Yunhee
+1000039457,Le Jour de son retour,2026,Park Miso
+1000036827,Il était une fois le printemps,2026,Alexandre Triaca
+1000036827,Il était une fois le printemps,2026,Leslie Tompson
+1000036827,Il était une fois le printemps,2026,Evangeline Chancerelle
+1000051724,Mais qui a tué Marcel ? Un été 76,2026,Philippe Hayot
+1000051724,Mais qui a tué Marcel ? Un été 76,2026,Valérie Duprez
+1000051724,Mais qui a tué Marcel ? Un été 76,2026,Henri Serrano
+1000035013,La Porte des dieux,2026,Chen Bor Jeng
+1000035013,La Porte des dieux,2026,Jiayu Chen
+1000035013,La Porte des dieux,2026,Lee Kang-sheng
+1000043020,Macbeth (Metropolitan Opera),2026,Lise Davidsen
+1000043020,Macbeth (Metropolitan Opera),2026,Freddie De Tommaso
+1000043020,Macbeth (Metropolitan Opera),2026,Quinn Kelsey
+1000018384,Karma,2026,Marion Cotillard
+1000018384,Karma,2026,Denis Ménochet
+1000018384,Karma,2026,Leonardo Sbaraglia
+318225,La Gradiva,2026,Antonia Buresi
+318225,La Gradiva,2026,Colas Quignard
+318225,La Gradiva,2026,Suzanne Gerin
+1000030383,Le Roi du Game,2026,Eric Judor
+1000030383,Le Roi du Game,2026,Alexandra Lamy
+1000030383,Le Roi du Game,2026,Marc Labreche
+1000016901,Clayface,2026,Tom Rhys Harries
+1000016901,Clayface,2026,Naomi Ackie
+1000016901,Clayface,2026,Max Minghella
+296642,L'île des souvenirs,2026,Manon Bresch
+296642,L'île des souvenirs,2026,H.E.R.
+296642,L'île des souvenirs,2026,Anaïde Rozam
+1000026725,Une femme aujourd’hui,2026,Marilou Aussilloux
+1000026725,Une femme aujourd’hui,2026,Ariane Ascaride
+1000026725,Une femme aujourd’hui,2026,Jean-Pierre Darroussin
+1000024131,Shaun le Mouton : La Bêêête d'Halloween,2026,Justin Fletcher
+1000024131,Shaun le Mouton : La Bêêête d'Halloween,2026,John Sparkes
+1000024131,Shaun le Mouton : La Bêêête d'Halloween,2026,Kate Harbour
+322884,Wicker,2026,Olivia Colman
+322884,Wicker,2026,Alexander Skarsgård
+322884,Wicker,2026,Peter Dinklage
+1000043220,Marie Madeleine,2026,Gessica Généus
+1000043220,Marie Madeleine,2026,Béonard Monteau
+1000043220,Marie Madeleine,2026,Edouard Baptiste
+315883,Klara et le soleil,2026,Jenna Ortega
+315883,Klara et le soleil,2026,Mia Tharia
+315883,Klara et le soleil,2026,Amy Adams
+13069,Peking Opera Blues,2026,Mark Cheng
+13069,Peking Opera Blues,2026,Brigitte Lin Ching-hsia
+13069,Peking Opera Blues,2026,Sally Yeh
+37179,Nadja,2026,Elina Löwensohn
+37179,Nadja,2026,Nic Ratner
+37179,Nadja,2026,Peter Fonda
+1000048555,BTS World Tour 'ARIRANG' In Buenos Aires : Live viewing,2026,RM
+1000048555,BTS World Tour 'ARIRANG' In Buenos Aires : Live viewing,2026,Jin
+1000048555,BTS World Tour 'ARIRANG' In Buenos Aires : Live viewing,2026,Suga
+1000045315,L’Histoire de Manon (The Royal Ballet),2026,William Bracewell
