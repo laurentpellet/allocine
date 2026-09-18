@@ -12,21 +12,14 @@ library(lubridate)
 BASE_URL <- "https://www.allocine.fr"
 TMDB_URL <- "https://api.themoviedb.org/3"
 TMDB_TOKEN <- Sys.getenv("TMDB_TOKEN")
-
-DOSSIER_ALLOCINE <- "data/allocine"
-DOSSIER_TMDB <- "data/tmdb"
-
-FICHIER_FILMS <- "data/films.csv"
-FICHIER_ACTEURS <- "data/acteurs.csv"
-FICHIER_TMDB_IDS <- "data/tmdb_ids.csv"
-
+DOSSIER_ALLOCINE   <- "data/allocine"
+DOSSIER_TMDB       <- "data/tmdb"
+FICHIER_FILMS      <- "data/films.csv"
+FICHIER_ACTEURS    <- "data/acteurs.csv"
+FICHIER_TMDB_IDS   <- "data/tmdb_ids.csv"
 FICHIER_TMDB_FILMS <- file.path(DOSSIER_TMDB, "films.csv")
-FICHIER_TMDB_CAST <- file.path(DOSSIER_TMDB, "cast.csv")
-FICHIER_TMDB_CREW <- file.path(DOSSIER_TMDB, "crew.csv")
-
-dir.create(DOSSIER_ALLOCINE, recursive = TRUE, showWarnings = FALSE)
-dir.create(DOSSIER_TMDB, recursive = TRUE, showWarnings = FALSE)
-
+FICHIER_TMDB_CAST  <- file.path(DOSSIER_TMDB, "cast.csv")
+FICHIER_TMDB_CREW  <- file.path(DOSSIER_TMDB, "crew.csv")
 
 # UTILITAIRES -------------------------------------------------------------
 
@@ -35,10 +28,7 @@ dir.create(DOSSIER_TMDB, recursive = TRUE, showWarnings = FALSE)
 }
 
 parse_note <- function(x) {
-  x |>
-    str_extract("[0-5][,.][0-9]") |>
-    str_replace(",", ".") |>
-    as.numeric()
+  x |> str_extract("[0-5][,.][0-9]") |> str_replace(",", ".") |> as.numeric()
 }
 
 extract_match <- function(x, pattern) {
@@ -61,8 +51,53 @@ normalize_title <- function(x) {
   trimws(x)
 }
 
+fread_if_exists <- function(file) {
+  if (file.exists(file)) fread(file) else data.table()
+}
+
 
 # ALLOCINE - REQUETES -----------------------------------------------------
+
+premier_mercredi <- function(date) {
+  while (format(date, "%u") != "3") date <- date + 1
+  date
+}
+
+allocine_download <- function(date_debut, date_fin, dossier) {
+  mercredis <- seq(premier_mercredi(date_debut), date_fin, by = "7 days")
+  
+  for (date in mercredis) {
+    date <- as.Date(date, origin = "1970-01-01")
+    dir <- file.path(dossier, format(date, "%Y"))
+    file <- file.path(dir, paste0("allocine_", date, ".csv"))
+    dir.create(dir, recursive = TRUE, showWarnings = FALSE)
+    
+    if (file.exists(file)) {
+      message(date, " : déjà téléchargé")
+      next
+    }
+    
+    films <- allocine_week(date) |> mutate(semaine = date, .before = 1)
+    fwrite(films, file)
+    message("Enregistré : ", file)
+  }
+}
+
+allocine_consolidate <- function(dossier) {
+  fichiers <- list.files(dossier, "^allocine_\\d{4}-\\d{2}-\\d{2}\\.csv$", recursive = TRUE, full.names = TRUE)
+  films <- rbindlist(lapply(fichiers, fread), fill = TRUE)
+  films[, date_sortie := as.IDate(date_sortie, format = "%d %B %Y")]
+  films[, annee := year(date_sortie)]
+  setorder(films, date_sortie)
+  films
+}
+
+allocine_acteurs <- function(films) {
+  acteurs <- films[!is.na(cast), .(acteur = trimws(unlist(strsplit(cast, ",", fixed = TRUE)))), by = .(allocine_id, titre, annee)]
+  unique(acteurs[acteur != ""])
+}
+
+
 
 get_html <- function(url) {
   request(url) |>
@@ -79,21 +114,13 @@ get_html <- function(url) {
 allocine_movie <- function(url) {
   html <- get_html(url)
   
-  id <- url |>
-    str_extract("cfilm=\\d+") |>
-    str_remove("cfilm=") |>
-    as.integer()
+  id <- url |> str_extract("cfilm=\\d+") |> str_remove("cfilm=") |> as.integer()
   
   titre <- get_text(html, ".titlebar-title")
   synopsis <- get_text(html, ".content-txt")
+  texte <- html |> html_element("body") |> html_text2()
   
-  texte <- html |>
-    html_element("body") |>
-    html_text2()
-  
-  date_sortie <- texte |>
-    str_extract("\\d{1,2}\\s+(janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)\\s+\\d{4}")
-  
+  date_sortie <- texte |> str_extract("\\d{1,2}\\s+(janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)\\s+\\d{4}")
   duree <- texte |> str_extract("\\d+h\\s*\\d+min")
   
   realisateur <- extract_match(texte, "\\bDe\\s+([^\\n|]+)")
@@ -101,26 +128,17 @@ allocine_movie <- function(url) {
   cast <- extract_match(texte, "\\bAvec\\s+([^\\n]+)")
   titre_original <- extract_match(texte, "Titre original\\s+([^\\n]+)")
   
-  genres <- html |>
-    html_elements(".meta-body-item.meta-body-info .dark-grey-link") |>
-    html_text2()
+  genres <- html |> html_elements(".meta-body-item.meta-body-info .dark-grey-link") |> html_text2()
+  genres <- if (length(genres)) paste(unique(genres), collapse = ", ") else NA_character_
   
-  genres <- if (length(genres))
-    paste(unique(genres), collapse = ", ")
-  else NA_character_
-  
-  ratings <- html |>
-    html_elements(".rating-item") |>
-    html_text2()
-  
+  ratings <- html |> html_elements(".rating-item") |> html_text2()
   presse <- ratings[str_detect(ratings, regex("Presse", ignore_case = TRUE))]
   spectateurs <- ratings[str_detect(ratings, regex("Spectateurs", ignore_case = TRUE))]
   
   note_presse <- if (length(presse)) parse_note(presse[1]) else NA_real_
   note_spectateurs <- if (length(spectateurs)) parse_note(spectateurs[1]) else NA_real_
   
-  get_info <- function(label)
-    extract_match(texte, paste0(label, "\\s+([^\\n]+)"))
+  get_info <- function(label) extract_match(texte, paste0(label, "\\s+([^\\n]+)"))
   
   nationalite <- get_info("Nationalités?")
   distributeur <- get_info("Distributeur")
@@ -135,28 +153,10 @@ allocine_movie <- function(url) {
   message("Titre : ", titre)
   
   tibble(
-    allocine_id = id,
-    titre,
-    titre_original,
-    date_sortie,
-    duree,
-    genres,
-    realisateur,
-    scenaristes,
-    cast,
-    synopsis,
-    nationalite,
-    annee_production,
-    distributeur,
-    type_film,
-    langues,
-    budget,
-    boxoffice_france,
-    couleur,
-    visa,
-    note_presse,
-    note_spectateurs,
-    url
+    allocine_id = id, titre, titre_original, date_sortie, duree, genres,
+    realisateur, scenaristes, cast, synopsis, nationalite, annee_production,
+    distributeur, type_film, langues, budget, boxoffice_france, couleur, visa,
+    note_presse, note_spectateurs, url
   )
 }
 
@@ -164,12 +164,8 @@ allocine_movie <- function(url) {
 # ALLOCINE - SORTIES HEBDOMADAIRES ---------------------------------------
 
 get_movie_links <- function(html) {
-  links <- html |>
-    html_elements("a") |>
-    html_attr("href")
-  
+  links <- html |> html_elements("a") |> html_attr("href")
   links <- links[str_detect(links, "^/film/fichefilm_gen_cfilm=\\d+\\.html")]
-  
   paste0(BASE_URL, unique(links))
 }
 
@@ -196,10 +192,7 @@ allocine_week <- function(date = Sys.Date()) {
 
 tmdb_get <- function(path, ...) {
   request(paste0(TMDB_URL, path)) |>
-    req_headers(
-      Authorization = paste("Bearer", TMDB_TOKEN),
-      Accept = "application/json"
-    ) |>
+    req_headers(Authorization = paste("Bearer", TMDB_TOKEN), Accept = "application/json") |>
     req_url_query(...) |>
     req_retry(max_tries = 3) |>
     req_perform() |>
@@ -208,10 +201,7 @@ tmdb_get <- function(path, ...) {
 
 tmdb_get_vector <- function(path, ...) {
   request(paste0(TMDB_URL, path)) |>
-    req_headers(
-      Authorization = paste("Bearer", TMDB_TOKEN),
-      Accept = "application/json"
-    ) |>
+    req_headers(Authorization = paste("Bearer", TMDB_TOKEN), Accept = "application/json") |>
     req_url_query(...) |>
     req_retry(max_tries = 3) |>
     req_perform() |>
@@ -223,35 +213,20 @@ tmdb_get_vector <- function(path, ...) {
 
 tmdb_search_raw <- function(titre, annee = NA) {
   req <- request(paste0(TMDB_URL, "/search/movie")) |>
-    req_headers(
-      Authorization = paste("Bearer", TMDB_TOKEN),
-      Accept = "application/json"
-    ) |>
-    req_url_query(
-      query = titre,
-      language = "fr-FR",
-      include_adult = "false"
-    )
+    req_headers(Authorization = paste("Bearer", TMDB_TOKEN), Accept = "application/json") |>
+    req_url_query(query = titre, language = "fr-FR", include_adult = "false")
   
-  if (!is.na(annee))
-    req <- req |> req_url_query(year = annee)
+  if (!is.na(annee)) req <- req |> req_url_query(year = annee)
   
-  req |>
-    req_retry(max_tries = 3) |>
-    req_perform() |>
-    resp_body_json(simplifyVector = TRUE)
+  req |> req_retry(max_tries = 3) |> req_perform() |> resp_body_json(simplifyVector = TRUE)
 }
 
 tmdb_candidates <- function(titre, annee = NA) {
   x <- tmdb_search_raw(titre, annee)
-  
-  if (is.null(x$results) || !NROW(x$results))
-    return(data.table())
+  if (is.null(x$results) || !NROW(x$results)) return(data.table())
   
   r <- as.data.table(x$results)
-  
-  if (!"release_date" %in% names(r))
-    r[, release_date := NA_character_]
+  if (!"release_date" %in% names(r)) r[, release_date := NA_character_]
   
   r[, tmdb_annee := suppressWarnings(as.integer(substr(release_date, 1, 4)))]
   
@@ -268,10 +243,7 @@ tmdb_candidates <- function(titre, annee = NA) {
 
 tmdb_imdb_id <- function(tmdb_id) {
   x <- tmdb_get_vector(paste0("/movie/", tmdb_id, "/external_ids"))
-  
-  if (is.null(x$imdb_id) || !length(x$imdb_id))
-    return(NA_character_)
-  
+  if (is.null(x$imdb_id) || !length(x$imdb_id)) return(NA_character_)
   x$imdb_id
 }
 
@@ -288,17 +260,15 @@ tmdb_match <- function(titre, titre_original = NA, annee = NA) {
     r
   }), fill = TRUE)
   
-  if (!nrow(candidats)) {
-    return(data.table(
-      tmdb_id = NA_integer_,
-      imdb_id = NA_character_,
-      tmdb_titre = NA_character_,
-      tmdb_titre_original = NA_character_,
-      tmdb_annee = NA_integer_,
-      match_score = NA_real_,
-      match_type = "aucun"
-    ))
-  }
+  if (!nrow(candidats)) return(data.table(
+    tmdb_id = NA_integer_,
+    imdb_id = NA_character_,
+    tmdb_titre = NA_character_,
+    tmdb_titre_original = NA_character_,
+    tmdb_annee = NA_integer_,
+    match_score = NA_real_,
+    match_type = "aucun"
+  ))
   
   ntitre <- normalize_title(titre)
   
@@ -355,20 +325,12 @@ tmdb_match <- function(titre, titre_original = NA, annee = NA) {
 
 # TMDB - CACHE MATCHING ---------------------------------------------------
 
-tmdb_match_all <- function(films, cache_file = "data/tmdb_ids.csv") {
-  todo <- unique(films[, .(
-    allocine_id,
-    titre,
-    titre_original,
-    annee
-  )])
-  
+tmdb_match_all <- function(films, cache_file = "data/tmdb_ids.csv", save_every = 250) {
+  todo <- unique(films[, .(allocine_id, titre, titre_original, annee)])
   todo <- todo[!is.na(allocine_id) & !is.na(titre) & titre != ""]
   
   if (file.exists(cache_file)) {
     cache <- fread(cache_file)
-    
-    # Les erreurs sont retentées
     cache <- cache[match_type != "erreur"]
     todo <- todo[!allocine_id %in% cache$allocine_id]
   } else cache <- data.table()
@@ -377,12 +339,21 @@ tmdb_match_all <- function(films, cache_file = "data/tmdb_ids.csv") {
   
   if (!nrow(todo)) return(cache)
   
+  buffer <- vector("list", save_every)
+  n_buffer <- 0
+  
+  save_cache <- function() {
+    if (!n_buffer) return()
+    nouvelles <- rbindlist(buffer[seq_len(n_buffer)], fill = TRUE)
+    existe <- file.exists(cache_file)
+    fwrite(nouvelles, cache_file, append = existe, col.names = !existe)
+  }
+  
   for (i in seq_len(nrow(todo))) {
     x <- todo[i]
     
     message(
-      i, "/", nrow(todo),
-      " - ", x$titre,
+      i, "/", nrow(todo), " - ", x$titre,
       if (!is.na(x$annee)) paste0(" (", x$annee, ")") else ""
     )
     
@@ -413,11 +384,19 @@ tmdb_match_all <- function(films, cache_file = "data/tmdb_ids.csv") {
       r
     )
     
-    cache <- rbindlist(list(cache, ligne), fill = TRUE)
-    fwrite(cache, cache_file)
+    n_buffer <- n_buffer + 1
+    buffer[[n_buffer]] <- ligne
+    
+    if (n_buffer >= save_every) {
+      save_cache()
+      message("Cache enregistré : ", i, "/", nrow(todo))
+      buffer <- vector("list", save_every)
+      n_buffer <- 0
+    }
   }
   
-  cache
+  save_cache()
+  fread(cache_file)
 }
 
 
@@ -434,7 +413,7 @@ tmdb_movie <- function(tmdb_id) {
 parse_movie <- function(x) {
   data.table(
     tmdb_id = x$id,
-    imdb_id = x$imdb_id %||% NA_character_,
+    imdb_id = x$imdb_id %||% x$external_ids$imdb_id %||% NA_character_,
     titre = x$title %||% NA_character_,
     titre_original = x$original_title %||% NA_character_,
     langue_originale = x$original_language %||% NA_character_,
@@ -524,4 +503,81 @@ parse_person <- function(x) {
     profile_path = x$profile_path %||% NA_character_,
     homepage = x$homepage %||% NA_character_
   )
+}
+
+# TMDB - DETAILS CACHE ----------------------------------------------------
+
+tmdb_download_details <- function(ids, fichier_films, fichier_cast, fichier_crew, save_every = 100) {
+  films <- fread_if_exists(fichier_films)
+  ids_faits <- if (nrow(films)) unique(films$tmdb_id) else integer()
+  ids <- setdiff(ids, ids_faits)
+  
+  message("\n", length(ids), " films TMDb à télécharger")
+  
+  if (!length(ids)) return(invisible(NULL))
+  
+  buffer_films <- vector("list", save_every)
+  buffer_cast <- vector("list", save_every)
+  buffer_crew <- vector("list", save_every)
+  n_buffer <- 0
+  
+  save_cache <- function() {
+    if (!n_buffer) return()
+    
+    films_new <- rbindlist(buffer_films[seq_len(n_buffer)], fill = TRUE)
+    cast_new <- rbindlist(buffer_cast[seq_len(n_buffer)], fill = TRUE)
+    crew_new <- rbindlist(buffer_crew[seq_len(n_buffer)], fill = TRUE)
+    
+    existe <- file.exists(fichier_films)
+    fwrite(films_new, fichier_films, append = existe, col.names = !existe)
+    
+    if (nrow(cast_new)) {
+      existe <- file.exists(fichier_cast)
+      fwrite(cast_new, fichier_cast, append = existe, col.names = !existe)
+    }
+    
+    if (nrow(crew_new)) {
+      existe <- file.exists(fichier_crew)
+      fwrite(crew_new, fichier_crew, append = existe, col.names = !existe)
+    }
+  }
+  
+  for (i in seq_along(ids)) {
+    id <- ids[i]
+    message(i, "/", length(ids), " - TMDB : ", id)
+    
+    x <- tryCatch(tmdb_movie(id), error = function(e) {
+      message("ERREUR : ", e$message)
+      NULL
+    })
+    
+    if (is.null(x)) next
+    
+    n_buffer <- n_buffer + 1
+    buffer_films[[n_buffer]] <- parse_movie(x)
+    buffer_cast[[n_buffer]] <- parse_cast(x)
+    buffer_crew[[n_buffer]] <- parse_crew(x)
+    
+    if (n_buffer >= save_every) {
+      save_cache()
+      message("Cache TMDb enregistré : ", i, "/", length(ids))
+      
+      buffer_films <- vector("list", save_every)
+      buffer_cast <- vector("list", save_every)
+      buffer_crew <- vector("list", save_every)
+      n_buffer <- 0
+    }
+  }
+  
+  save_cache()
+}
+
+
+# CACHE - NETTOYAGE -------------------------------------------------------
+
+clean_cache <- function(file, fill = FALSE) {
+  if (!file.exists(file)) return(data.table())
+  x <- unique(fread(file, fill = fill))
+  fwrite(x, file)
+  x
 }

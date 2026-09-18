@@ -10,3 +10,8 @@ X <- merge(films[, .(NbFilms=.N), annee], tmdb_ids[, .(NbTMDB=.N), annee], by="a
 X
 
 tmdb_ids[, .N, match_type]
+
+
+
+
+films_tmdb[, .(tmdb_id, poster, backdrop)]
