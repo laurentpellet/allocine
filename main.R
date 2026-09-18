@@ -1,6 +1,6 @@
 source("src/functions.R")
 
-DATE_DEBUT <- as.Date("2023-04-01")
+DATE_DEBUT <- as.Date("1970-01-01")
 DATE_FIN <- as.Date("2026-09-16")
 dir.create(DOSSIER_ALLOCINE, recursive = TRUE, showWarnings = FALSE)
 dir.create(DOSSIER_TMDB, recursive = TRUE, showWarnings = FALSE)

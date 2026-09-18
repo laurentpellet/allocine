@@ -3,3 +3,9 @@
 .RData
 .Ruserdata
 .Renviron
+
+# Astro website
+web/node_modules
+web/dist
+web/.astro
+web/public/img
